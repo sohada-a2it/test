@@ -74,7 +74,11 @@ export default function Navbar() {
   };
   const categories = [
     { name: "Baby Carriers", href: "/category/baby-carrier-page/baby-carriers-home" },
+<<<<<<< HEAD
     { name: "Baby Monitors", href: "/category/baby-monitor-page/baby-monitor-home" },
+=======
+    { name: "Baby Monitors", href: "/category/babyMonitorPage/baby-monitor-page" },
+>>>>>>> 86112fbf962c9b173e685d89dcf1240130251d81
     { name: "Baby Swings", href: "/category/babySwingsPage/baby-swing-page" },
     { name: "Bassinets", href: "/category/bassinetPage/bassinets-home" },
     { name: "Car Seats", href: "/category/car-seat-page/car-seat-home" },
