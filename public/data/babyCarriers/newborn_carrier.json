@@ -1,0 +1,593 @@
+[
+     {
+    "id":"Best Newborn Carrier",
+    "rank": 1,
+    "title": "GROWNSY Baby Carrier Newborn to Toddler, Cozy Baby Wraps Carrier, Ergonomic Baby...",
+    "brand": "GROWNSY",
+    "rating": 10.0,
+    "price": "$59.99",
+    "amazon_link": "YOUR_AFFILIATE_LINK",
+    "monthly_purchases": "500+",
+    "images": [
+      "/images/Newbo1.2.jpg",
+      "/images/Newbo1.1.jpg",
+      "/images/Newbo1.3.jpg",
+      "/images/Newbo1.4.jpg",
+      "/images/Newbo1.5.jpg"
+    ],
+    "features": [
+      {
+        "label": "Strap Type",
+        "value": "Shoulder Strap"
+      },
+      {
+        "label": "Material",
+        "value": "Cotton, Polyester"
+      },
+      {
+        "label": "Product Care",
+        "value": "Machine Wash"
+      },
+      {
+        "label": "Hip Healthy",
+        "value": "Yes"
+      },
+      {
+        "label": "Closure Type",
+        "value": "Buckle"
+      }
+    ],
+    "available_colors": 6,
+    "size": false,
+    "available_size": 2,
+    "style": false,
+    "available_style": 2,
+    "badge": false,
+    "badges": [
+      "Best Newborn Carrier"
+    ],
+    "value": false,
+    "values": [
+      "Best Value"
+    ],
+    "review": false,
+    "reviews": ["view"],
+    "discount": false,
+    "discounts": "nan", 
+    "checkPriceLink": "https://www.amazon.com/dp/B0DHKGML6C?tag=bestbabygears-20"
+  },
+   {
+    "id":"Best Newborn Carrier2",
+    "rank": 2,
+    "title": "Momcozy Baby Carrier - Ergonomic, Cozy and Lightweight Carrier for 7-44lbs, Effortless to P...",
+    "brand": "MOMCOZY",
+    "rating": 9.9,
+    "price": "$64.99",
+    "amazon_link": "YOUR_AFFILIATE_LINK",
+    "monthly_purchases": "500+",
+    "images": [
+      "/images/Newbo2.1.jpg",
+      "/images/Newbo2.2.jpg",
+      "/images/Newbo2.3.jpg",
+      "/images/Newbo2.4.jpg",
+      "/images/Newbo2.5.jpg"
+    ],
+    "features": [
+      {
+        "label": "Material",
+        "value": "Cotton"
+      },
+      {
+        "label": "Strap Type",
+        "value": "Cross"
+      },
+      {
+        "label": "Product Care Instructions",
+        "value": "Machine Wash"
+      },
+      {
+        "label": "Hip Healthy",
+        "value": "Yes"
+      },
+      {
+        "label": "Structure",
+        "value": "Cross Straps"
+      }
+    ],
+    "available_colors": 11,
+    "size": false,
+    "available_size": 2,
+    "style": false,
+    "available_style": 5,
+    "badge": false,
+    "badges": [
+      "nan"
+    ],
+    "value": false,
+    "values": [
+      "Best Value"
+    ],
+    "review": false,
+    "reviews": [
+      "nan"
+    ],
+    "discount": false,
+    "discounts": "Save 7% + 10% Coupon", 
+    "checkPriceLink": "https://www.amazon.com/dp/B0CLGCN5ZS?tag=bestbabygears-20"
+  },
+   {
+    "id":"Best Newborn Carrier3",
+    "rank": 3,
+    "title": "Momcozy Baby Carrier - Ergonomic, Cozy and Lightweight Carrier for 7-44lbs, Effortless to P...",
+    "brand": "MOMCOZY",
+    "rating": 9.7,
+    "price": "$64.99",
+    "amazon_link": "YOUR_AFFILIATE_LINK",
+    "monthly_purchases": "500+",
+    "images": [
+      "/images/Newbo3.1.jpg",
+      "/images/Newbo3.2.jpg",
+      "/images/Newbo3.3.jpg",
+      "/images/Newbo3.4.jpg",
+      "/images/Newbo3.5.jpg"
+    ],
+    "features": [
+      {
+        "label": "Material",
+        "value": "Cotton"
+      },
+      {
+        "label": "Strap Type",
+        "value": "Cross"
+      },
+      {
+        "label": "Product Care Instructions",
+        "value": "Machine Wash"
+      },
+      {
+        "label": "Hip Healthy",
+        "value": "Yes"
+      },
+      {
+        "label": "Structure",
+        "value": "Cross Straps"
+      }
+    ],
+    "available_colors": 12,
+    "size": false,
+    "available_size": 2,
+    "style": false,
+    "available_style": 5,
+    "badge": false,
+    "badges": [
+      "nan"
+    ],
+    "value": false,
+    "values": [
+      "Best Value"
+    ],
+    "review": false,
+    "reviews": [
+      "nan"
+    ],
+    "discount": false,
+    "discounts": "Save 8% + 10% Coupon",
+    "compareLink": "https://www.example.com/compare-baby-carrier",
+    "checkPriceLink": "https://www.amazon.com/dp/B0CDQ2KVJD?tag=bestbabygears-20"
+  },
+   {
+    "id":"Best Newborn Carrier4",
+    "rank": 4,
+    "title": "Momcozy Newborn Carrier WeeSnug- Lightweight and Cozy Comfort for 7-25 lbs,...",
+    "brand": "MOMCOZY",
+    "rating": 9.6,
+    "price": "$59.99",
+    "amazon_link": "YOUR_AFFILIATE_LINK",
+    "monthly_purchases": "nan",
+    "images": [
+      "/images/Newbo4.1.jpg",
+      "/images/Newbo4.2.jpg",
+      "/images/Newbo4.3.jpg",
+      "/images/Newbo4.4.jpg",
+      "/images/Newbo4.5.jpg"
+    ],
+    "features": [
+      {
+        "label": "Material",
+        "value": "Cotton"
+      },
+      {
+        "label": "Strap Type",
+        "value": "Cross"
+      },
+      {
+        "label": "Product Care Instructions",
+        "value": "Machine Wash"
+      },
+      {
+        "label": "Hip Healthy",
+        "value": "Yes"
+      },
+      {
+        "label": "Structure",
+        "value": "Visual Adjustment Scale"
+      }
+    ],
+    "available_colors": 3,
+    "size": false,
+    "available_size": 4,
+    "style": false,
+    "available_style": 5,
+    "badge": false,
+    "badges": [
+      "nan"
+    ],
+    "value": false,
+    "values": [
+      "Best Value"
+    ],
+    "review": false,
+    "reviews": [
+      "nan"
+    ],
+    "discount": true,
+    "discounts": "10% Coupon", 
+    "checkPriceLink": "https://www.amazon.com/dp/B0F5WWBSGX?tag=bestbabygears-20"
+  },
+    {
+    "id":"Best Newborn Carrier5",
+    "rank": 5,
+    "title": "Momcozy Baby Wrap Carrier, Easy to Wear Infant Carrier Slings,Lighweight Hands Free... ",
+    "brand": "MOMCOZY",
+    "rating": 9.5,
+    "price": "$32.99",
+    "amazon_link": "YOUR_AFFILIATE_LINK",
+    "monthly_purchases": "nan",
+    "images": [
+      "/images/Newbo5.1.jpg",
+      "/images/Newbo5.2.jpg",
+      "/images/Newbo5.3.jpg",
+      "/images/Newbo5.4.jpg",
+      "/images/Newbo5.5.jpg"
+    ],
+    "features": [
+      {
+        "label": "Material",
+        "value": "95% Polyester, 5% Spandex"
+      },
+      {
+        "label": "Strap Type",
+        "value": "Cross"
+      },
+      {
+        "label": "Product Care Instructions",
+        "value": "Machine Wash"
+      },
+      {
+        "label": "Hip Healthy",
+        "value": "Yes"
+      },
+      {
+        "label": "Structure",
+        "value": "Metal Ring"
+      }
+    ],
+    "available_colors": 13,
+    "size": false,
+    "available_size": 3,
+    "style": false,
+    "available_style": 5,
+    "badge": false,
+    "badges": [
+      "nan"
+    ],
+    "value": false,
+    "values": [
+      "Best Value"
+    ],
+    "review": false,
+    "reviews": [
+      "nan"
+    ],
+    "discount": false,
+    "discounts": "nan",
+    "compareLink": "https://www.example.com/compare-baby-carrier",
+    "checkPriceLink": "https://www.amazon.com/dp/B0BZC1VKKQ?tag=bestbabygears-20"
+  },
+   {
+    "id":"Best Newborn Carrier6",
+    "rank": 6,
+    "title": "Baby Carrier Newborn to Toddler(7-30lbs), Toddler Carrier Baby holder carrier wi...",
+    "brand": "SHIAON",
+    "rating": 9.3,
+    "price": "$25.99",
+    "amazon_link": "YOUR_AFFILIATE_LINK",
+    "monthly_purchases": "nan",
+    "images": [
+      "/images/Newbo6.1.jpg",
+      "/images/Newbo6.2.jpg",
+      "/images/Newbo6.3.jpg",
+      "/images/Newbo6.4.jpg",
+      "/images/Newbo6.5.jpg"
+    ],
+    "features": [
+      {
+        "label": "Material",
+        "value": "Cotton Blend"
+      },
+      {
+        "label": "Strap Type",
+        "value": "Adjustable Strap"
+      },
+      {
+        "label": "Product Care Instructions",
+        "value": "Machine Wash"
+      },
+      {
+        "label": "Hip Healthy",
+        "value": "Yes"
+      },
+      {
+        "label": "Item Weight",
+        "value": "14 ounces"
+      }
+    ],
+    "available_colors": 4,
+    "size": false,
+    "available_size": 4,
+    "style": false,
+    "available_style": 2,
+    "badge": false,
+    "badges": [
+      "nan"
+    ],
+    "value": true,
+    "values": [
+      "Best Value"
+    ],
+    "review": false,
+    "reviews": [
+      "nan"
+    ],
+    "discount": false,
+    "discounts": "Save 13%", 
+    "checkPriceLink":"https://www.amazon.com/dp/B0773Y363J?tag=bestbabygears-20"
+  },
+    {
+    "id":"Best Newborn Carrier7",
+    "rank": 7,
+    "title": "Boba Baby Wrap Carrier – Original Baby Sling Carrier for Newborns 7–35 lbs), Soft, Secure,... ",
+    "brand": "BOBA",
+    "rating": 9.2,
+    "price": "$39.98",
+    "amazon_link": "YOUR_AFFILIATE_LINK",
+    "monthly_purchases": "nan",
+    "images": [
+      "/images/Newbo7.1.jpg",
+      "/images/Newbo7.2.jpg",
+      "/images/Newbo7.3.jpg",
+      "/images/Newbo7.4.jpg",
+      "/images/Newbo7.5.jpg"
+    ],
+    "features": [
+      {
+        "label": "Material",
+        "value": "French Terry"
+      },
+      {
+        "label": "Strap Type",
+        "value": "Wrap"
+      },
+      {
+        "label": "Product Care Instructions",
+        "value": "Wash and dry as needed"
+      },
+      {
+        "label": "Target gender",
+        "value": "Female"
+      },
+      {
+        "label": "Item Weight",
+        "value": "1.5 pounds"
+      }
+    ],
+    "available_colors": 17,
+    "size": false,
+    "available_size": 2,
+    "style": true,
+    "available_style": 2,
+    "badge": false,
+    "badges": [
+      "nan"
+    ],
+    "value": false,
+    "values": [
+      "Best Value"
+    ],
+    "review": false,
+    "reviews": [
+      "nan"
+    ],
+    "discount": true,
+    "discounts": "Save 11%", 
+    "checkPriceLink": "https://www.amazon.com/dp/B005SP2LWW?tag=bestbabygears-20"
+  },
+    {
+    "id":"Best Newborn Carrier8",
+    "rank": 8,
+    "title": "Baby Carrier Newborn to Toddler(Houndstooth) ",
+    "brand": "·NEST BLANCHE·",
+    "rating": 9.1,
+    "price": "$85.49",
+    "amazon_link": "YOUR_AFFILIATE_LINK",
+    "monthly_purchases": "nan",
+    "images": [
+      "/images/Newbo8.1.jpg",
+      "/images/Newbo8.2.jpg",
+      "/images/Newbo8.3.jpg",
+      "/images/Newbo8.4.jpg",
+      "/images/Newbo8.5.jpg"
+    ],
+    "features": [
+      {
+        "label": "Material",
+        "value": "Cotton-Linen"
+      },
+      {
+        "label": "Strap Type",
+        "value": "Adjustable Strap"
+      },
+      {
+        "label": "Product Care Instructions",
+        "value": "Machine Wash"
+      },
+      {
+        "label": "Material Composition",
+        "value": "90% Cotton, 10% Linen"
+      },
+      {
+        "label": "Item Weight",
+        "value": "1.27 pounds"
+      }
+    ],
+    "available_colors": 4,
+    "size": false,
+    "available_size": 5,
+    "style": false,
+    "available_style": 2,
+    "badge": false,
+    "badges": [
+      "nan"
+    ],
+    "value": false,
+    "values": [
+      "Best Value"
+    ],
+    "review": false,
+    "reviews": [
+      "nan"
+    ],
+    "discount": true,
+    "discounts": "Save 5%",
+    "compareLink": "https://www.example.com/compare-baby-carrier",
+    "checkPriceLink": "https://www.amazon.com/dp/B0DT4D8C8J?tag=bestbabygears-20"
+  },
+    {
+    "id":"Best Newborn Carrier9",
+    "rank": 9,
+    "title": "KeaBabies Baby Wrap Carrier - All in 1 Original Baby Carrier Newborn To Toddler Sling,Easy t... ",
+    "brand": "KEABABIES",
+    "rating": 8.9,
+    "price": "$27.96",
+    "amazon_link": "YOUR_AFFILIATE_LINK",
+    "monthly_purchases": "nan",
+    "images": [
+      "/images/Newbo9.1.jpg",
+      "/images/Newbo9.2.jpg",
+      "/images/Newbo9.3.jpg",
+      "/images/Newbo9.4.jpg",
+      "/images/Newbo9.5.jpg"
+    ],
+    "features": [
+      {
+        "label": "Material",
+        "value": "Proprietary Fabric Tech"
+      },
+      {
+        "label": "Strap Type",
+        "value": "Tie"
+      },
+      {
+        "label": "Product Care Instructions",
+        "value": "Washing Care: Machine Wash Cold"
+      },
+      {
+        "label": "Material Composition",
+        "value": "Proprietary Fabric Tech"
+      },
+      {
+        "label": "Item Weight",
+        "value": "1.1 pounds"
+      }
+    ],
+    "available_colors": 26,
+    "size": false,
+    "available_size": 3,
+    "style": false,
+    "available_style": 5,
+    "badge": true,
+    "badges": [
+      "Populer"
+    ],
+    "value": false,
+    "values": [
+      "Best Value"
+    ],
+    "review": false,
+    "reviews": [
+      "nan"
+    ],
+    "discount": false,
+    "discounts": "nan", 
+    "checkPriceLink": "https://www.amazon.com/dp/B076KQHGC9?tag=bestbabygears-20"
+  },
+   {
+    "id":"Best Newborn Carrier10",
+    "rank": 10,
+    "title": "Infantino Flip 4-in-1 Convertible Baby Carrier, Adjustable,Ergonomic Babywearing,Registry",
+    "brand": "INFANTINO",
+    "rating": 8.8,
+    "price": "$29.99",
+    "amazon_link": "YOUR_AFFILIATE_LINK",
+    "monthly_purchases": "nan",
+    "images": [
+      "/images/Newbo10.1.jpg",
+      "/images/Newbo10.2.jpg",
+      "/images/Newbo10.3.jpg",
+      "/images/Newbo10.4.jpg",
+      "/images/Newbo10.5.jpg"
+    ],
+    "features": [
+      {
+        "label": "Material",
+        "value": "80% Polyester, 20% Cotton"
+      },
+      {
+        "label": "Strap Type",
+        "value": "Adjustable Strap"
+      },
+      {
+        "label": "Product Care Instructions",
+        "value": "Machine Wash"
+      },
+      {
+        "label": "Style",
+        "value": "Flip 4-in-1 Carrier"
+      },
+      {
+        "label": "Item Weight",
+        "value": "1.01 pounds"
+      }
+    ],
+    "available_colors": 10,
+    "size": false,
+    "available_size": 5,
+    "style": false,
+    "available_style": 8,
+    "badge": false,
+    "badges": [
+      "nan"
+    ],
+    "value": false,
+    "values": [
+      "Best Value"
+    ],
+    "review": false,
+    "reviews": [
+      "nan"
+    ],
+    "discount": true,
+    "discounts": "Save 25%", 
+    "checkPriceLink": "https://www.amazon.com/dp/B07XMN3SK6?tag=bestbabygears-20"
+  }
+]

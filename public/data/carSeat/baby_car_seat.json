@@ -1,0 +1,525 @@
+[
+  {
+  "id": "Best Baby Car Seat",
+  "rank": 1,
+  "title": "Graco Modes Pramette Travel System, 3-in1 Modular Carseat Stroller Combo, Infant Car Seat Carrier to Toddler Stroller, Includes the SnugRide 35 Car Seat, Ellington",
+  "brand": "Graco",
+  "rating": 4.7,
+  "price": "$389.99",
+  "amazon_link": "YOUR_AFFILIATE_LINK",
+  "monthly_purchases": "2K+",
+         "images": [
+    "/images/Baby car seats1.1.jpg",
+    "/images/Baby car seats1.2.jpg",
+    "/images/Baby car seats1.3.jpg",
+    "/images/Baby car seats1.4.jpg",
+    "/images/Baby car seats1.5.jpg"
+    ],
+  "features": [
+    {
+      "label": "Material",
+      "value": "Polyester"
+    },
+    {
+      "label": "Frame Material",
+      "value": "Aluminum"
+    },
+    {
+      "label": "Wheel Diameter",
+      "value": "7.5 Inches"
+    },
+    {
+      "label": "Stroller Type",
+      "value": "Standard Stroller"
+    },
+    {
+      "label": "Harness Type",
+      "value": "3 Point"
+    }
+  ],
+  "available_colors": 7,
+  "size": false,
+  "available_size": 0,
+  "badge": true,
+  "badges": ["Amazon's Choice"],
+  "value": false,
+  "values": [
+    "$389.99"
+  ],
+  "review": false,
+  "reviews": [
+    "4.7 out of 5 stars — 8,727 ratings"
+  ],
+  "discount": true,
+  "discounts": "Save 15%",
+  "checkPriceLink": "https://www.amazon.com/dp/B07Y5VQYFW?tag=bestbabygears-20",
+  "ASIN": "B07Y5VQYFW"
+},
+{
+  "id": "Graco_SlimFit_3-in-1_Darcie",
+  "rank": 2,
+  "title": "Graco SlimFit 3-in-1 Convertible Car Seat, Ultra-Space-Saving Design, Darcie, Suitable for Rear and Forward-Facing, Highback Booster Seat with 10-Position Headrest",
+  "brand": "Graco",
+  "rating": 4.8,
+  "price": "$239.99",
+  "amazon_link": "YOUR_AFFILIATE_LINK",
+  "monthly_purchases": "1K+",
+           "images": [
+    "/images/Baby car seats2.1.jpg",
+    "/images/Baby car seats2.2.jpg",
+    "/images/Baby car seats2.3.jpg",
+    "/images/Baby car seats2.4.jpg",
+    "/images/Baby car seats2.5.jpg"
+    ],
+  "features": [
+    {
+      "label": "Material",
+      "value": "Foam, Alloy Steel"
+    }, 
+    {
+      "label": "Harness Type",
+      "value": "5-Point"
+    }, 
+    {
+      "label": "Item Weight",
+      "value": "19.47 pounds"
+    },
+    {
+      "label": "Recline Positions",
+      "value": "4-position"
+    }, 
+    {
+      "label": "Installation",
+      "value": "InRight LATCH system"
+    } 
+  ],
+  "available_colors": 8,
+  "size": true,
+  "available_size": 2,
+  "badge": true,
+  "badges": ["Amazon's Choice"],
+  "value": false,
+  "values": [
+    "$239.99"
+  ],
+  "review": false,
+  "reviews": [
+    "4.8 out of 5 stars — 33,364 ratings"
+  ],
+  "discount": true,
+  "discounts": "Save 25%",
+   "checkPriceLink": "https://www.amazon.com/dp/B01N3MYVZM?tag=bestbabygears-20",
+  "ASIN": "B01N3MYVZM"
+},
+{
+  "id": "Graco_SlimFit_3-in-1_Jarret",
+  "rank": 3,
+  "title": "Graco Slimfit 3-in-1 Convertible Car Seat, Ultra-Space-Saving Design, Jarret, Suitable for Rear and Forward-Facing, Highback Booster Seat with 10-Position Headrest",
+  "brand": "Graco",
+  "rating": 4.8,
+  "price": "$209.00",
+  "list_price": "$239.99",
+  "amazon_link": "YOUR_AFFILIATE_LINK",
+  "monthly_purchases": "5K+",
+           "images": [
+    "/images/Baby car seats3.1.jpg",
+    "/images/Baby car seats3.2.jpg",
+    "/images/Baby car seats3.3.jpg",
+    "/images/Baby car seats3.4.jpg",
+    "/images/Baby car seats3.5.jpg"
+    ],
+  "features": [
+    {
+      "label": "Material",
+      "value": "Polyester"
+    },
+    {
+      "label": "Orientation",
+      "value": "Forward Facing"
+    },
+    {
+      "label": "Harness Type",
+      "value": "5-Point"
+    }, 
+    {
+      "label": "Item Weight",
+      "value": "19.47 pounds"
+    },
+    {
+      "label": "Recline Positions",
+      "value": "4-position"
+    } 
+  ],
+  "available_colors": 8,
+  "size": true,
+  "available_size": 2,
+  "badge": true,
+  "badges": ["Amazon's Choice"],
+  "value": false,
+  "values": ["$209.00"],
+  "review": true,
+  "reviews": ["4.8 out of 5 stars — 33,364 ratings"],
+  "discount": false,
+  "discount_percentage": 13,
+  "checkPriceLink": "https://www.amazon.com/dp/B0DHM53GZC?tag=bestbabygears-20",
+  "ASIN": "B0DHM53GZC"
+},
+{
+  "id": "Evenflo_Pivot_Modular_CasualGray",
+  "rank": 4,
+  "title": "Evenflo Pivot Modular Travel System with LiteMax Infant Car Seat (Casual Gray)",
+  "brand": "Evenflo",
+  "rating": 4.6,
+  "price": "$308.00",
+  "list_price": "$308.00",
+  "amazon_link": "YOUR_AFFILIATE_LINK",
+  "monthly_purchases": "1K+",
+           "images": [
+    "/images/Baby car seats4.1.jpg",
+    "/images/Baby car seats4.2.jpg",
+    "/images/Baby car seats4.3.jpg",
+    "/images/Baby car seats4.4.jpg",
+    "/images/Baby car seats4.5.jpg"
+    ],
+  "features": [
+    {
+      "label": "Material",
+      "value": "Polyester"
+    },
+    {
+      "label": "Frame Material",
+      "value": "Metal"
+    },
+    {
+      "label": "Harness Type",
+      "value": "5 Point"
+    },
+    {
+      "label": "Stroller Type",
+      "value": "Modular Stroller"
+    },
+    {
+      "label": "Seating Capacity",
+      "value": "1"
+    }  
+  ],
+  "available_colors": 5,
+  "size": true,
+  "available_size": 1,
+  "badge": true,
+  "badges": ["#1 Best Seller"],
+  "value": false,
+  "values": ["$308.00"],
+  "review": false,
+  "reviews": ["4.6 out of 5 stars — 10,727 ratings"],
+  "discount": false,
+  "checkPriceLink": "https://www.amazon.com/dp/B0DTY92R4J?tag=bestbabygears-20",
+  "ASIN": "B0DTY92R4J"
+},
+{
+  "id": "Safety1st_GrowAndGo_AlaskanBlue",
+  "rank": 5,
+  "title": "Safety 1st Grow and Go All-in-One Slim Convertible Car Seat, Alaskan Blue",
+  "brand": "Safety 1st",
+  "rating": 4.7,
+  "price": "$159.99",
+  "list_price": "$159.99",
+  "amazon_link": "YOUR_AFFILIATE_LINK",
+  "monthly_purchases": "2K+",
+           "images": [
+    "/images/Baby car seats5.1.jpg",
+    "/images/Baby car seats5.2.jpg",
+    "/images/Baby car seats5.3.jpg",
+    "/images/Baby car seats5.4.jpg",
+    "/images/Baby car seats5.5.jpg"
+    ],
+  "features": [
+    {
+      "label": "Material",
+      "value": "Polyester"
+    },
+    {
+      "label": "Installation Type",
+      "value": "Latch, Seatbelt"
+    },
+    {
+      "label": "Orientation",
+      "value": "Front Facing, Rear Facing"
+    },
+    {
+      "label": "Harness Type",
+      "value": "5-Point"
+    }, 
+    {
+      "label": "Item Weight",
+      "value": "13.2 Pounds"
+    } 
+  ],
+  "available_colors": 7,
+  "size": true,
+  "available_size": 1,
+  "badge": true,
+  "badges": ["#1 Best Seller"],
+  "value": false,
+  "values": ["$159.99"],
+  "review": false,
+  "reviews": ["4.7 out of 5 stars — 35,049 ratings"],
+  "discount": false,
+  "checkPriceLink": "https://www.amazon.com/dp/B0FH7MQ9BJ?tag=bestbabygears-20",
+  "ASIN": "B0FH7MQ9BJ"
+},
+{
+  "id": "Graco_4EverDLX_Maven",
+  "rank": 6,
+  "title": "Graco 4Ever DLX 4-in-1 Car Seat | Maven",
+  "brand": "Graco",
+  "rating": 4.8,
+  "price": "$263.99",
+  "list_price": "$329.99",
+  "amazon_link": "YOUR_AFFILIATE_LINK",
+  "monthly_purchases": "1K+",
+          "images": [
+    "/images/Baby car seats6.1.jpg",
+    "/images/Baby car seats6.2.jpg",
+    "/images/Baby car seats6.3.jpg",
+    "/images/Baby car seats6.4.jpg",
+    "/images/Baby car seats6.5.jpg"
+    ],
+  "features": [
+    {
+      "label": "Material",
+      "value": "Polyester"
+    },
+    {
+      "label": "Installation Type",
+      "value": "Latch"
+    },
+    {
+      "label": "Orientation",
+      "value": "Forward Facing"
+    },
+    {
+      "label": "Harness Type",
+      "value": "5-Point"
+    }, 
+    {
+      "label": "Item Weight",
+      "value": "27.6 Pounds"
+    } 
+  ],
+  "available_colors": 8,
+  "size": true,
+  "available_size": 2,
+  "badge": true,
+  "badges": ["Amazon's Choice"],
+  "value": false,
+  "values": ["$263.99"],
+  "review": false,
+  "reviews": ["4.8 out of 5 stars — 11,085 ratings"],
+  "discount": true,
+  "discounts": "Save 20%",
+  "checkPriceLink": "https://www.amazon.com/dp/B0DHLSJM7Q?tag=bestbabygears-20",
+  "ASIN": "B0DHLSJM7Q"
+},
+{
+  "id": "BabyTrend_EZLiftPLUS_UltraGrey",
+  "rank": 7,
+  "title": "Baby Trend EZ-Lift PLUS Infant Car Seat, Ultra Grey",
+  "brand": "Baby Trend",
+  "rating": 4.6,
+  "price": "$109.99",
+  "amazon_link": "YOUR_AFFILIATE_LINK",
+  "monthly_purchases": "400+",
+           "images": [
+    "/images/Baby car seats7.1.jpg",
+    "/images/Baby car seats7.2.jpg",
+    "/images/Baby car seats7.3.jpg",
+    "/images/Baby car seats7.4.jpg",
+    "/images/Baby car seats7.5.jpg"
+    ],
+  "features": [
+    {
+      "label": "Material",
+      "value": "Metal, Plastic, Polyester"
+    },
+    {
+      "label": "Installation Type",
+      "value": "Latch"
+    },
+    {
+      "label": "Orientation",
+      "value": "Forward Facing"
+    }, 
+    {
+      "label": "Item Weight",
+      "value": "7.75 Pounds"
+    },
+    {
+      "label": "Item Dimensions",
+      "value": "3.94 x 3.94 x 3.94 inches"
+    } 
+  ],
+  "available_colors": 3,
+  "size": false,
+  "badge": true,
+  "badges": ["Amazon's Choice"],
+  "value": false,
+  "values": ["$109.99"],
+  "review": false,
+  "reviews": ["4.6 out of 5 stars — 1,509 ratings"],
+  "discount": false,
+  "checkPriceLink": "https://www.amazon.com/dp/B0B6LRBX5D?tag=bestbabygears-20",
+  "ASIN": "B0B6LRBX5D"
+},
+{
+  "id": "Graco_SnugRide_LiteLX_Studio",
+  "rank": 8,
+  "title": "Graco SnugRide Lite LX Infant Car Seat, Studio",
+  "brand": "Graco",
+  "rating": 4.8,
+  "price": "$149.99",
+  "amazon_link": "YOUR_AFFILIATE_LINK",
+  "monthly_purchases": "4K+",
+           "images": [
+    "/images/Baby car seats8.1.jpg",
+    "/images/Baby car seats8.2.jpg",
+    "/images/Baby car seats8.3.jpg",
+    "/images/Baby car seats8.4.jpg",
+    "/images/Baby car seats8.5.jpg"
+    ],
+  "features": [
+    {
+      "label": "Material",
+      "value": "Polyester"
+    },
+    {
+      "label": "Installation Type",
+      "value": "Seat Belt"
+    },
+    {
+      "label": "Orientation",
+      "value": "Rear Facing"
+    }, 
+    {
+      "label": "Item Weight",
+      "value": "11.49 Pounds"
+    },
+    {
+      "label": "Item Dimensions",
+      "value": "25.5 x 17.2 x 21.25 inches"
+    }
+  ],
+  "available_colors": 2,
+  "size": false,
+  "badge": true,
+  "badges": ["Amazon's Choice"],
+  "value": false,
+  "values": ["$149.99"],
+  "review": false,
+  "reviews": ["4.8 out of 5 stars — 10,621 ratings"],
+  "discount": false,
+   "checkPriceLink": "https://www.amazon.com/dp/B07Y5S4VWT?tag=bestbabygears-20",
+  "ASIN": "B07Y5S4VWT"
+},
+{
+  "id": "Graco_Extend2Fit_Gotham",
+  "rank": 9,
+  "title": "Graco Extend2Fit Convertible Baby Car Seat, Gotham",
+  "brand": "Graco",
+  "rating": 4.8,
+  "price": "$249.99",
+  "amazon_link": "YOUR_AFFILIATE_LINK",
+  "monthly_purchases": "3K+",
+           "images": [
+    "/images/Baby car seats9.1.jpg",
+    "/images/Baby car seats9.2.jpg",
+    "/images/Baby car seats9.3.jpg",
+    "/images/Baby car seats9.4.jpg",
+    "/images/Baby car seats9.5.jpg"
+    ],
+  "features": [
+    {
+      "label": "Material",
+      "value": "Polyester"
+    },
+    {
+      "label": "Installation Type",
+      "value": "Latch"
+    },
+    {
+      "label": "Orientation",
+      "value": "Forward Facing"
+    }, 
+    {
+      "label": "Item Weight",
+      "value": "51.3 Pounds"
+    },
+    {
+      "label": "Item Dimensions",
+      "value": "21.5 x 19.5 x 23.5 inches"
+    } 
+  ],
+  "available_colors": 10,
+  "size": "3-in-1 w/ Booster Mode",
+  "badge": true,
+  "badges": ["Amazon's Choice"],
+  "value": false,
+  "values": ["$249.99"],
+  "review": false,
+  "reviews": ["4.8 out of 5 stars — 61,895 ratings"],
+  "discount": false,
+  "checkPriceLink": "https://www.amazon.com/dp/B0DHLQMWW7?tag=bestbabygears-20",
+  "ASIN": "B0DHLQMWW7"
+},
+{
+  "id": "Graco_SnugRide_SnugLock_LX",
+  "rank": 10,
+  "title": "Graco SnugRide SnugLock LX Car Seat featuring TrueShield Technology",
+  "brand": "Graco",
+  "rating": 4.8,
+  "price": "$289.99",
+  "amazon_link": "YOUR_AFFILIATE_LINK",
+  "monthly_purchases": "200+",
+           "images": [
+    "/images/Baby car seats10.1.jpg",
+    "/images/Baby car seats10.2.jpg",
+    "/images/Baby car seats10.3.jpg",
+    "/images/Baby car seats10.4.jpg",
+    "/images/Baby car seats10.5.jpg"
+    ],
+  "features": [
+    {
+      "label": "Material",
+      "value": "Polyester"
+    },
+    {
+      "label": "Installation Type",
+      "value": "Seat Belt"
+    },
+    {
+      "label": "Orientation",
+      "value": "Rear Facing"
+    },
+    {
+      "label": "Rear-facing Weight Range",
+      "value": "4-30 Pounds"
+    }, 
+    {
+      "label": "Item Weight",
+      "value": "9.75 Pounds"
+    } 
+  ],
+  "available_colors": 2,
+  "available_size": "Infant Car Seat",
+  "size": "true",
+  "badge": true,
+  "badges": ["Amazon's Choice"],
+  "value": false,
+  "values": ["$289.99"],
+  "review": false,
+  "reviews": ["4.8 out of 5 stars — 10,621 ratings"],
+  "discount": false,
+  "checkPriceLink": "https://www.amazon.com/dp/B07CVCHKTT?tag=bestbabygears-20",
+  "ASIN": "B07CVCHKTT"
+}
+]

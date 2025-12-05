@@ -1,0 +1,475 @@
+[
+    {
+  "id": "summer-3dlite-convenience-stroller-refresh-black-gray",
+  "rank": 1,
+  "title": "Summer Infant 3Dlite™ Convenience Stroller Fashion - Refresh Black/Gray",
+  "brand": "Summer Infant",
+  "rating": 4.6,
+  "price": "N/A",
+  "amazon_link": "https://www.amazon.com/dp/B0D5BGKNBX",
+  "monthly_purchases": "N/A",
+   "images": [
+    "/images/toddler-stroller1.1.jpg",
+    "/images/toddler-stroller1.2.jpg",
+    "/images/toddler-stroller1.3.jpg",
+    "/images/toddler-stroller1.4.jpg",
+    "/images/toddler-stroller1.5.jpg"
+  ],
+  "features": [
+    {
+      "label": "Maximum Weight Recommendation",
+      "value": "50 Pounds"
+    },
+    {
+      "label": "Material",
+      "value": "Aluminium"
+    },
+    {
+      "label": "Frame Material",
+      "value": "Aluminum"
+    },
+    {
+      "label": "Harness Type",
+      "value": "5 Point"
+    },
+    {
+      "label": "Item Weight",
+      "value": "6.35 kg"
+    } 
+  ],
+  "available_colors": 1,
+  "size": true,
+  "available_size": 1,
+  "style": true,
+  "available_style": 0,
+  "badge": false,
+  "badges": [],
+  "value": false,
+  "values": [],
+  "review": true,
+  "reviews": [
+    "4.6 out of 5 stars from 74 ratings"
+  ],
+  "discount": false,
+  "discounts": "",
+  "compareLink": "",
+   "checkPriceLink": "https://www.amazon.com/dp/B0D5BGKNBX?tag=bestbabygears-20"  
+},
+{
+  "id": "koolababy-yd209-umbrella-stroller",
+  "rank": 2,
+  "title": "Stroller YD209",
+  "brand": "KOOLABABY",
+  "rating": 4.4,
+  "price": "N/A",
+  "amazon_link": "N/A",
+  "monthly_purchases": "N/A",
+   "images": [
+    "/images/lw-stroller1.1.jpg",
+    "/images/lw-stroller1.2.jpg",
+    "/images/lw-stroller1.3.jpg",
+    "/images/lw-stroller1.4.jpg",
+    "/images/lw-stroller1.5.jpg"
+  ],
+  "features": [ 
+    {
+      "label": "Material",
+      "value": "Synthetic"
+    },
+    {
+      "label": "Frame Material",
+      "value": "Aluminium"
+    },
+    {
+      "label": "Harness Type",
+      "value": "5 Point"
+    },
+    {
+      "label": "Folded Size",
+      "value": "22 x 15 x 35 Inches"
+    },
+    {
+      "label": "Item Weight",
+      "value": "6.35 kg"
+    },
+    {
+      "label": "Stroller Type",
+      "value": "Umbrella Stroller"
+    } 
+  ],
+  "available_colors": 1,
+  "size": true,
+  "available_size": 1,
+  "style": false,
+  "available_style": 0,
+  "badge": true,
+  "badges": [
+    "Top Rank 1"
+  ],
+  "value": false,
+  "values": [],
+  "review": false,
+  "reviews": [
+    "4.4 out of 5 stars, 272 ratings"
+  ],
+  "discount": false,
+  "discounts": "",
+  "compareLink": "",
+  "checkPriceLink": ""
+},
+  {
+    "id": "smooth-stroll-comfort-stroller",
+    "rank": 3,
+    "title": "Smooth Stroll Comfort Stroller",
+    "brand": "Ingenuity",
+    "rating": 4.0,
+    "price": "Currently unavailable",
+    "amazon_link": "YOUR_AFFILIATE_LINK",
+    "monthly_purchases": null,
+       "images": [
+    "/images/umbrella-stroller3.1.jpg",
+    "/images/umbrella-stroller3.2.jpg",
+    "/images/umbrella-stroller3.3.jpg",
+    "/images/umbrella-stroller3.4.jpg",
+    "/images/umbrella-stroller3.5.jpg"
+  ],
+    "features": [ 
+      { "label": "Material", "value": "Alloy Steel" } ,
+      { "label": "Age range", "value": "Baby" },
+      { "label": "Harness type", "value": "5 Point" },
+      { "label": "Max Weight", "value": "50 Pounds" },
+      { "label": "Item weight", "value": "4.98 kg" } 
+    ],
+    "available_colors": 2,
+    "size": false,
+    "available_size": false,
+    "style": true,
+    "available_style": 1,
+    "badge": true,
+    "badges": ["Top Brand"],
+    "value": false,
+    "values": [],
+    "review": false,
+    "reviews": ["443 customer ratings", "4.0 out of 5 stars"],
+    "discount": false,
+    "discounts": null,
+    "compareLink": "https://www.amazon.co.uk/dp/B0CX2P4PB6?linkCode=gs2&tag=buyersguideuk-21",
+     "checkPriceLink": "https://www.amazon.com/dp/B0CX2P4PB6?tag=bestbabygears-20" 
+  }, 
+  {
+    "id": "delta-children-jeep-adventure-glyde-stroller",
+    "rank": 4,
+    "title": "Delta Children Jeep AdventureGlyde Lightweight Travel Stroller",
+    "brand": "Delta Children",
+    "rating": 4.4,
+    "price": "Currently unavailable",
+    "amazon_link": "YOUR_AFFILIATE_LINK",
+    "monthly_purchases": null,
+           "images": [
+    "/images/umbrella-stroller4.1.jpg",
+    "/images/umbrella-stroller4.2.jpg",
+    "/images/umbrella-stroller4.3.jpg",
+    "/images/umbrella-stroller4.4.jpg",
+    "/images/umbrella-stroller4.5.jpg"
+  ],
+    "features": [ 
+      { "label": "Material", "value": "Alloy Steel" }, 
+      { "label": "Age range", "value": "Infant" },
+      { "label": "Harness type", "value": "5 Point" },
+      { "label": "Max Weight", "value": "22.68 kg" },
+      { "label": "Item weight", "value": "1 Pound" } 
+    ],
+    "available_colors": 2,
+    "size": false,
+    "available_size": false,
+    "style": false,
+    "available_style": false,
+    "badge": false,
+    "badges": [],
+    "value": false,
+    "values": [],
+    "review": false,
+    "reviews": ["602 customer ratings", "4.4 out of 5 stars"],
+    "discount": false,
+    "discounts": null,
+    "compareLink": "https://www.amazon.co.uk/dp/B0C5426D81?linkCode=gs2&tag=buyersguideuk-21",
+     "checkPriceLink": "https://www.amazon.com/dp/B0C5426D81?tag=bestbabygears-20" 
+  }, 
+  {
+    "id": "summer-infant-3dlite-st-convenience-stroller",
+    "rank": 5,
+    "title": "Summer Infant 3Dlite ST Convenience Stroller",
+    "brand": "Summer Infant",
+    "rating": 4.5,
+    "price": "Currently unavailable",
+    "amazon_link": "YOUR_AFFILIATE_LINK",
+    "monthly_purchases": null,
+           "images": [
+    "/images/umbrella-stroller5.1.jpg",
+    "/images/umbrella-stroller5.2.jpg",
+    "/images/umbrella-stroller5.3.jpg",
+    "/images/umbrella-stroller5.4.jpg",
+    "/images/umbrella-stroller5.5.jpg"
+  ],
+    "features": [ 
+      { "label": "Material", "value": "Polyester" }, 
+      { "label": "Age range", "value": "Toddler" },
+      { "label": "Harness type", "value": "5 Point" },
+      { "label": "Max Weight", "value": "22.68 kg" },
+      { "label": "Item weight", "value": "15 Pounds" } 
+    ],
+    "available_colors": 2,
+    "size": false,
+    "available_size": false,
+    "style": true,
+    "available_style": 1,
+    "badge": false,
+    "badges": [],
+    "value": false,
+    "values": [],
+    "review": false,
+    "reviews": ["385 customer ratings", "4.5 out of 5 stars"],
+    "discount": false,
+    "discounts": null,
+    "compareLink": "https://www.amazon.co.uk/dp/B0BMJ5FL3L?linkCode=gs2&tag=buyersguideuk-21",
+    "checkPriceLink": "https://www.amazon.com/dp/B0BMJ5FL3L?tag=bestbabygears-20" 
+  } , 
+  {
+    "id": "summer-ingenuity-3dquickclose-cs-plus-stroller",
+    "rank": 6,
+    "title": "Summer by Ingenuity 3Dquickclose CS+ Compact Lightweight Stroller",
+    "brand": "Summer Infant",
+    "rating": 4.4,
+    "price": "Currently unavailable",
+    "amazon_link": "YOUR_AFFILIATE_LINK",
+    "monthly_purchases": null,
+           "images": [
+    "/images/umbrella-stroller6.1.jpg",
+    "/images/umbrella-stroller6.2.jpg",
+    "/images/umbrella-stroller6.3.jpg",
+    "/images/umbrella-stroller6.4.jpg",
+    "/images/umbrella-stroller6.5.jpg"
+  ],
+    "features": [ 
+      { "label": "Material", "value": "Metal" }, 
+      { "label": "Age range", "value": "Toddler" },
+      { "label": "Harness type", "value": "5 Point" },
+      { "label": "Max Weight", "value": "22.68 kg" }, 
+      { "label": "Folded size", "value": "20.5 inches" } 
+    ],
+    "available_colors": 1,
+    "size": false,
+    "available_size": false,
+    "style": true,
+    "available_style": 1,
+    "badge": false,
+    "badges": [],
+    "value": false,
+    "values": [],
+    "review": false,
+    "reviews": ["141 customer ratings", "4.4 out of 5 stars"],
+    "discount": false,
+    "discounts": null,
+    "compareLink": "https://www.amazon.co.uk/dp/B0DJC181GX?linkCode=gs2&tag=buyersguideuk-21",
+    "checkPriceLink": "https://www.amazon.com/dp/B0DJC181GX?tag=bestbabygears-20"  
+  } , 
+  {
+    "id": "graco-travelite-compact-stroller",
+    "rank": 7,
+    "title": "Graco TraveLite Compact Stroller/Pushchair - Suitable from Birth to 3 Years",
+    "brand": "Graco",
+    "rating": 4.5,
+    "price": "Unavailable (Location restricted)",
+    "amazon_link": "YOUR_AFFILIATE_LINK",
+    "monthly_purchases": null,
+           "images": [
+    "/images/umbrella-stroller7.1.jpg",
+    "/images/umbrella-stroller7.2.jpg",
+    "/images/umbrella-stroller7.3.jpg",
+    "/images/umbrella-stroller7.4.jpg",
+    "/images/umbrella-stroller7.5.jpg"
+  ],
+    "features": [  
+      { "label": "Age range", "value": "Baby" },
+      { "label": "Harness type", "value": "5 Point" },
+      { "label": "Max Weight", "value": "15 Kilograms" },
+      { "label": "Item weight", "value": "7.07 Kilograms" }, 
+      { "label": "Stroller Type", "value": "Standard Stroller" } 
+    ],
+    "available_colors": 3, 
+    "size": true,
+    "available_size": 1,
+    "style": false,
+    "available_style": false,
+    "badge": true,
+    "badges": ["Amazon's Choice", "Top Brand"],
+    "value": false,
+    "values": [],
+    "review": true,
+    "reviews": ["1,276 customer ratings", "4.5 out of 5 stars"],
+    "discount": false,
+    "discounts": null,
+    "compareLink": "https://www.amazon.co.uk/dp/B088G5B7NC?linkCode=gs4&tag=buyersguideuk-21&th=1",
+     "checkPriceLink": "https://www.amazon.com/dp/B088G5B7NC?tag=bestbabygears-20"  
+  } , 
+  {
+    "id": "summer-3dlite-plus-convenience-stroller",
+    "rank": 8,
+    "title": "Summer 3Dlite+ Convenience Stroller, Matte Black",
+    "brand": "Summer Infant",
+    "rating": 4.5,
+    "price": "Unavailable",
+    "amazon_link": "YOUR_AFFILIATE_LINK",
+    "monthly_purchases": null,
+           "images": [
+    "/images/umbrella-stroller8.1.jpg",
+    "/images/umbrella-stroller8.2.jpg",
+    "/images/umbrella-stroller8.3.jpg",
+    "/images/umbrella-stroller8.4.jpg",
+    "/images/umbrella-stroller8.5.jpg"
+  ],
+    "features": [ 
+      { "label": "Material", "value": "Aluminium" }, 
+      { "label": "Age range", "value": "Baby" },
+      { "label": "Harness type", "value": "5 Point" },
+      { "label": "Max Weight", "value": "22.68 kg" },
+      { "label": "Item weight", "value": "6.35 kg" }
+    ],
+    "available_colors": 1,
+    "size": false,
+    "available_size": false,
+    "style": true,
+    "available_style": 1,
+    "badge": false,
+    "badges": [],
+    "value": false,
+    "values": [],
+    "review": false,
+    "reviews": ["1,400 customer ratings", "4.5 out of 5 stars"],
+    "discount": false,
+    "discounts": null,
+    "compareLink": "https://www.amazon.co.uk/Summer-3Dlite-Convenience-Stroller-Matte/dp/B07NMYWL63/ref=sr_1_1?dib=eyJ2IjoiMSJ9.V_JXplTgmk1LjE5fUVVT-TnsG6HWuoO0D949pjpcy1EflVOHwSckPcIoejHxkMfv_j3W31Yn5y0tIP8SKUtdBq8CV80AagALnp6EL-VTg3dQIQ5x43EScVl26e1IcMYSI_5DN0-TsarGeRPrbx5WP_pTD3Fq5pCEFAC0gJ6u-FNztKc_L2pcJiWTEFle4sepVM-VHy8iUgSd3IiuZJSpgloOmYdvLey2mhzrsqGdj5s.fVBaW55MkTR5Ytsu0ZBdQwbCR4tDV-nJi5ToV-JSBKs&dib_tag=se&keywords=Summer+Infant+3Dlite+Convenience+Stroller%2C+Lightweight+Umbrella+Stroller+with+Oversized+Canopy%2C+Extra-Large+Storage+and+Compact+Fold%2C+Black&linkCode=gs3&qid=1763956439&sr=8-1",
+     "checkPriceLink": "https://www.amazon.com/dp/B07NMYWL63?tag=bestbabygears-20" 
+  } ,
+  {
+  "id": "ingenuity-3dmini-convenience-stroller",
+  "rank": 9,
+  "title": "Ingenuity 3D Mini Convenience Stroller – Lightweight Stroller with Compact Fold, Multi-Position Recline, Canopy with Pop Out Sun Visor – Umbrella Stroller for Travel & More, Blue/Black",
+  "brand": "Ingenuity",
+  "rating": 4.3,
+  "price": "$69.99",
+  "amazon_link": "https://www.amazon.com/dp/B07GGHVL64",
+  "monthly_purchases": "N/A",
+  "images": [
+    "/images/lw-strolller3.1.jpg",
+    "/images/lw-strolller3.2.jpg",
+    "/images/lw-strolller3.3.jpg",
+    "/images/lw-strolller3.4.jpg",
+    "/images/lw-strolller3.5.jpg"
+  ],
+  "features": [
+    {
+      "label": "Maximum Weight",
+      "value": "45 Pounds"
+    },
+    {
+      "label": "Harness Type",
+      "value": "5 Point"
+    },
+    {
+      "label": "Item Weight",
+      "value": "11 Pounds"
+    },
+    {
+      "label": "Seat Material",
+      "value": "Polyester"
+    },
+    {
+      "label": "Stroller Type",
+      "value": "Umbrella Stroller"
+    },
+    {
+      "label": "Material",
+      "value": "Alloy Steel"
+    },
+    {
+      "label": "Age Range",
+      "value": "6 months up to 45 lbs."
+    }
+  ],
+  "available_colors": 6,
+  "size": false,
+  "available_size": 0,
+  "style": true,
+  "available_style": 6,
+  "badge": true,
+  "badges": ["Amazon's Choice"],
+  "value": false,
+  "values": [],
+  "review": true,
+  "reviews": [
+    "4.3 out of 5 stars, 22,380 ratings"
+  ],
+  "discount": false,
+  "discounts": "",
+  "compareLink": "",
+  "checkPriceLink": "https://www.amazon.com/dp/B07GGHVL64?tag=bestbabygears-20"
+},
+{
+  "id": "momcozy-universal-stroller-organizer",
+  "rank": 10,
+  "title": "Momcozy Universal Stroller Organizer with Insulated Cup Holder Detachable Phone Bag & Shoulder Strap, Fits for Stroller like Uppababy, Baby Jogger, Britax, BOB, Umbrella and Pet Stroller",
+  "brand": "Momcozy",
+  "rating": 4.6,
+  "price": "$21.59",
+  "amazon_link": "https://www.amazon.com/dp/B07JMZYJVW",
+  "monthly_purchases": "N/A",
+  "images": [
+    "/images/umbrella10.1.jpg",
+    "/images/umbrella10.2.jpg",
+    "/images/umbrella10.3.jpg",
+    "/images/umbrella10.4.jpg",
+    "/images/umbrella10.5.jpg"
+  ],
+  "features": [
+    {
+      "label": "Item Weight",
+      "value": "10.5 ounces"
+    },
+    {
+      "label": "Product Dimensions",
+      "value": "12.9 x 4.3 x 6.7 inches"
+    },
+    {
+      "label": "Included Components",
+      "value": "2 insulated cup holders "
+    },
+    {
+      "label": "Special Features",
+      "value": "Adjustable, Easy to Clean, Large Capacity"
+    },
+    {
+      "label": "Material",
+      "value": "Black"
+    }
+  ],
+  "available_colors": 9,
+  "size": true,
+  "available_size": 1,
+  "style": true,
+  "available_style": 1,
+  "badge": true,
+  "badges": ["Amazon's Choice"],
+  "value": false,
+  "values": [],
+  "review": true,
+  "reviews": [
+    "4.6 out of 5 stars, 20,327 ratings"
+  ],
+  "discount": false,
+  "discounts": "",
+  "compareLink": "",
+  "checkPriceLink": "https://www.amazon.com/dp/B07JMZYJVW?tag=bestbabygears-20"
+}
+
+] 

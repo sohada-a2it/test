@@ -1,0 +1,155 @@
+export const dynamic = "force-dynamic";
+
+import fs from "fs";
+import path from "path";
+
+export async function GET() {
+  const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || "http://localhost:3000";
+
+  // Helper to escape XML characters
+  const escapeXml = (unsafe) => {
+    return unsafe
+      .replace(/&/g, "&amp;")
+      .replace(/</g, "&lt;")
+      .replace(/>/g, "&gt;")
+      .replace(/"/g, "&quot;")
+      .replace(/'/g, "&apos;");
+  };
+
+  // Base directories for each category
+  const categories = [
+    { dir: "src/app/baby-carrier-page", urlPrefix: "baby-carrier-page", folders: [
+      "baby_sling",
+      "baby-carriers-page",
+      "child-carrier-backpack",
+      "hands-free-baby-carrier",
+      "hip-carrier",
+      "newbornCarrier",
+      "toddler_carrier"
+    ]},
+    { dir: "src/app/babyMonitorPage", urlPrefix: "babyMonitorPage", folders: [
+      "baby-monitor-page",
+      "camera-baby-monitor",
+      "cheap-baby-monitor",
+      "long-rang-baby-monitor",
+      "sound-only-baby-monitor",
+      "video-baby-monitor",
+      "vtech-baby-monitor"
+    ]},
+    { dir: "src/app/babySwingsPage", urlPrefix: "babySwingsPage", folders: [
+      "affortable-baby-swing",
+      "baby-swing-page",
+      "baby-swings-infants",
+      "baby-swings-newborn",
+      "sensory-swing-chair",
+      "toddler-swings",
+      "tree-swing"
+    ]},
+    { dir: "src/app/bassinetPage", urlPrefix: "bassinetPage", folders: [
+      "bassinets-home",
+      "bedside-bassinet",
+      "newborn-bassinet",
+      "travel-bassinet"
+    ]},
+    { dir: "src/app/car-seat-page", urlPrefix: "car-seat-page", folders: [
+      "baby-car-seat",
+      "car-seat-home",
+      "covertible-car-seat",
+      "graco-car-seat",
+      "narrow-car-seat",
+      "safest-car-seat",
+      "slim-fit-car-seat"
+    ]},
+    { dir: "src/app/crib-mattresses-page", urlPrefix: "crib-mattresses-page", folders: [
+      "air-mattresses-for-kids",
+      "baby-crib-mattresses",
+      "crib-mattresses-home",
+      "pack&play-mattresses",
+      "portable-toddler-bed",
+      "toddler-beds",
+      "twin-sized-air-mattresses"
+    ]},
+    { dir: "src/app/cribs-page", urlPrefix: "cribs-page", folders: [
+      "convertible-crib",
+      "cribs-home",
+      "mini-crib",
+      "non-toxic-crib" 
+    ]},
+    { dir: "src/app/cribs-page", urlPrefix: "cribs-page", folders: [
+      "convertible-crib",
+      "cribs-home",
+      "mini-crib",
+      "non-toxic-crib" 
+    ]},
+    { dir: "src/app/high-chair-page", urlPrefix: "high-chair-page", folders: [
+      "baby-high-chair",
+      "folding-high-chair",
+      "graco-high-chair",
+      "high-chair-home",
+      "hook-on-high-chair",
+      "portable-high-chair", 
+    ]},
+    { dir: "src/app/stroller-page", urlPrefix: "stroller-page", folders: [
+      "airplane-stroller",
+      "compact-stroller",
+      "lighweight-stroller",
+      "newborn-stroller",
+      "stroller-home",
+      "umbrella-stroller", 
+    ]},
+    { dir: "src/app/blog", urlPrefix: "blog", folders: [
+      "baby-carriers",
+      "bassinets",
+      "car-seat",
+      "cribs",
+      "crip-mattresses",
+      "high-chair",
+      "monitor",
+      "stroller", 
+    ]},
+  ];
+
+  const urls = [
+    { loc: `${baseUrl}/`, title: "Home" },
+    { loc: `${baseUrl}/about`, title: "About Us" },
+    { loc: `${baseUrl}/contact`, title: "Contact" },
+    { loc: `${baseUrl}/advertiser-disclosure`, title: "advertiserDisclosure" },
+    { loc: `${baseUrl}/category`, title: "Category" },
+    { loc: `${baseUrl}/privacy-policy`, title: "privacyPolicy" },
+    { loc: `${baseUrl}/terms`, title: "terms" },
+    { loc: `${baseUrl}/tushbayReview`, title: "tushbayReview" },
+  ];
+
+  // Helper to add pages from a category
+  categories.forEach(({ dir, urlPrefix, folders }) => {
+    const baseDir = path.join(process.cwd(), dir);
+    folders.forEach((folder) => {
+      const folderPath = path.join(baseDir, folder);
+      // Check all possible page extensions
+      const pageExists = ["page.js", "page.jsx", "page.tsx"].some(file =>
+        fs.existsSync(path.join(folderPath, file))
+      );
+      if (pageExists) {
+        urls.push({
+          loc: `${baseUrl}/${urlPrefix}/${folder}`,
+          title: folder.replace(/[-_]/g, " ")
+        });
+      }
+    });
+  });
+
+  // Generate XML sitemap
+  const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+  ${urls.map(({ loc }) => `
+  <url>
+    <loc>${escapeXml(loc)}</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>`).join("")}
+</urlset>`;
+
+  return new Response(sitemap, {
+    headers: { "Content-Type": "application/xml" },
+  });
+}

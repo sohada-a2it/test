@@ -1,0 +1,604 @@
+[
+  {
+    "id":"Best Newborn Carrier",
+    "rank": 1,
+    "title": "Momcozy Baby Carrier - Ergonomic, Cozy and Lightweight Carrier for 7-44lbs, Effortless to Put On, Ideal for Hands...",
+    "brand": "Momcozy",
+    "rating": 10.0,
+    "price": "$59.99",
+    "amazon_link": "YOUR_AFFILIATE_LINK",
+    "monthly_purchases": "4000+",
+    "images": [
+      "/images/newbo3.1.jpg",
+      "/images/newbo3.2.jpg",
+      "/images/newbo3.3.jpg",
+      "/images/newbo4.4.jpg",
+      "/images/newbo3.5.jpg"
+    ],
+    "features": [
+      {
+        "label": "Material",
+        "value": "Cotton"
+      },
+      {
+        "label": "Strap Type",
+        "value": "Cross"
+      },
+      {
+        "label": "Product Care Instruction",
+        "value": "Machine Wash"
+      },
+      {
+        "label": "Feature",
+        "value": "Three Adjustable Size Position"
+      },
+      {
+        "label": "Structure",
+        "value": "Cross Straps"
+      }
+    ],
+    "available_colors": 12,
+    "size": false,
+    "available_size": 3,
+    "style": false,
+    "available_style": 2,
+    "badge": true,
+    "badges": [
+      "Best Toddler Carriers"
+    ],
+    "value": true,
+    "values": [
+      "Popular"
+    ],
+    "review": false,
+    "reviews": [
+      "Read Full Review"
+    ],
+    "discount": true,
+    "discounts": "Save 8%",
+    "compareLink": "https://www.example.com/compare-baby-carrier",
+    "checkPriceLink": "https://www.amazon.com/dp/B0CDQ2KVJD?tag=bestbabygears-20"
+    
+  },
+  {
+    "id":"Best Newborn Carrier2",
+    "rank": 2,
+    "title": "Momcozy Hip Seat Baby Carrier - Adjustable Waistband with Original 3D Belly Protector, Ergonomic Carrier with Variou...",
+    "brand": "MOMCOZY",
+    "rating": 9.8,
+    "price": "$49.99",
+    "amazon_link": "YOUR_AFFILIATE_LINK",
+    "monthly_purchases": "3000+",
+    "images": [
+      "/images/tod2.1.jpg",
+      "/images/tod2.2.jpg",
+      "/images/tod2.3.jpg",
+      "/images/tod2.4.jpg",
+      "/images/tod2.5.jpg"
+    ],
+    "features": [
+      {
+        "label": "Material",
+        "value": "Polyester"
+      },
+      {
+        "label": "Strap Type",
+        "value": "Adjustable Strap"
+      },
+      {
+        "label": "Product Care Instructions",
+        "value": "Machine Wash"
+      },
+      {
+        "label": "Feature",
+        "value": "3D Abdominal Support"
+      },
+      {
+        "label": "Structure",
+        "value": "Double Safety Buckle"
+      }
+    ],
+    "available_colors": 4,
+    "size": true,
+    "available_size": 2,
+    "style": false,
+    "available_style": 2,
+    "badge": false,
+    "badges": [
+      "Premium Pick"
+    ],
+    "value": false,
+    "values": [
+      "Best Value"
+    ],
+    "review": false,
+    "reviews": [
+      "Read Full Review"
+    ],
+    "discount": true,
+    "discounts": "Save 11%", 
+    "checkPriceLink": "https://www.amazon.com/dp/B0CL9W3JK6?tag=bestbabygears-20"
+    
+  },
+  {
+    "id":"Best Newborn Carrier3",
+    "rank": 3,
+    "title": "Tushbaby Ergonomic Hip Seat Carrier- for Babies and Toddlers 0-3yrs, Safety Approved, Structured Support...",
+    "brand": "MISSWISDOM",
+    "rating": 9.7,
+    "price": "$84.99",
+    "amazon_link": "YOUR_AFFILIATE_LINK",
+    "monthly_purchases": "3000+",
+    "images": [
+      "/images/tod3.1.jpg",
+      "/images/tod3.2.jpg",
+      "/images/tod3.3.jpg",
+      "/images/tod3.4.jpg",
+      "/images/tod3.5.jpg"
+    ],
+    "features": [
+      {
+        "label": "Material",
+        "value": "Polyester"
+      },
+      {
+        "label": "Strap Type",
+        "value": "Adjustable Strap"
+      },
+      {
+        "label": "Product Care Instruction",
+        "value": "Machine Wash"
+      },
+      {
+        "label": "Material Composition",
+        "value": "Polyurethane"
+      },
+      {
+        "label": "Style",
+        "value": "Minimalist, Ergonomic"
+      }
+    ],
+    "available_colors": 6,
+    "size": false,
+    "available_size": 3,
+    "style": false,
+    "available_style": 2,
+    "badge": false,
+    "badges": [
+      "Best Baby Carrier"
+    ],
+    "value": false,
+    "values": [
+      "Best Value"
+    ],
+    "review": true,
+    "reviews": [
+      "Read Full Review"
+    ],
+    "discount": false,
+    "discounts": "Save 10%",
+    "compareLink": "https://www.example.com/compare-baby-carrier",
+    "checkPriceLink": "https://www.amazon.com/dp/B07R4C4VFX?tag=bestbabygears-20"
+    
+  },
+  {
+    "id":"Best Newborn Carrier4",
+    "rank": 4,
+    "title": "Baby Carrier Newborn to Toddler (Houndstooth)...",
+    "brand": ".NEST BLANCHE.",
+    "rating": 9.6,
+    "price": "$85.49",
+    "amazon_link": "YOUR_AFFILIATE_LINK",
+    "monthly_purchases": "3000+",
+    "images": [
+      "/images/newbo8.1.jpg",
+      "/images/newbo8.2.jpg",
+      "/images/newbo8.3.jpg",
+      "/images/newbo8.4.jpg",
+      "/images/newbo8.5.jpg"
+    ],
+    "features": [
+      {
+        "label": "Material",
+        "value": "Cotton-Linen"
+      },
+      {
+        "label": "Strap Type",
+        "value": "Adjustable Strap"
+      },
+      {
+        "label": "Product Care Instructions",
+        "value": "Machine Wash"
+      },
+      {
+        "label": "Material Composition",
+        "value": "90% Cotton, 10% Linen"
+      },
+      {
+        "label": "Item Weight",
+        "value": "1.27 pounds"
+      }
+    ],
+    "available_colors": 4,
+    "size": false,
+    "available_size": 3,
+    "style": false,
+    "available_style": 2,
+    "badge": false,
+    "badges": [
+      "Best Baby Carrier"
+    ],
+    "value": false,
+    "values": [
+      "Best Value"
+    ],
+    "review": false,
+    "reviews": [
+      "Read Full Review"
+    ],
+    "discount": true,
+    "discounts": "Save 5%", 
+    "checkPriceLink": "https://www.amazon.com/dp/B0DT4D8C8J?tag=bestbabygears-20"
+    
+  },
+  {
+    "id":"Best Newborn Carrier5",
+    "rank": 5,
+    "title": "Baby Carrier, MOMTORY Safety-Certified 6-in-1 Baby Carrier Newborn to Toddler, Adjustable Detachable Infant Baby Hi...",
+    "brand": "MOMTORY",
+    "rating": 9.3,
+    "price": "$41.98",
+    "amazon_link": "YOUR_AFFILIATE_LINK",
+    "monthly_purchases": "3000+",
+    "images": [
+      "/images/tod5.1.jpg",
+      "/images/tod5.2.jpg",
+      "/images/tod5.3.jpg",
+      "/images/tod5.4.jpg",
+      "/images/tod5.5.jpg"
+    ],
+    "features": [
+      {
+        "label": "Material",
+        "value": "Cotton, Polyester"
+      },
+      {
+        "label": "Strap Type",
+        "value": "Adjustable shoulder strap"
+      },
+      {
+        "label": "Product Care Instructions",
+        "value": "Hand Wash Only"
+      },
+      {
+        "label": "Orientation",
+        "value": "Front/Back"
+      },
+      {
+        "label": "Item Weight",
+        "value": "Item Weight"
+      }
+    ],
+    "available_colors": 8,
+    "size": false,
+    "available_size": 3,
+    "style": false,
+    "available_style": 2,
+    "badge": false,
+    "badges": [
+      "Popular"
+    ],
+    "value": false,
+    "values": [
+      "Best Value"
+    ],
+    "review": false,
+    "reviews": [
+      "Read Full Review"
+    ],
+    "discount": true,
+    "discounts": "Save 30%", 
+    "checkPriceLink": "https://www.amazon.com/dp/B0CKW4B982?tag=bestbabygears-20"
+
+  },
+  {
+    "id":"Best Newborn Carrier6",
+    "rank": 6,
+    "title": "Baby Sling Carrier,Baby Sling,Toddler Carrier,Adjustable and Non-Slip Hip Seat Carriers Carrying 10-30 lbs(Black...",
+    "brand": "BEYOIK",
+    "rating": 9.2,
+    "price": "$22.99",
+    "amazon_link": "YOUR_AFFILIATE_LINK",
+    "monthly_purchases": "3000+",
+    "images": [
+      "/images/tod6.1.jpg",
+      "/images/tod6.2.jpg",
+      "/images/tod6.3.jpg",
+      "/images/tod6.4.jpg",
+      "/images/tod6.5.jpg"
+    ],
+    "features": [
+      {
+        "label": "Material",
+        "value": "Cotton"
+      },
+      {
+        "label": "Strap Type",
+        "value": "Adjustable Strap"
+      },
+      {
+        "label": "Product Care Instruction",
+        "value": "Machine Wash"
+      },
+      {
+        "label": "Style",
+        "value": "Nautical"
+      },
+      {
+        "label": "Item Weight",
+        "value": "9.9 ounces"
+      }
+    ],
+    "available_colors": 9,
+    "size": false,
+    "available_size": 3,
+    "style": true,
+    "available_style": 2,
+    "badge": false,
+    "badges": [
+      "Best Baby Carrier"
+    ],
+    "value": false,
+    "values": [
+      "Best Value"
+    ],
+    "review": false,
+    "reviews": [
+      "Read Full Review"
+    ],
+    "discount": false,
+    "discounts": "Save 30%", 
+    "checkPriceLink": "https://www.amazon.com/dp/B0D2NQ3QXM?tag=bestbabygears-20"
+    
+  },
+  {
+    "id":"Best Newborn Carrier7",
+    "rank": 7,
+    "title": "Baby Sling Carrier, Toddler Sling Carrier with Wide Shoulder Strap, Lightweight Baby Carriers Newborn...",
+    "brand": "MISSWISDOM",
+    "rating": 8.9,
+    "price": "$22.99",
+    "amazon_link": "YOUR_AFFILIATE_LINK",
+    "monthly_purchases": "3000+",
+    "images": [
+      "/images/tod7.1.jpg",
+      "/images/tod7.2.jpg",
+      "/images/tod7.3.jpg",
+      "/images/tod7.4.jpg",
+      "/images/tod7.5.jpg"
+    ],
+    "features": [
+      {
+        "label": "Material",
+        "value": "Cottor"
+      },
+      {
+        "label": "Strap Type",
+        "value": "Adjustable Strap"
+      },
+      {
+        "label": "Product Care Instructions",
+        "value": "Hand Wash Only"
+      },
+      {
+        "label": "Orientation",
+        "value": "Front"
+      },
+      {
+        "label": "Item Weight",
+        "value": "11.3 ounces"
+      }
+    ],
+    "available_colors": 4,
+    "size": false,
+    "available_size": 3,
+    "style": false,
+    "available_style": 2,
+    "badge": false,
+    "badges": [
+      "Best Baby Carrier"
+    ],
+    "value": true,
+    "values": [
+      "Best Value"
+    ],
+    "review": false,
+    "reviews": [
+      "Read Full Review"
+    ],
+    "discount": false,
+    "discounts": "Save 25%", 
+    "checkPriceLink": "https://www.amazon.com/dp/B0DGQ3CNRP?tag=bestbabygears-20"
+    
+  },
+  {
+    "id":"Best Newborn Carrier8",
+    "rank": 8,
+    "title": "Bear Baby Carrier, 6-in-1 Baby Carrier Newborn to Toddler with Hip Seat (Ergonomic M Position) for 3-36 Month/ 7...",
+    "brand": "BEAR",
+    "rating": 8.6,
+    "price": "$39.99",
+    "amazon_link": "YOUR_AFFILIATE_LINK",
+    "monthly_purchases": "3000+",
+    "images": [
+      "/images/tod8.1.jpg",
+      "/images/tod8.2.jpg",
+      "/images/tod8.3.jpg",
+      "/images/tod8.4.jpg",
+      "/images/tod8.5.jpg"
+    ],
+    "features": [
+      {
+        "label": "Material",
+        "value": "Cotton, Cotton Blend"
+      },
+      {
+        "label": "Strap Type",
+        "value": "Adjustable Strap"
+      },
+      {
+        "label": "Product Care Instructions",
+        "value": "Machine Wash"
+      },
+      {
+        "label": "Material Composition",
+        "value": "Cotton Blend"
+      },
+      {
+        "label": "Item Weight",
+        "value": "1.83 pounds"
+      }
+    ],
+    "available_colors": 12,
+    "size": false,
+    "available_size": 4,
+    "style": false,
+    "available_style": 2,
+    "badge": false,
+    "badges": [
+      "Best Baby Carrier"
+    ],
+    "value": false,
+    "values": [
+      "Best Value"
+    ],
+    "review": false,
+    "reviews": [
+      "Read Full Review"
+    ],
+    "discount": false,
+    "discounts": "Save 25%", 
+    "checkPriceLink": "https://www.amazon.com/dp/B0D12PT5NT?tag=bestbabygears-20"
+    
+  },
+  {
+    "id":"Best Newborn Carrier9",
+    "rank": 9,
+    "title": "Ergobaby Omni Classic Baby Carrier Newborn to Toddler - Breathable Baby Carriers for Summer - All-Position Carrie...",
+    "brand": "ERGOBABY",
+    "rating": 8.4,
+    "price": "$125.30",
+    "amazon_link": "YOUR_AFFILIATE_LINK",
+    "monthly_purchases": "3000+",
+    "images": [
+      "/images/tod9.1.jpg",
+      "/images/tod9.2.jpg",
+      "/images/tod9.3.jpg",
+      "/images/tod9.4.jpg",
+      "/images/tod9.5.jpg"
+    ],
+    "features": [
+      {
+        "label": "Material",
+        "value": "Cotton"
+      },
+      {
+        "label": "Strap Type",
+        "value": "Fixed Strap"
+      },
+      {
+        "label": "Product Care Instructions",
+        "value": "Hand Wash Only"
+      },
+      {
+        "label": "Minimum Weight Recommendation",
+        "value": "7 Pounds"
+      },
+      {
+        "label": "Style",
+        "value": "Cotton"
+      }
+    ],
+    "available_colors": 8,
+    "size": false,
+    "available_size": 3,
+    "style": true,
+    "available_style": 2,
+    "badge": true,
+    "badges": [
+      "Premium Pick"
+    ],
+    "value": false,
+    "values": [
+      "Best Value"
+    ],
+    "review": false,
+    "reviews": [
+      "Read Full Review"
+    ],
+    "discount": true,
+    "discounts": "Save 30%", 
+    "checkPriceLink": "https://www.amazon.com/dp/B0743KZY9C?tag=bestbabygears-20"
+    
+  },
+  {
+    "id":"Best Newborn Carrier10",
+    "rank": 10,
+    "title": "GROWNSY Baby Carrier Newborn to Toddler, Cozy Baby Wraps Carrier, Ergonomic Baby Carrier with Head Support...",
+    "brand": "GROWNSY",
+    "rating": 8.1,
+    "price": "$59.99",
+    "amazon_link": "YOUR_AFFILIATE_LINK",
+    "monthly_purchases": "3000+",
+    "images": [
+      "/images/Newbo1.1.jpg",
+      "/images/Newbo1.2.jpg",
+      "/images/Newbo1.3.jpg",
+      "/images/Newbo1.4.jpg",
+      "/images/Newbo1.5.jpg"
+    ],
+    "features": [
+      {
+        "label": "Material",
+        "value": "Cotton, Polyester"
+      },
+      {
+        "label": "Strap Type",
+        "value": "Shoulder Strap, Adjustable Strap"
+      },
+      {
+        "label": "Product Care Instructions",
+        "value": "Machine Wash"
+      },
+      {
+        "label": "Age Range",
+        "value": "Newbron, Baby, Infant, Toddler"
+      },
+      {
+        "label": "Closure Type",
+        "value": "Buckle"
+      }
+    ],
+    "available_colors": 6,
+    "size": false,
+    "available_size": 3,
+    "style": false,
+    "available_style": 2,
+    "badge": false,
+    "badges": [
+      "Best Baby Carrier"
+    ],
+    "value": false,
+    "values": [
+      "Best Value"
+    ],
+    "review": false,
+    "reviews": [
+      "Read Full Review"
+    ],
+    "discount": false,
+    "discounts": "Save 25%", 
+    "checkPriceLink": "https://www.amazon.com/dp/B0DHKGML6C?tag=bestbabygears-20"
+    
+  }
+]  

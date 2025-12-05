@@ -1,0 +1,575 @@
+[
+    {
+  "id": "Best Affordable Baby Swings",
+  "rank": 1,
+  "title": "Graco Slim Spaces Compact Baby Swing, Space Saving Portable Baby Swing with Height Adjustable Legs & Soft Toys, Reign",
+  "brand": "Graco",
+  "rating": 4.6,
+  "price": "$119.99",
+  "amazon_link": "YOUR_AFFILIATE_LINK",
+  "monthly_purchases": "3K+ ",
+               "images": [
+      "/images/affo1.1.jpg",
+      "/images/affo1.2.jpg",
+      "/images/affo1.3.jpg",
+      "/images/affo1.4.jpg",
+      "/images/affo1.5.jpg"
+    ],
+  "features": [
+    {
+      "label": "Space-Saving Design" 
+    },
+    {
+      "label": "Portable & Lightweight" 
+    },
+    {
+      "label": "Height Adjustable Legs" 
+    },
+    {
+      "label": "Adjustable Swinging Speeds" 
+    },
+    {
+      "label": "Overhead Toy Bar" 
+    },
+    {
+      "label": "Easy to Store" 
+    },
+    {
+      "label": "Durable & Comfortable" 
+    },
+    {
+      "label": "Safety Features" 
+    }
+  ],
+  "available_colors": ["Reign"],
+  "size": true,
+  "available_size": "2",
+  "badge": true,
+  "badges": ["Amazon's Choice"],
+  "value": false,
+  "values": ["$119.99"],
+  "review": false,
+  "reviews": [
+    "4.6 out of 5 stars — 2,711 ratings"
+  ],
+  "discount": true,
+  "discounts": "Save $6",
+  "compareLink": "https://www.example.com/compare-baby-swings",
+  "checkPriceLink": "https://www.amazon.com/dp/B09MWJDC6C?tag=bestbabygears-20",
+  "ASIN": "B09MWJDC6C"
+},
+{
+ "id": "Best Affordable Baby Swings2",
+  "rank": 2,
+  "title": "Ingenuity SimpleComfort Lightweight Compact 6-Speed Multi-Direction Baby Swing, Vibrations & Nature Sounds, 0-9 Months 6-20 lbs (Pink Cassidy)",
+  "brand": "Ingenuity",
+  "rating": 4.3,
+  "price": "$109.99",
+  "amazon_link": "YOUR_AFFILIATE_LINK",
+  "monthly_purchases": "2K+ ",
+                 "images": [
+      "/images/affo2.1.jpg",
+      "/images/affo2.2.jpg",
+      "/images/affo2.3.jpg",
+      "/images/affo2.4.jpg",
+      "/images/affo2.5.jpg"
+    ],
+  "features": [
+    {
+      "label": "Compact & Lightweight" 
+    },
+    {
+      "label": "Multi-Directional Swing" 
+    },
+    {
+      "label": "6 Swinging Speeds" 
+    },
+    {
+      "label": "Vibrations & Soothing Sounds" 
+    },
+    {
+      "label": "Oversized Seat & Headrest" 
+    },
+    {
+      "label": "Easy Cleaning" 
+    },
+    {
+      "label": "Safety Features" 
+    },
+    {
+      "label": "Portable Power Options" 
+    }
+  ],
+  "available_colors":6,
+  "size": true,
+  "available_size": 2,
+  "badge": true,
+  "badges": ["Amazon's Choice"],
+  "value": false,
+  "values": ["$109.99"],
+  "review": false,
+  "reviews": [
+    "4.3 out of 5 stars — 6,643 ratings"
+  ],
+  "discount": true,
+  "discounts": "Get $60 off   ",
+  "compareLink": "https://www.example.com/compare-baby-swings",
+  "checkPriceLink": "https://www.amazon.com/dp/B07HPFTV69?tag=bestbabygears-20",
+  "ASIN": "B07HPFTV69"
+}
+,
+{
+  "id": "Best Affordable Baby Swings3",
+  "rank": 3,
+  "title": "Bright Starts Portable Automatic 6-Speed Baby Swing with Adaptable Speed, Taggies, Music, Removable-Toy-Bar, 0-9 Months 6-20 lbs (Whimsical Wild)",
+  "brand": "Bright Starts",
+  "rating": 4.5,
+  "price": "$69.99",
+  "amazon_link": "YOUR_AFFILIATE_LINK",
+  "monthly_purchases": "1K+ ",
+                   "images": [
+      "/images/affo3.1.jpg",
+      "/images/affo3.2.jpg",
+      "/images/affo3.3.jpg",
+      "/images/affo3.4.jpg",
+      "/images/affo3.5.jpg"
+    ],
+  "features": [
+    {
+      "label": "Portable & Lightweight" 
+    },
+    {
+      "label": "6 Speed Settings" 
+    },
+    {
+      "label": "Soothing Melodies" 
+    },
+    {
+      "label": "Toy Bar with Fun Toys" 
+    },
+    {
+      "label": "Adjustable Features" 
+    },
+    {
+      "label": "Comfortable Deep Seat" 
+    },
+    {
+      "label": "Easy Maintenance" 
+    },
+    {
+      "label": "Power Source" 
+    }
+  ],
+  "available_colors": 3,
+  "size": true,
+  "available_size": 2,
+  "badge": true,
+  "badges": ["#1 Best Seller "],
+  "value": false,
+  "values": ["$69.99"],
+  "review": false,
+  "reviews": [
+    "4.5 out of 5 stars — 8,163 ratings"
+  ],
+  "discount": true,
+  "discounts": "Get $60 off   ",
+  "compareLink": "https://www.example.com/compare-baby-swings",
+  "checkPriceLink": "https://www.amazon.com/dp/B00BBXEJ1Q?tag=bestbabygears-20",
+  "ASIN": "B00BBXEJ1Q"
+}
+,
+{
+  "id": "Best Affordable Baby Swings4",
+  "rank": 4,
+  "title": "Bright Starts Playful Paradise Portable Compact Automatic Baby Swing with Music, Unisex, Newborn +",
+  "brand": "Bright Starts",
+  "rating": 4.5,
+  "price": "$54.00",
+  "amazon_link": "YOUR_AFFILIATE_LINK",
+  "monthly_purchases": "3K+ ",
+                   "images": [
+      "/images/affo4.1.jpg",
+      "/images/affo4.2.jpg",
+      "/images/affo4.3.jpg",
+      "/images/affo4.4.jpg",
+      "/images/affo4.5.jpg"
+    ],
+  "features": [
+    {
+      "label": "Portable & Foldable" 
+    },
+    {
+      "label": "6 Speed Settings" 
+    },
+    {
+      "label": "Soothing Melodies" 
+    },
+    {
+      "label": "Interactive Toy Bar" 
+    },
+    {
+      "label": "Comfortable Deep Seat" 
+    },
+    {
+      "label": "Adjustable Safety Features" 
+    },
+    {
+      "label": "Easy Maintenance" 
+    },
+    {
+      "label": "Power Source" 
+    }
+  ],
+  "available_colors": 3,
+  "size": true,
+  "available_size":2,
+  "badge": true,
+  "badges": ["Amazon's Choice"],
+  "value": false,
+  "values": ["$54.00"],
+  "review": false,
+  "reviews": [
+    "4.5 out of 5 stars — 8,163 ratings"
+  ],
+  "discount": true,
+  "discounts": "Get $60 off   ",
+  "compareLink": "https://www.example.com/compare-baby-swings",
+  "checkPriceLink": "https://www.amazon.com/dp/B0BTDRL37K?tag=bestbabygears-20",
+  "ASIN": "B0BTDRL37K"
+}
+,
+{
+  "id": "Best Affordable Baby Swings5",
+  "rank": 5,
+  "title": "Ingenuity Swing 'n Go Deluxe 5-Speed Baby Swing with Cushioned Harness - Foldable, Portable, 2 Plush Toys & Sounds, 0-9 Months 6-20 lbs (Bella Teddy)",
+  "brand": "Ingenuity",
+  "rating": 4.4,
+  "price": "$99.99",
+  "amazon_link": "YOUR_AFFILIATE_LINK",
+  "monthly_purchases": "100+ ",
+                   "images": [
+      "/images/affo5.1.jpg",
+      "/images/affo5.2.jpg",
+      "/images/affo5.3.jpg",
+      "/images/affo5.4.jpg",
+      "/images/affo5.5.jpg"
+    ],
+  "features": [
+    {
+      "label": "Portable & Foldable" 
+    },
+    {
+      "label": "5 Speed Settings" 
+    },
+    {
+      "label": "Soothing Sounds & Melodies" 
+    },
+    {
+      "label": "Plush Comfort"
+    },
+    {
+      "label": "Hybridrive Technology" 
+    },
+    {
+      "label": "Interactive Toys" 
+    },
+    {
+      "label": "Easy Maintenance" 
+    },
+    {
+      "label": "Safety & Comfort" 
+    },
+    {
+      "label": "Power Source" 
+    }
+  ],
+  "available_colors":9,
+  "size": true,
+  "available_size": 2,
+  "badge": true,
+  "badges": ["Amazon's Choice"],
+  "value": false,
+  "values": ["$99.99 (9% off)"],
+  "review": false,
+  "reviews": [
+    "4.4 out of 5 stars — 20,538 ratings"
+  ],
+  "discount": true,
+  "discounts": "Get $60 off   ",
+  "compareLink": "https://www.example.com/compare-baby-swings",
+  "checkPriceLink": "https://www.amazon.com/dp/B06XJ25XGD?tag=bestbabygears-20",
+  "ASIN": "B06XJ25XGD"
+}
+,
+{
+  "id": "Best Affordable Baby Swings6",
+  "rank": 6,
+  "title": "LAREX Baby Swing Infant Swing Electric Toddler Baby Rocker Portable for Newborn Boy Girl, 5 Sway Speeds with Remote Control, 10 Preset Melodies and Bluetooth, 0-6 Months Max 20 Lbs (Black)",
+  "brand": "Larex",
+  "rating": 4.5,
+  "price": "$109.99",
+  "amazon_link": "YOUR_AFFILIATE_LINK",
+  "monthly_purchases": "1K+ ",
+                   "images": [
+      "/images/affo6.1.jpg",
+      "/images/affo6.2.jpg",
+      "/images/affo6.3.jpg",
+      "/images/affo6.4.jpg",
+      "/images/affo6.5.jpg"
+    ],
+  "features": [
+    {
+      "label": "5 Swing Speeds" 
+    },
+    {
+      "label": "Built-in Sounds & Bluetooth" 
+    },
+    {
+      "label": "Remote & Touch Panel Control" 
+    },
+    {
+      "label": "Secure & Comfortable Seat" 
+    },
+    {
+      "label": "Compact & Convenient" 
+    },
+    {
+      "label": "Safety Warning" 
+    }
+  ],
+  "available_colors":6,
+  "size": true,
+  "available_size":2,
+  "badge": true,
+  "badges": ["Amazon's Choice"],
+  "value": false,
+  "values": ["$109.99"],
+  "review": false,
+  "reviews": [
+    "4.5 out of 5 stars — 1,602 ratings"
+  ],
+  "discount": true,
+  "discounts": "Get $60 off   ",
+  "compareLink": "https://www.example.com/compare-baby-swings",
+  "checkPriceLink": "https://www.amazon.com/dp/B09YKWCPSP?tag=bestbabygears-20",
+  "ASIN": "B09YKWCPSP"
+},
+{
+  "id": "Best Affordable Baby Swings7",
+  "rank": 7,
+  "title": "Baby Swings for Infants, Fasonbaby Bluetooth Infant Swing with Music Speaker with 3 Seat Positions, 5 Speeds and Remote Control - Portable Baby Swing for Indoor and Outdoor (Black)",
+  "brand": "FasonBaby",
+  "rating": 4.5,
+  "price": "$149.99",
+  "amazon_link": "YOUR_AFFILIATE_LINK",
+  "monthly_purchases": "800+ ",
+                   "images": [
+      "/images/affo7.1.jpg",
+      "/images/affo7.2.jpg",
+      "/images/affo7.3.jpg",
+      "/images/affo7.4.jpg",
+      "/images/affo7.5.jpg"
+    ],
+  "features": [
+    {
+      "label": "Elegant & Safe Design" 
+    },
+    {
+      "label": "Entertainment Features" 
+    },
+    {
+      "label": "5 Natural Swing Speeds" 
+    },
+    {
+      "label": "Adjustable Seat Positions" 
+    },
+    {
+      "label": "Comfort and Breathability" 
+    },
+    {
+      "label": "Portable and Convenient" 
+    },
+    {
+      "label": "Remote & Touch Panel Control" 
+    }
+  ],
+  "available_colors":2,
+  "size": true,
+  "available_size":2,
+  "badge": true,
+  "badges": ["Amazon's Choice"],
+  "value": false,
+  "values": ["$149.99"],
+  "review": false,
+  "reviews": [
+    "4.5 out of 5 stars — 242 ratings"
+  ],
+  "discount": true,
+  "discounts": "Get $60 off   ",
+  "compareLink": "https://www.example.com/compare-baby-swings",
+  "checkPriceLink": "https://www.amazon.com/dp/B0CZ6P7N1T?tag=bestbabygears-20",
+  "ASIN": "B0CZ6P7N1T"
+}
+,
+{
+  "id": "Best Affordable Baby Swings8",
+  "rank": 8,
+  "title": "FUNLIO Toddler Swing with Foldable Metal Stand for Toddlers Aged 1~10 Years, 3-in-1 Baby Swing Set with 4 Sandbags for Backyard/Indoor/Outdoor Play, Easy to Assemble & Store",
+  "brand": "FUNLIO",
+  "rating": 4.2,
+  "price": "$82.99",
+  "amazon_link": "YOUR_AFFILIATE_LINK",
+  "monthly_purchases": "100+ ",
+                  "images": [
+      "/images/affo8.1.jpg",
+      "/images/affo8.2.jpg",
+      "/images/affo8.3.jpg",
+      "/images/affo8.4.jpg",
+      "/images/affo8.5.jpg"
+    ],
+  "features": [
+    {
+      "label": "3-in-1 Toddler Swing Set" 
+    },
+    {
+      "label": "Safety Features" 
+    },
+    {
+      "label": "Certified Quality" 
+    },
+    {
+      "label": "Easy to Assemble" 
+    },
+    {
+      "label": "Perfect for Outdoors" 
+    },
+    {
+      "label": "Customer Support & Warranty" 
+    }
+  ],
+  "available_colors": 7,
+  "size": true,
+  "available_size": 4,
+  "badge": true,
+  "badges": ["Amazon's Choice"],
+  "value": false,
+  "values": ["$82.99"],
+  "review": false,
+  "reviews": [
+    "4.2 out of 5 stars — 2,528 ratings"
+  ],
+  "discount": true,
+  "discounts": "Get $60 off   ",
+  "compareLink": "https://www.example.com/compare-baby-swings",
+  "checkPriceLink": "https://www.amazon.com/dp/B098QF1Q8B?tag=bestbabygears-20",
+  "ASIN": "B098QF1Q8B"
+}
+,
+{
+  "id": "Best Affordable Baby Swings9",
+  "rank": 9,
+  "title": "Swurfer Coconut Toddler Swing – Comfy Baby Swing Outdoor, 3-Point Adjustable Safety Harness, Secure, Safe Quick Click Locking System, Blister-Free Rope, Easy Installation, Ages 6-36 Months",
+  "brand": "Swurfer",
+  "rating": 4.7,
+  "price": "$36.99",
+  "amazon_link": "YOUR_AFFILIATE_LINK",
+  "monthly_purchases": "1K+ ",
+                   "images": [
+      "/images/affo9.1.jpg",
+      "/images/affo9.2.jpg",
+      "/images/affo9.3.jpg",
+      "/images/affo9.4.jpg",
+      "/images/affo9.5.jpg"
+    ],
+  "features": [
+    {
+      "label": "Sleek Modern Design" 
+    },
+    {
+      "label": "Versatile Usage" 
+    },
+    {
+      "label": "3-Point Safety Harness"
+    },
+    {
+      "label": "Easy and Safe Setup" 
+    },
+    {
+      "label": "Satisfaction Guarantee" 
+    }
+  ],
+  "available_colors": 6,
+  "size": true,
+  "available_size": "6-36 months ",
+  "badge": true,
+  "badges": ["Amazon's Choice"],
+  "value": false,
+  "values": ["$36.99"],
+  "review": true,
+  "reviews": [
+    "4.7 out of 5 stars — 4,323 ratings"
+  ],
+  "discount": true,
+  "discounts": "Get $60 off   ",
+  "compareLink": "https://www.example.com/compare-baby-swings",
+  "checkPriceLink": "https://www.amazon.com/dp/B09BG36V9N?tag=bestbabygears-20",
+  "ASIN": "B09BG36V9N"
+}
+,
+{
+  "id": "Best Affordable Baby Swings10",
+  "rank": 10,
+  "title": "Ingenuity Soothe 'n Delight Compact Portable 6-Speed Plush Baby Swing with Music, Folds Easy, 0-9 Months 6-20 lbs (Cozy Kingdom)",
+  "brand": "Ingenuity",
+  "rating": 4.5,
+  "price": "$69.99",
+  "amazon_link": "YOUR_AFFILIATE_LINK",
+  "monthly_purchases": "600+ ",
+                   "images": [
+      "/images/affo10.1.jpg",
+      "/images/affo10.2.jpg",
+      "/images/affo10.3.jpg",
+      "/images/affo10.4.jpg",
+      "/images/affo10.5.jpg"
+    ],
+  "features": [
+    {
+      "label": "Compact & Portable" 
+    },
+    {
+      "label": "6 Swing Speeds" 
+    },
+    {
+      "label": "Music & Timer" 
+    },
+    {
+      "label": "Comfy Fabrics" 
+    },
+    {
+      "label": "Removable Toy Bar" 
+    },
+    {
+      "label": "Age Range & Weight Limit" 
+    }
+  ],
+  "available_colors": 5,
+  "size": true,
+  "available_size": "0-9 months ",
+  "badge": true,
+  "badges": ["Amazon's Choice"],
+  "value": false,
+  "values": ["$69.99 (7% off)"],
+  "review": false,
+  "reviews": [
+    "4.5 out of 5 stars — 13,120 ratings"
+  ],
+  "discount": true,
+  "discounts": "7% off ",
+  "compareLink": "https://www.example.com/compare-baby-swings",
+  "checkPriceLink": "https://www.amazon.com/dp/B00E3RKC36?tag=bestbabygears-20",
+  "ASIN": "B00E3RKC36"
+}
+
+
+
+]

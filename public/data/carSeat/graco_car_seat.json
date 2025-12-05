@@ -1,0 +1,581 @@
+[
+  {
+  "id": "Best Graco Car Seats",
+  "rank": 1,
+  "title": "Graco TriRide 3-in-1 Reclining Car Seat, Clybourne",
+  "brand": "Graco",
+  "rating": 4.7,
+  "price": "$199.99",
+  "amazon_link": "YOUR_AFFILIATE_LINK",
+  "monthly_purchases": "1K+",
+        "images": [
+    "/images/Graco1.1.jpg",
+    "/images/Graco1.2.jpg",
+    "/images/Graco1.3.jpg",
+    "/images/Graco1.4.jpg",
+    "/images/Graco1.5.jpg"
+    ],
+  "features": [
+    {
+      "label": "Material",
+      "value": "Polyester"
+    },
+    {
+      "label": "Installation",
+      "value": "Latch"
+    }, 
+    {
+      "label": "Maximum Height",
+      "value": "57 Inches"
+    },
+    {
+      "label": "Material Composition",
+      "value": "Polyester"
+    },
+    {
+      "label": "Care Instructions",
+      "value": "Machine washable"
+    } 
+  ],
+  "available_colors_count": 4,
+  "size": false,
+  "available_size_count": 0,
+  "badge": true,
+  "badges": [
+    "Amazon's Choice" 
+  ],
+  "value": false,
+  "values": [
+    "$199.99"
+  ],
+  "review": false,
+  "reviews": [
+    "4.7 out of 5 stars — 7,715 ratings"
+  ],
+  "discount": false,
+  "discounts": 0,
+  "checkPriceLink": "https://www.amazon.com/dp/B0DQLPWPT8?tag=bestbabygears-20",
+  "ASIN": "B0DQLPWPT8"
+},
+{
+  "id": "Best Graco Car Seats2",
+  "rank": 2,
+  "title": "Graco Extend2Fit Convertible Baby Car Seat, Gotham",
+  "brand": "Graco",
+  "rating": 4.8,
+  "price": "$249.99",
+  "amazon_link": "YOUR_AFFILIATE_LINK",
+  "monthly_purchases": "3K+",
+         "images": [
+    "/images/Graco2.1.jpg",
+    "/images/Graco2.2.jpg",
+    "/images/Graco2.3.jpg",
+    "/images/Graco2.4.jpg",
+    "/images/Graco2.5.jpg"
+    ],
+  "features": [
+    {
+      "label": "Material",
+      "value": "Polyester"
+    },
+    {
+      "label": "Installation",
+      "value": "Latch"
+    },  
+    {
+      "label": "Material Composition",
+      "value": "Polyester"
+    },  
+    {
+      "label": "Harness Type",
+      "value": "5-Point"
+    },
+    {
+      "label": "Recline Positions",
+      "value": "10"
+    }
+  ],
+  "available_colors": 5,
+  "size": false,
+  "available_size": 0,
+  "badge": true,
+  "badges": [
+    "Amazon's Choice" 
+  ],
+  "value": false,
+  "values": [
+    "$249.99"
+  ],
+  "review": false,
+  "reviews": [
+    "4.8 out of 5 stars — 61,895 ratings"
+  ],
+  "discount": false,
+  "discount_percentage": 0,
+  "checkPriceLink": "https://www.amazon.com/dp/B0DHLQMWW7?tag=bestbabygears-20",
+  "ASIN": "B0DHLQMWW7"
+},
+{
+  "id": "Best Graco Car Seats3",
+  "rank": 3,
+  "title": "Graco 4Ever DLX 4-in-1 Car Seat, Charlie",
+  "brand": "Graco",
+  "rating": 4.8,
+  "price": "$263.99",
+  "amazon_link": "YOUR_AFFILIATE_LINK",
+  "monthly_purchases": "2K+",
+         "images": [
+    "/images/Graco3.1.jpg",
+    "/images/Graco3.2.jpg",
+    "/images/Graco3.3.jpg",
+    "/images/Graco3.4.jpg",
+    "/images/Graco3.5.jpg"
+    ],
+  "features": [
+    {
+      "label": "Material",
+      "value": "Polyester"
+    },
+    {
+      "label": "Installation",
+      "value": "Latch"
+    },  
+    {
+      "label": "Maximum Height",
+      "value": "57 Inches"
+    }, 
+    {
+      "label": "Harness Type",
+      "value": "5-Point"
+    },
+    {
+      "label": "Recline Positions",
+      "value": "10"
+    }
+  ],
+  "available_colors": 8,
+  "size": false,
+  "available_size_count": 0,
+  "badge": true,
+  "badges": [
+    "Amazon's Choice" 
+  ],
+  "value": false,
+  "values": [
+    "$263.99"
+  ],
+  "review": false,
+  "reviews": [
+    "4.8 out of 5 stars — 11,085 ratings"
+  ],
+  "discount": true,
+  "discounts": "Save 20%",
+  "checkPriceLink": "https://www.amazon.com/dp/B0DHLQL58Y?tag=bestbabygears-20",
+  "ASIN": "B0DHLQL58Y"
+},
+{
+  "id": "Best Graco Car Seats4",
+  "rank": 4,
+  "title": "Graco SlimFit 3-in-1 Convertible Car Seat, Darcie",
+  "brand": "Graco",
+  "rating": 4.8,
+  "price": "$239.99",
+  "amazon_link": "YOUR_AFFILIATE_LINK",
+  "monthly_purchases": "1K+",
+         "images": [
+    "/images/Graco4.1.jpg",
+    "/images/Graco4.2.jpg",
+    "/images/Graco4.3.jpg",
+    "/images/Graco4.4.jpg",
+    "/images/Graco4.5.jpg"
+    ],
+  "features": [
+    {
+      "label": "Material",
+      "value": "Foam, Alloy Steel"
+    },
+    {
+      "label": "Installation",
+      "value": "Latch"
+    }, 
+    {
+      "label": "Maximum Height",
+      "value": "57 Inches"
+    }, 
+    {
+      "label": "Harness Type",
+      "value": "5-Point"
+    },
+    {
+      "label": "Recline Positions",
+      "value": "10"
+    }
+  ],
+  "available_colors": 8,
+  "size": false,
+  "available_size": 0,
+  "badge": true,
+  "badges": [
+    "Amazon's Choice" 
+  ],
+  "value": false,
+  "values": [
+    "$239.99"
+  ],
+  "review": false,
+  "reviews": [
+    "4.8 out of 5 stars — 33,364 ratings"
+  ],
+  "discount": false,
+  "discount_percentage": 0,
+  "checkPriceLink": "https://www.amazon.com/dp/B01N3MYVZM?tag=bestbabygears-20",
+  "ASIN": "B01N3MYVZM"
+},
+{
+  "id": "Best Graco Car Seats5",
+  "rank": 5,
+  "title": "Graco SlimFit 3-in-1 Convertible Car Seat, Jarret",
+  "brand": "Graco",
+  "rating": 4.8,
+  "price": "$209.00",
+  "amazon_link": "YOUR_AFFILIATE_LINK",
+  "monthly_purchases": "5K+",
+         "images": [
+    "/images/Graco5.1.jpg",
+    "/images/Graco5.2.jpg",
+    "/images/Graco5.3.jpg",
+    "/images/Graco5.4.jpg",
+    "/images/Graco5.5.jpg"
+    ],
+  "features": [
+    {
+      "label": "Material",
+      "value": "Polyester"
+    },
+    {
+      "label": "Installation",
+      "value": "Latch"
+    }, 
+    {
+      "label": "Maximum Height",
+      "value": "57 Inches"
+    },  
+    {
+      "label": "Harness Type",
+      "value": "5-Point"
+    },
+    {
+      "label": "Recline Positions",
+      "value": "10"
+    }
+  ],
+  "available_colors": 8,
+  "size": false,
+  "available_size": 0,
+  "badge": true,
+  "badges": [
+    "Amazon's Choice" 
+  ],
+  "value": false,
+  "values": [
+    "$209.00"
+  ],
+  "review": false,
+  "reviews": [
+    "4.8 out of 5 stars — 33,364 ratings"
+  ],
+  "discount": true,
+  "discounts": "Save 13%",
+  "checkPriceLink": "https://www.amazon.com/dp/B0DHM53GZC?tag=bestbabygears-20",
+  "ASIN": "B0DHM53GZC"
+},
+{
+  "id": "Best Graco Car Seats6",
+  "rank": 6,
+  "title": "Graco Modes Pramette Travel System, Ellington",
+  "brand": "Graco",
+  "rating": 4.7,
+  "price": "$389.99",
+  "amazon_link": "YOUR_AFFILIATE_LINK",
+  "monthly_purchases": "2K+",
+         "images": [
+    "/images/Graco6.1.jpg",
+    "/images/Graco6.2.jpg",
+    "/images/Graco6.3.jpg",
+    "/images/Graco6.4.jpg",
+    "/images/Graco6.5.jpg"
+    ],
+  "features": [
+    {
+      "label": "Material",
+      "value": "Polyester"
+    },
+    {
+      "label": "Frame Material",
+      "value": "Aluminum"
+    },
+    {
+      "label": "Wheel Diameter",
+      "value": "7.5 Inches"
+    }, 
+    {
+      "label": "Folded Size",
+      "value": "38*24*18 Inches"
+    },
+    {
+      "label": "Item Weight",
+      "value": "37 Pounds"
+    }
+  ],
+  "available_colors": 7,
+  "size": false,
+  "available_size": 0,
+  "badge": true,
+  "badges": [
+    "Amazon's Choice" 
+  ],
+  "value": false,
+  "values": [
+    "$389.99"
+  ],
+  "review": false,
+  "reviews": [
+    "4.7 out of 5 stars — 8,727 ratings"
+  ],
+  "discount": false,
+  "discounts": 0,
+  "checkPriceLink": "https://www.amazon.com/dp/B07Y5VQYFW?tag=bestbabygears-20",
+  "ASIN": "B07Y5VQYFW"
+},
+{
+  "id": "Best Graco Car Seats7",
+  "rank": 7,
+  "title": "Graco SnugRide SnugLock LX Car Seat, Ion",
+  "brand": "Graco",
+  "rating": 4.8,
+  "price": "$289.99",
+  "amazon_link": "YOUR_AFFILIATE_LINK",
+  "monthly_purchases": "200+",
+         "images": [
+    "/images/Graco7.1.jpg",
+    "/images/Graco7.2.jpg",
+    "/images/Graco7.3.jpg",
+    "/images/Graco7.4.jpg",
+    "/images/Graco7.5.jpg"
+    ],
+  "features": [
+    {
+      "label": "Material",
+      "value": "Polyester"
+    },
+    {
+      "label": "Installation",
+      "value": "Seat Belt"
+    },   
+    {
+      "label": "Recline Positions",
+      "value": "4"
+    },
+    {
+      "label": "Harness Type",
+      "value": "5-Point"
+    },
+    {
+      "label": "Item Weight",
+      "value": "9.75 pounds"
+    }
+  ],
+  "available_colors": 2,
+  "size": false,
+  "available_size": 0,
+  "badge": true,
+  "badges": [
+    "Amazon's Choice" 
+  ],
+  "value": false,
+  "values": [
+    "$289.99"
+  ],
+  "review": false,
+  "reviews": [
+    "4.8 out of 5 stars — 10,621 ratings"
+  ],
+  "discount": false,
+  "discount_percentage": 0,
+  "checkPriceLink": "https://www.amazon.com/dp/B07CVCHKTT?tag=bestbabygears-20",
+  "ASIN": "B07CVCHKTT"
+},
+{
+  "id": "Best Graco Car Seats8",
+  "rank": 8,
+  "title": "Evenflo Pivot Modular Travel System with LiteMax Infant Car Seat, Desert Tan",
+  "brand": "Evenflo",
+  "rating": 4.6,
+  "price": "$309.00",
+  "amazon_link": "YOUR_AFFILIATE_LINK",
+  "monthly_purchases": "1K+",
+         "images": [
+    "/images/Graco8.1.jpg",
+    "/images/Graco8.2.jpg",
+    "/images/Graco8.3.jpg",
+    "/images/Graco8.4.jpg",
+    "/images/Graco8.5.jpg"
+    ],
+  "features": [
+    {
+      "label": "Material",
+      "value": "Polyester"
+    },
+    {
+      "label": "Frame Material",
+      "value": "Metal"
+    },
+    {
+      "label": "Color",
+      "value": "Desert Tan"
+    },   
+    {
+      "label": "Back Wheel Diameter",
+      "value": "9.5 Inches"
+    },
+    {
+      "label": "Item Weight",
+      "value": "38.1 Pounds"
+    }
+  ],
+  "available_colors": 4,
+  "size": false,
+  "available_size": 0,
+  "badge": true,
+  "badges": [
+    "Best Seller" 
+  ],
+  "value": false,
+  "values": [
+    "$309.00"
+  ],
+  "review": false,
+  "reviews": [
+    "4.6 out of 5 stars — 10,727 ratings"
+  ],
+  "discount": false,
+  "discount_percentage": 0,
+  "checkPriceLink": "https://www.amazon.com/dp/B0DLY6W627?tag=bestbabygears-20",
+  "ASIN": "B0DLY6W627"
+}
+,
+{
+  "id": "Best Graco Car Seats9",
+  "rank": 9,
+  "title": "Graco Tranzitions 3-in-1 Harness Booster Car Seat, Forward Facing Car Seat, Highback, to Backless Booster, Proof",
+  "brand": "Graco",
+  "rating": 4.7,
+  "price": "$149.00",
+  "amazon_link": "YOUR_AFFILIATE_LINK",
+  "monthly_purchases": "4K+",
+         "images": [
+    "/images/Graco9.1.jpg",
+    "/images/Graco9.2.jpg",
+    "/images/Graco9.3.jpg",
+    "/images/Graco9.4.jpg",
+    "/images/Graco9.5.jpg"
+    ],
+  "features": [ 
+    {
+      "label": "Color",
+      "value": "Proof 2.0"
+    },
+    {
+      "label": "Orientation",
+      "value": "Forward Facing"
+    },
+    {
+      "label": "Harness Type",
+      "value": "5-Point"
+    }, 
+    {
+      "label": "Item Weight",
+      "value": "15.1 pounds"
+    },
+    {
+      "label": "Reclining Positions",
+      "value": "9"
+    }
+  ],
+  "available_colors": 3,
+  "size": false,
+  "available_size": 0,
+  "badge": true,
+  "badges": [
+    "Amazon's Choice" 
+  ],
+  "value": false,
+  "values": [
+    "$149.00"
+  ],
+  "review": false,
+  "reviews": [
+    "4.7 out of 5 stars — 602 ratings"
+  ],
+  "discount": false,
+  "discount_percentage": 0,
+  "checkPriceLink": "https://www.amazon.com/dp/B0DQLRHG1N?tag=bestbabygears-20",
+  "ASIN": "B0DQLRHG1N"
+},
+{
+  "id": "Best Graco Car Seats10",
+  "rank": 10,
+  "title": "Graco Turn2Me 3-in-1 Rotating Convertible Car Seat, Cambridge, Rear-Facing Rotation, Forward-Facing Mode, Highback Booster Up to 100 lbs, Adjustable Headrest & Harness, Steel Reinforced Frame",
+  "brand": "Graco",
+  "rating": 4.7,
+  "price": "$399.00",
+  "amazon_link": "YOUR_AFFILIATE_LINK",
+  "monthly_purchases": "1K+",
+         "images": [
+    "/images/Graco10.1.jpg",
+    "/images/Graco10.2.jpg",
+    "/images/Graco10.3.jpg",
+    "/images/Graco10.4.jpg",
+    "/images/Graco10.5.jpg"
+    ],
+  "features": [
+    {
+      "label": "Material",
+      "value": "Polyester"
+    },
+    {
+      "label": "Color",
+      "value": "Cambridge 2.0"
+    },
+    {
+      "label": "Orientation",
+      "value": "Forward Facing"
+    },
+    {
+      "label": "Harness Type",
+      "value": "5-Point"
+    },  
+    {
+      "label": "Item Weight",
+      "value": "20 pounds"
+    }
+  ],
+  "available_colors": 7,
+  "size": false,
+  "available_size": 0,
+  "badge": false,
+  "badges": [],
+  "value": false,
+  "values": [
+    "$399.00"
+  ],
+  "review": false,
+  "reviews": [
+    "4.7 out of 5 stars — 1,000 ratings"
+  ],
+  "discount": true,
+  "discounts": "Save 15%",
+  "checkPriceLink": "https://www.amazon.com/dp/B0DHLR4M9Z?tag=bestbabygears-20",
+  "ASIN": "B0DHLR4M9Z"
+} 
+]

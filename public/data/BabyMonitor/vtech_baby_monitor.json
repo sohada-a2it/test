@@ -1,0 +1,580 @@
+[
+    {
+
+ "id": "Best VTech Baby Monitors",
+  "rank": 1,
+  "title": "VTech Communications DM221 Audio Baby Monitor with up to 1,000 ft of Range, Vibrating Sound-Alert, Talk Back Intercom & Night Light Loop",
+  "brand": "VTech",
+  "rating": 4.6,
+  "price": "$43.90",
+  "amazon_link": "YOUR_AFFILIATE_LINK",
+  "monthly_purchases": "1K+",
+          "images": [
+      "/images/bhome9.1.jpg",
+      "/images/bhome9.2.jpg",
+      "/images/bhome9.3.jpg",
+      "/images/bhome9.4.jpg",
+      "/images/bhome9.5.jpg"
+    ],
+  "features": [
+    {
+      "label": "Monitor Type",
+      "value": "Audio Only"
+    },  
+    {
+      "label": "Range",
+      "value": "1000 ft"
+    }, 
+    {
+      "label": "Volume Control",
+      "value": "Yes"
+    }, 
+    {
+      "label": "Night Light",
+      "value": "Yes, on baby unit"
+    },
+    {
+      "label": "Number of Channels",
+      "value": 1
+    }
+  ],
+  "available_colors": ["White/Silver"],
+  "size": true,
+  "available_size": 1,
+  "style": true,
+  "available_style": 2,
+  "badge": true,
+  "badges": ["Amazon's Choice"],
+  "value": false,
+  "values": [],
+  "review": false,
+  "reviews": [
+    "4.6 out of 5 stars — 33,818 ratings"
+  ],
+  "discount": false,
+  "discounts": "",
+  "compareLink": "https://www.example.com/compare-baby-monitor",
+  "checkPriceLink": "https://www.amazon.com/dp/B007NG5UF4?tag=bestbabygears-20",
+  "ASIN": "B007NG5UF4"
+}
+,
+{
+    "id": "Best VTech Baby Monitors2",
+  "rank": 2,
+  "title": "HelloBaby No WiFi Baby Monitor 5\" Screen 30-Hour Battery Pan-Tilt-Zoom Video Upgrade with Camera and Audio, Night Vision, VOX, 2-Way Talk, 8 Lullabies and 1000ft Range, HB6550",
+  "brand": "HelloBaby",
+  "rating": 4.5,
+  "price": "$67.99",
+  "amazon_link": "YOUR_AFFILIATE_LINK",
+  "monthly_purchases": "30K+",
+              "images": [
+      "/images/long6.1.jpg",
+      "/images/long6.2.jpg",
+      "/images/long6.3.jpg",
+      "/images/long6.4.jpg",
+      "/images/long6.5.jpg"
+    ],
+  "features": [
+    {
+      "label": "Monitor Type",
+      "value": "Video Baby Monitor"
+    }, 
+    {
+      "label": "Battery Life",
+      "value": "30 hours"
+    },
+    {
+      "label": "Two-Way Audio",
+      "value": "Yes"
+    }, 
+    {
+      "label": "Range",
+      "value": "1000 ft"
+    },  
+    {
+      "label": "Lullabies",
+      "value": "8 lullabies"
+    }  
+  ],
+  "available_colors": ["HB6550"],
+  "size": true,
+  "available_size": 2,
+  "style": true,
+  "available_style":2,
+  "badge": true,
+  "badges": ["#1 Best Seller"],
+  "value": false,
+  "values": [],
+  "review": false,
+  "reviews": [
+    "4.5 out of 5 stars — 14,957 ratings"
+  ],
+  "discount": true,
+  "discounts": "48% off",
+  "compareLink": "https://www.example.com/compare-baby-monitor",
+  "checkPriceLink": "https://www.amazon.com/dp/B09GM8JZM9?tag=bestbabygears-20",
+  "ASIN": "B09GM8JZM9"
+}
+,
+{
+    "id": "Best VTech Baby Monitors3",
+  "rank": 3,
+  "title": "VTech VM819-2 Baby Monitor, 2.8” Screen, 2 Cameras, 1000ft Range, Night Vision, 2-Way Audio, Temperature Sensor, Lullabies, Secured Transmission No WiFi",
+  "brand": "VTech",
+  "rating": 4.5,
+  "price": "$85.95",
+  "amazon_link": "YOUR_AFFILIATE_LINK",
+  "monthly_purchases": "400+",
+                "images": [ 
+      "/images/vtech3.1.jpg",
+      "/images/vtech3.2.jpg",
+      "/images/vtech3.3.jpg",
+      "/images/vtech3.4.jpg",
+      "/images/vtech3.5.jpg"
+    ],
+  "features": [
+    {
+      "label": "Monitor Type",
+      "value": "Video Baby Monitor"
+    },
+    {
+      "label": "Screen Size",
+      "value": "2.8 inches"
+    }, 
+    {
+      "label": "Range",
+      "value": "Up to 1000 feet"
+    },
+    {
+      "label": "Two-Way Audio",
+      "value": "Yes"
+    }, 
+    {
+      "label": "Temperature Sensor",
+      "value": "Yes, with alert"
+    }
+  ],
+  "available_colors": ["White"],
+  "size": true,
+  "available_size": 2,
+  "style": true,
+  "available_style":2,
+  "badge": true,
+  "badges": ["Amazon's Choice"],
+  "value": false,
+  "values": [],
+  "review": false,
+  "reviews": [
+    "4.5 out of 5 stars — 17,827 ratings"
+  ],
+  "discount": true,
+  "discounts": "15% off ",
+  "compareLink": "https://www.example.com/compare-baby-monitor",
+  "checkPriceLink": "https://www.amazon.com/dp/B095SB7F4P?tag=bestbabygears-20",
+  "ASIN": "B095SB7F4P"
+}
+,
+{
+     "id": "Best VTech Baby Monitors4",
+  "rank": 4,
+  "title": "VTech VM350 Baby Monitor, 5\" Screen, 1000ft Long Range, Night Vision, 2-Way Talk, Lullabies, Secured Transmission No WiFi",
+  "brand": "VTech",
+  "rating": 4.5,
+  "price": "$61.50",
+  "amazon_link": "YOUR_AFFILIATE_LINK",
+  "monthly_purchases": "300+",
+                  "images": [ 
+      "/images/vtech4.1.jpg",
+      "/images/vtech4.2.jpg",
+      "/images/vtech4.3.jpg",
+      "/images/vtech4.4.jpg",
+      "/images/vtech4.5.jpg"
+    ],
+  "features": [
+    {
+      "label": "Monitor Type",
+      "value": "Video Baby Monitor"
+    },
+    {
+      "label": "Screen Size",
+      "value": "5 inches"
+    }, 
+    {
+      "label": "Range",
+      "value": "Up to 1000 feet"
+    },
+    {
+      "label": "Two-Way Audio",
+      "value": "Yes"
+    },
+    {
+      "label": "Night Vision",
+      "value": "Yes, Night Color"
+    } 
+  ],
+  "available_colors": ["White"],
+  "size": true,
+  "available_size": 2,
+  "available_style": 1,
+  "badge": true,
+  "badges": ["Amazon's Choice"],
+  "value": false,
+  "values": [],
+  "review": false,
+  "reviews": [
+    "4.5 out of 5 stars — 17,827 ratings"
+  ],
+  "discount": true,
+  "discounts": "15% off ",
+  "compareLink": "https://www.example.com/compare-baby-monitor",
+  "checkPriceLink": "https://www.amazon.com/dp/B07C5PGNG8?tag=bestbabygears-20",
+  "ASIN": "B07C5PGNG8"
+}
+,
+{
+     "id": "Best VTech Baby Monitors5",
+  "rank": 5,
+  "title": "VTech VM819 Baby Monitor with Camera and Audio, 2.8” Screen Portable Baby Camera, Night Vision, 2-Way Audio, Temperature Sensor and Lullabies, Secure Transmission No WiFi, Ideal for Baby/Elderly/Pet",
+  "brand": "VTech",
+  "rating": 4.5,
+  "price": "$40.95",
+  "amazon_link": "YOUR_AFFILIATE_LINK",
+  "monthly_purchases": "10K+",
+                  "images": [ 
+      "/images/vtech5.1.jpg",
+      "/images/vtech5.2.jpg",
+      "/images/vtech5.3.jpg",
+      "/images/vtech5.4.jpg",
+      "/images/vtech5.5.jpg"
+    ],
+  "features": [
+    {
+      "label": "Monitor Type",
+      "value": "Video Baby Monitor"
+    },
+    {
+      "label": "Screen Size",
+      "value": "2.8 inches"
+    }, 
+    {
+      "label": "Range",
+      "value": "Up to 1000 feet"
+    },
+    {
+      "label": "Two-Way Audio",
+      "value": "Yes"
+    },
+    {
+      "label": "Night Vision",
+      "value": "Yes, Night Color"
+    } 
+  ],
+  "available_colors": ["White"],
+  "size": true,
+  "available_size": 1,
+  "available_style":1,
+  "badge": true,
+  "badges": ["Amazon's Choice"],
+  "value": false,
+  "values": [],
+  "review": false,
+  "reviews": [
+    "4.5 out of 5 stars — 17,827 ratings"
+  ],
+  "discount": true,
+  "discounts": "15% off ",
+  "compareLink": "https://www.example.com/compare-baby-monitor",
+  "checkPriceLink": "https://www.amazon.com/dp/B08V8RWP3W?tag=bestbabygears-20",
+  "ASIN": "B08V8RWP3W"
+}
+,
+{
+     "id": "Best VTech Baby Monitors6",
+  "rank": 6,
+  "title": "VTech VM924 Remote Pan-Tilt-Zoom Video Baby Monitor, 5\" LCD Screen, Up to 17 Hrs Video Streaming, Night Vision, Up to 1000ft Range, Soothing Sounds, 2-Way Talk, Temperature Sensor, Secured Transmission",
+  "brand": "VTech",
+  "rating": 4.2,
+  "price": "$59.95",
+  "amazon_link": "YOUR_AFFILIATE_LINK",
+  "monthly_purchases": "1K+",
+                  "images": [ 
+      "/images/vtech6.1.jpg",
+      "/images/vtech6.2.jpg",
+      "/images/vtech6.3.jpg",
+      "/images/vtech6.4.jpg",
+      "/images/vtech6.5.jpg"
+    ],
+  "features": [
+    {
+      "label": "Monitor Type",
+      "value": "Video Baby Monitor"
+    },
+    {
+      "label": "Screen Size",
+      "value": "5 inches"
+    },  
+    {
+      "label": "Range",
+      "value": "Up to 1,000 feet"
+    },
+    {
+      "label": "Two-Way Audio",
+      "value": "Yes"
+    }, 
+    {
+      "label": "Temperature Sensor",
+      "value": "Yes, with alert"
+    }
+  ],
+  "available_colors": ["White"],
+  "size": true,
+  "available_size": 1,
+  "available_style":1,
+  "badge": true,
+  "badges": ["Amazon's Choice"],
+  "value": false,
+  "values": [],
+  "review": false,
+  "reviews": [
+    "4.2 out of 5 stars — 3,680 ratings"
+  ],
+  "discount": true,
+  "discounts": "8% off ",
+  "compareLink": "https://www.example.com/compare-baby-monitor",
+  "checkPriceLink": "https://www.amazon.com/dp/B09XDC296X?tag=bestbabygears-20",
+  "ASIN": "B09XDC296X"
+}
+,
+{
+     "id": "Best VTech Baby Monitors7",
+  "rank": 7,
+  "title": "VTech 7\" Baby Monitor with IPS Screen, Pan Tilt Zoom Camera, No WiFi Video Baby Monitor with Camera and Audio, Multi-Color Night Light, 2-Way Talk, Lullabies, Advanced HQ Max",
+  "brand": "VTech",
+  "rating": 4.2,
+  "price": "$88.11",
+  "amazon_link": "YOUR_AFFILIATE_LINK",
+  "monthly_purchases": "1K+",
+                  "images": [ 
+      "/images/vtech7.1.jpg",
+      "/images/vtech7.2.jpg",
+      "/images/vtech7.3.jpg",
+      "/images/vtech7.4.jpg",
+      "/images/vtech7.5.jpg"
+    ],
+  "features": [ 
+    {
+      "label": "Screen Size",
+      "value": "7 inches"
+    }, 
+    {
+      "label": "Range",
+      "value": "Up to 1,000 feet"
+    },
+    {
+      "label": "Two-Way Audio",
+      "value": "Yes"
+    },
+    {
+      "label": "Night Vision",
+      "value": "Yes"
+    },  
+    {
+      "label": "Motion Sensor",
+      "value": "Yes"
+    } 
+  ],
+  "available_colors": ["White"],
+  "size": true,
+  "available_size": 1,
+  "available_style":1,
+  "badge": true,
+  "badges": ["Amazon's Choice"],
+  "value": false,
+  "values": [],
+  "review": false,
+  "reviews": [
+    "4.2 out of 5 stars — 1,147 ratings"
+  ],
+  "discount": true,
+  "discounts": "Save 5% off",
+  "compareLink": "https://www.example.com/compare-baby-monitor",
+  "checkPriceLink": "https://www.amazon.com/dp/B0DFMCG3C2?tag=bestbabygears-20",
+  "ASIN": "B0DFMCG3C2"
+}
+,
+{
+     "id": "Best VTech Baby Monitors8",
+  "rank": 8,
+  "title": "VTech Upgraded Smart WiFi Baby Monitor, 1080p FHD Camera and 5\" HD IPS Display, Free App with Motion Video, Sound/Motion Detection and Notifications, Fully Remote Pan-Tilt-Zoom: VM901",
+  "brand": "VTech",
+  "rating": 4.1,
+  "price": "$129.95",
+  "amazon_link": "YOUR_AFFILIATE_LINK",
+  "monthly_purchases": "2K+",
+                  "images": [ 
+      "/images/vtech8.1.jpg",
+      "/images/vtech8.2.jpg",
+      "/images/vtech8.3.jpg",
+      "/images/vtech8.4.jpg",
+      "/images/vtech8.5.jpg"
+    ],
+  "features": [ 
+    {
+      "label": "Screen Size",
+      "value": "5 inches"
+    },
+    {
+      "label": "Video Resolution",
+      "value": "1080p FHD"
+    }, 
+    {
+      "label": "Battery Life",
+      "value": "Battery-powered"
+    },
+    {
+      "label": "Two-Way Audio",
+      "value": "Yes"
+    },  
+    {
+      "label": "Viewing Angle",
+      "value": "120 degrees"
+    }
+  ],
+  "available_colors": ["White"],
+  "size": true,
+  "available_size": 1,
+  "available_style":1,
+  "badge": true,
+  "badges": ["Amazon's Choice"],
+  "value": false,
+  "values": [],
+  "review": false,
+  "reviews": [
+    "4.1 out of 5 stars — 7,133 ratings"
+  ],
+  "discount": true,
+  "discounts": "Save $60" ,
+  "compareLink": "https://www.example.com/compare-baby-monitor",
+  "checkPriceLink": "https://www.amazon.com/dp/B07WCV632L?tag=bestbabygears-20",
+  "ASIN": "B07WCV632L"
+}
+,
+{
+     "id": "Best VTech Baby Monitors9",
+  "rank": 9,
+  "title": "VTech Upgraded Audio Baby Monitor with Rechargeable Battery, Long Range, and Crystal-Clear Sound",
+  "brand": "VTech",
+  "rating": 4.4,
+  "price": "$23.95",
+  "amazon_link": "YOUR_AFFILIATE_LINK",
+  "monthly_purchases": "10K+",
+                  "images": [ 
+      "/images/vtech9.1.jpg",
+      "/images/vtech9.2.jpg",
+      "/images/vtech9.3.jpg",
+      "/images/vtech9.4.jpg",
+      "/images/vtech9.5.jpg"
+    ],
+  "features": [
+    {
+      "label": "Monitor Type",
+      "value": "Audio Baby Monitor"
+    },
+    {
+      "label": "Range",
+      "value": "Up to 1,000 feet"
+    }, 
+    {
+      "label": "Frequency",
+      "value": "1.88-1.90 GHz"
+    }, 
+    {
+      "label": "Easy Setup",
+      "value": "Plug and play"
+    },
+    {
+      "label": "Alerts",
+      "value": "Low Battery, Out of Range"
+    }
+  ],
+  "available_colors": ["Yellow"],
+  "size": true,
+  "available_size": 1,
+  "available_style": [
+    "Audio Monitor with 1 Parent Unit",
+    "Audio Monitor with 2 Parent Units"
+  ],
+  "badge": true,
+  "badges": ["Amazon's Choice"],
+  "value": false,
+  "values": [],
+  "review": false,
+  "reviews": [
+    "4.4 out of 5 stars — 48,104 ratings"
+  ],
+  "discount": false,
+  "discounts": "Current Price: $23.95",
+  "compareLink": "https://www.example.com/compare-baby-monitor",
+  "checkPriceLink": "https://www.amazon.com/dp/B00JEV5UI8?tag=bestbabygears-20",
+  "ASIN": "B00JEV5UI8"
+}
+,
+{
+     "id": "Best VTech Baby Monitors10",
+  "rank": 10,
+  "title": "VTech RM7764-2HD Smart WiFi 2 Camera BabyMonitor, 360° Pan&Tilt, 10X Zoom, 7” HD Display & NightVision, Soothing Sounds, 2-Way Talk, Temperature & Motion Detection",
+  "brand": "VTech",
+  "rating": 4.1,
+  "price": "$224.95",
+  "amazon_link": "YOUR_AFFILIATE_LINK",
+  "monthly_purchases": "700+",
+                  "images": [ 
+      "/images/vtech10.1.jpg",
+      "/images/vtech10.2.jpg",
+      "/images/vtech10.3.jpg",
+      "/images/vtech10.4.jpg",
+      "/images/vtech10.5.jpg"
+    ],
+  "features": [
+    {
+      "label": "Video Resolution",
+      "value": "1080p FHD & 720p HD "
+    }, 
+    {
+      "label": "Night Vision",
+      "value": "HD Night Vision "
+    }, 
+    {
+      "label": "Power Source",
+      "value": "Corded Electric with Lithium "
+    },
+    {
+      "label": "Installation",
+      "value": "Table/Wall mount, Freestanding"
+    },
+    {
+      "label": "Alert Type",
+      "value": "Audio and Motion Alerts"
+    }
+  ],
+  "available_colors": ["White"],
+  "size": true,
+  "available_size": 1,
+  "available_style": [
+    "7\" Wifi 2 Cam"
+  ],
+  "badge": true,
+  "badges": ["#1 Best Seller "],
+  "value": false,
+  "values": [],
+  "review": false,
+  "reviews": [
+    "4.1 out of 5 stars — 6,528 ratings"
+  ],
+  "discount": false,
+  "discounts": "Current Price: $224.95",
+  "compareLink": "https://www.example.com/compare-baby-monitor",
+  "checkPriceLink": "https://www.amazon.com/dp/B09VT3FZWH?tag=bestbabygears-20",
+  "ASIN": "B09VT3FZWH"
+}  
+]

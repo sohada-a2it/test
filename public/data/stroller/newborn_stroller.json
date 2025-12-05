@@ -1,0 +1,535 @@
+[
+    {
+  "id": "graco-modes-stroller-grayson",
+  "rank": 1,
+  "title": "Graco Modes Stroller, Grayson",
+  "brand": "Graco",
+  "rating": 4.8,
+  "price": "N/A",
+  "amazon_link": "https://www.amazon.com/dp/B07CC2KK32",
+  "monthly_purchases": "N/A",
+  "images": [
+    "/images/newborn-stroller1.1.jpg",
+    "/images/newborn-stroller1.2.jpg",
+    "/images/newborn-stroller1.3.jpg",
+    "/images/newborn-stroller1.4.jpg",
+    "/images/newborn-stroller1.5.jpg"
+  ],
+  "features": [ 
+    {
+      "label": "Material",
+      "value": "Polyester"
+    },
+    {
+      "label": "Harness Type",
+      "value": "3 Point"
+    },
+    {
+      "label": "Seating Capacity",
+      "value": "1"
+    },
+    {
+      "label": "Item Weight",
+      "value": "10.32 kg"
+    }, 
+    {
+      "label": "Car Seat Compatible",
+      "value": "Yes"
+    } 
+  ],
+  "available_colors": 1,
+  "size": true,
+  "available_size": 1,
+  "style": true,
+  "available_style": 0,
+  "badge": false,
+  "badges": [],
+  "value": false,
+  "values": [],
+  "review": false,
+  "reviews": [
+    "4.8 out of 5 stars, 2,381 ratings"
+  ],
+  "discount": false,
+  "discounts": "",
+  "compareLink": "",
+  "checkPriceLink": "https://www.amazon.com/dp/B07CC2KK32?tag=bestbabygears-20" 
+},
+{
+  "id": "featherlite-tinytots-lightweight-stroller",
+  "rank": 2,
+  "title": "Featherlite™ by Tinytots Lightweight Stroller One Hand Folding with Free Rain Cover, Storage Bag, and Cupholder - Grey",
+  "brand": "Generic",
+  "rating": 4.0,
+  "price": "N/A",
+  "amazon_link": "https://www.amazon.com/dp/B0D3BK614H",
+  "monthly_purchases": "N/A",
+  "images": [
+    "/images/lw-strolller2.1.jpg",
+    "/images/lw-strolller2.2.jpg",
+    "/images/lw-strolller2.3.jpg",
+    "/images/lw-strolller2.4.jpg",
+    "/images/lw-strolller2.5.jpg"
+  ],
+  "features": [ 
+    {
+      "label": "Material",
+      "value": "Aluminium"
+    }, 
+    {
+      "label": "Harness Type",
+      "value": "5 Point"
+    },
+    {
+      "label": "Seating Capacity",
+      "value": "1"
+    },
+    {
+      "label": "Tire Material",
+      "value": "Rubber"
+    },
+    {
+      "label": "Folded Size",
+      "value": "<68 cm x 5 cm x 98 cm"
+    } 
+  ],
+  "available_colors": 1,
+  "size": true,
+  "available_size": 1,
+  "style": true,
+  "available_style": 0,
+  "badge": false,
+  "badges": [],
+  "value": false,
+  "values": [],
+  "review": false,
+  "reviews": [],
+  "discount": false,
+  "discounts": "",
+  "compareLink": "",
+  "checkPriceLink": "https://www.amazon.com/dp/B0D3BK614H?tag=bestbabygears-20" 
+},
+    {
+  "id": "koolababy-yd209-umbrella-stroller",
+  "rank": 3,
+  "title": "Stroller YD209",
+  "brand": "KOOLABABY",
+  "rating": 4.4,
+  "price": "N/A",
+  "amazon_link": "N/A",
+  "monthly_purchases": "N/A",
+   "images": [
+    "/images/lw-stroller1.1.jpg",
+    "/images/lw-stroller1.2.jpg",
+    "/images/lw-stroller1.3.jpg",
+    "/images/lw-stroller1.4.jpg",
+    "/images/lw-stroller1.5.jpg"
+  ],
+  "features": [ 
+    {
+      "label": "Material",
+      "value": "Synthetic"
+    },
+    {
+      "label": "Frame Material",
+      "value": "Aluminium"
+    },
+    {
+      "label": "Harness Type",
+      "value": "5 Point"
+    },
+    {
+      "label": "Folded Size",
+      "value": "22 x 15 x 35 Inches"
+    },
+    {
+      "label": "Item Weight",
+      "value": "6.35 kg"
+    },
+    {
+      "label": "Stroller Type",
+      "value": "Umbrella Stroller"
+    } 
+  ],
+  "available_colors": 1,
+  "size": true,
+  "available_size": 1,
+  "style": false,
+  "available_style": 0,
+  "badge": true,
+  "badges": [
+    "Top Rank 1"
+  ],
+  "value": false,
+  "values": [],
+  "review": false,
+  "reviews": [
+    "4.4 out of 5 stars, 272 ratings"
+  ],
+  "discount": false,
+  "discounts": "",
+  "compareLink": "",
+  "checkPriceLink": ""
+},
+{
+  "id": "cosatto-wow-3-travel-system-bureau",
+  "rank": 4,
+  "title": "Cosatto 3 in 1 Travel System, Wow 3 - Bureau",
+  "brand": "Cosatto",
+  "rating": 4.3,
+  "price": "RUB 103,671.72",
+  "amazon_link": "https://www.amazon.com/dp/B0D87KZ1PY",
+  "monthly_purchases": "N/A",
+   "images": [
+    "/images/newborn-stroller4.1.jpg",
+    "/images/newborn-stroller4.2.jpg",
+    "/images/newborn-stroller4.3.jpg",
+    "/images/newborn-stroller4.4.jpg",
+    "/images/newborn-stroller4.5.jpg"
+  ],
+  "features": [ 
+    {
+      "label": "Material",
+      "value": "Fabric"
+    },
+    {
+      "label": "Frame Material",
+      "value": "Aluminium"
+    },
+    {
+      "label": "Harness Type",
+      "value": "5 Point"
+    },
+    {
+      "label": "Seating Capacity",
+      "value": "2"
+    },
+    {
+      "label": "Item Weight",
+      "value": "11.9 kg"
+    } 
+  ],
+  "available_colors": 9,
+  "size": true,
+  "available_size": 1,
+  "style": true,
+  "available_style": 0,
+  "badge": false,
+  "badges": [],
+  "value": false,
+  "values": [],
+  "review": false,
+  "reviews": [
+    "93% positive ratings from 500+ customers"
+  ],
+  "discount": false,
+  "discounts": "",
+  "compareLink": "",
+  "checkPriceLink": "https://www.amazon.com/dp/B0D87KZ1PY?tag=bestbabygears-20" 
+},
+{
+  "id": "maxi-cosi-zelia-s-trio-familyfix-360-bundle",
+  "rank": 5,
+  "title": "Maxi-Cosi Zelia S Trio 3-in-1 Travel System, FamilyFix 360 Base Bundle - Baby Pushchair Travel System incl. CabrioFix S i-Size Car Seat, 0-4 Years, Up to 22 kg, Grey + FamilyFix 360 Swivel Base, Black",
+  "brand": "Maxi-Cosi",
+  "rating": 3.8,
+  "price": "N/A",
+  "amazon_link": "https://www.amazon.com/dp/B0CP2NK2M2",
+  "monthly_purchases": "N/A",
+  "images": [
+    "/images/strollerhome6.1.jpg",
+    "/images/strollerhome6.2.jpg",
+    "/images/strollerhome6.3.jpg",
+    "/images/strollerhome6.4.jpg",
+    "/images/strollerhome6.5.jpg"
+  ],
+  "features": [ 
+    {
+      "label": "Material",
+      "value": "Aluminium"
+    },
+    {
+      "label": "Harness Type",
+      "value": "5 Point"
+    },
+    {
+      "label": "Seating Capacity",
+      "value": "1"
+    },
+    {
+      "label": "Folded Size",
+      "value": "Compact"
+    },
+    {
+      "label": "Stroller Type",
+      "value": "Standard Stroller"
+    } 
+  ],
+  "available_colors": 1,
+  "size": true,
+  "available_size": 1,
+  "style": true,
+  "available_style": 1,
+  "badge": false,
+  "badges": [],
+  "value": false,
+  "values": [],
+  "review": true,
+  "reviews": ["3.8 out of 5 stars, 314 ratings"],
+  "discount": false,
+  "discounts": "",
+  "compareLink": "",
+  "checkPriceLink": "https://www.amazon.com/dp/B0CP2NK2M2?tag=bestbabygears-20" 
+},
+{
+  "id": "graco-transform-2-in-1-pushchair",
+  "rank": 6,
+  "title": "Graco Transform 2-in-1 Pushchair/Stroller (Birth to 4 Years Approx, 0-22 kg), Converts from Pramette to Pushchair, Black",
+  "brand": "Graco",
+  "rating": 4.0,
+  "price": "Currently unavailable",
+  "amazon_link": "https://www.amazon.com/dp/B0846H682S",
+  "monthly_purchases": "N/A",
+  "images": [
+    "/images/strollerhome5.1.jpg",
+    "/images/strollerhome5.2.jpg",
+    "/images/strollerhome5.3.jpg",
+    "/images/strollerhome5.4.jpg",
+    "/images/strollerhome5.5.jpg"
+  ],
+  "features": [
+    {"label": "Material", "value": "Aluminium"}, 
+    {"label": "Age Range", "value": "Birth to 4 years"},
+    {"label": "Harness Type", "value": "5 Point"}, 
+    {"label": "Item Weight", "value": "14.93 kg"}, 
+    {"label": "Stroller Type", "value": "Standard Stroller"},
+    {"label": "Orientation", "value": "Front and Parent-Facing"} 
+  ],
+  "available_colors": 1,
+  "size": false,
+  "available_size": 1,
+  "style": true,
+  "available_style": 1,
+  "badge": false,
+  "badges": [],
+  "value": false,
+  "values": [],
+  "review": true,
+  "reviews": ["4.0 out of 5 stars, 149 ratings"],
+  "discount": false,
+  "discounts": "",
+  "compareLink": "",
+  "checkPriceLink": "https://www.amazon.com/dp/B0846H682S?tag=bestbabygears-20" 
+},
+    {
+  "id": "graco-evo-trio-pushchair",
+  "rank": 7,
+  "title": "Graco Evo Trio Pushchair, Carrycot and Car Seat Travel System with Apron and Raincover, Eclipse",
+  "brand": "Graco",
+  "rating": 4.2,
+  "price": "Currently unavailable",
+  "amazon_link": "https://www.amazon.com/dp/B081262V9H",
+  "monthly_purchases": "N/A",
+  "images": [
+    "/images/strollerhome1.1.jpg",
+    "/images/strollerhome1.2.jpg",
+    "/images/strollerhome1.3.jpg",
+    "/images/strollerhome1.4.jpg",
+    "/images/strollerhome1.5.jpg"
+  ],
+  "features": [
+    {"label": "Material", "value": "Polyester"}, 
+    {"label": "Age Range", "value": "Baby"},
+    {"label": "Harness Type", "value": "5 Point"}, 
+    {"label": "Folded Size", "value": "90 x 61 x 45"},
+    {"label": "Stroller Type", "value": "Modular Stroller"},
+    {"label": "Seating Capacity", "value": "1"} 
+  ],
+  "available_colors": 1,
+  "size": true,
+  "available_size": 1,
+  "style": true,
+  "available_style": 1,
+  "badge": false,
+  "badges": [],
+  "value": false,
+  "values": [],
+  "review": true,
+  "reviews": ["4.2 out of 5 stars, 173 ratings"],
+  "discount": false,
+  "discounts": "",
+  "compareLink": "",
+  "checkPriceLink": "https://www.amazon.com/dp/B081262V9H?tag=bestbabygears-20" 
+},
+  {
+    "id": "ACCOMBE 2 in 1 Convertible Baby Stroller",
+    "rank": 8,
+    "title": "2 in 1 Baby Stroller, Convertible Bassinet Pushchair for Infants and Newborns 0-36 Months",
+    "brand": "ACCOMBE",
+    "rating": 4.5,
+    "price": "$135.99",
+    "amazon_link": "YOUR_AFFILIATE_LINK",
+    "monthly_purchases": "800+",
+      "images": [
+    "/images/newStroller8.1.jpg",
+    "/images/newStroller8.2.jpg",
+    "/images/newStroller8.3.jpg",
+    "/images/newStroller8.4.jpg",
+    "/images/newStroller8.5.jpg"
+  ],
+    "features": [ 
+      {
+        "label": "Material",
+        "value": "Metal"
+      }, 
+      {
+        "label": "Age Range",
+        "value": "Infant (0–36 months)"
+      },
+      {
+        "label": "Fabric Type",
+        "value": "Polyester"
+      }, 
+      {
+        "label": "Folded Size",
+        "value": "23.5 x 31 x 17 inches"
+      },
+      {
+        "label": "Item Weight",
+        "value": "25 pounds"
+      }
+    ],
+    "available_colors": 2,
+    "size": false,
+    "available_size": 1,
+    "style": true,
+    "available_style": 1,
+    "badge": true,
+    "badges": ["Amazon's Choice" ],
+    "value": false,
+    "values": ["Best Affordable Bassinet Stroller"],
+    "review": true,
+    "reviews": [
+      "A budget-friendly convertible bassinet stroller with strong build quality, adjustable seating, smooth all-terrain wheels, and excellent storage options."
+    ],
+    "discount": true,
+    "discounts": "32% off",
+    "compareLink": "https://www.example.com/compare-bassinet-strollers",
+    "checkPriceLink":"https://www.amazon.com/dp/B0D5Q2GKMX?tag=bestbabygears-20", 
+    "ASIN": "B0D5Q2GKMX"
+  }, 
+  {
+    "id": "LORTSYBAB 2-in-1 Baby Stroller",
+    "rank": 9,
+    "title": "2-in-1 Baby Stroller - Folding Infant Newborn Pram Stroller with Reversible Seat - Toddler Stroller for 0-36 Months (Beige)",
+    "brand": "LORTSYBAB",
+    "rating": 4.6,
+    "price": "$149.99",
+    "amazon_link": "YOUR_AFFILIATE_LINK",
+    "monthly_purchases": "300+",
+      "images": [
+    "/images/newStroller9.1.jpg",
+    "/images/newStroller9.2.jpg",
+    "/images/newStroller9.3.jpg",
+    "/images/newStroller9.4.jpg",
+    "/images/newStroller9.5.jpg"
+  ],
+    "features": [ 
+      {
+        "label": "Material",
+        "value": "Aluminum, Linen"
+      }, 
+      {
+        "label": "Age Range",
+        "value": "0-36 months"
+      },
+      {
+        "label": "Fabric Type",
+        "value": "Linen"
+      },
+      {
+        "label": "Seat Material",
+        "value": "Faux Leather"
+      },  
+      {
+        "label": "Included Components",
+        "value": "Stroller, foot cover"
+      }
+    ],
+    "available_colors": 3,
+    "size": false,
+    "available_size": 1,
+    "style": true,
+    "available_style": 1,
+    "badge": true,
+    "badges": ["Amazon's Choice"],
+    "value": false,
+    "values": ["Great Mid-Range Stroller"],
+    "review": false,
+    "reviews": [
+      "Sturdy  and easy folding "
+    ],
+    "discount": true,
+    "discounts": "$10 coupon available ",
+    "compareLink": "https://www.example.com/compare-standard-strollers",
+    "checkPriceLink": "https://www.amazon.com/dp/B0BYYQNFZ9?tag=bestbabygears-20", 
+    "ASIN": "B0BYYQNFZ9"
+  },
+   {
+    "id": "Evenflo Pivot Modular Travel System",
+    "rank": 10,
+    "title": "Evenflo Pivot Modular Travel System with LiteMax Infant Car Seat (Casual Gray)",
+    "brand": "Evenflo",
+    "rating": 4.6,
+    "price": "$308.00",
+    "amazon_link": "YOUR_AFFILIATE_LINK",
+    "monthly_purchases": "1K+",
+          "images": [
+    "/images/newStroller10.1.jpg",
+    "/images/newStroller10.2.jpg",
+    "/images/newStroller10.3.jpg",
+    "/images/newStroller10.4.jpg",
+    "/images/newStroller10.5.jpg"
+  ],
+    "features": [ 
+      {
+        "label": "Material",
+        "value": "Polyester"
+      },
+      {
+        "label": "Frame Material",
+        "value": "Metal"
+      },
+      {
+        "label": "Age Range",
+        "value": "Kid (3–30 lb )"
+      },  
+      {
+        "label": "Folded Size",
+        "value": "26\" x 19.5\" x 40\""
+      }, 
+      {
+        "label": "Car Seat Weight",
+        "value": "30 pounds"
+      } 
+    ],
+    "available_colors": 4,
+    "size": true,
+    "available_size": 2,
+    "style": true,
+    "available_style": 2,
+    "badge": false,
+    "badges": [],
+    "value": true,
+    "values": ["Great Travel System Value"],
+    "review": true,
+    "reviews": [ "6-mode modular travel system "
+    ],
+    "discount": false,
+    "discounts": "",
+    "compareLink": "https://www.example.com/compare-travel-systems",
+    "checkPriceLink": "https://www.amazon.com/dp/B0DTY92R4J?tag=bestbabygears-20", 
+    "ASIN": "B0DTY92R4J"
+  }
+
+]

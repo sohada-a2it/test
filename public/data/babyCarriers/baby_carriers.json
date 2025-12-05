@@ -1,0 +1,527 @@
+[
+  {
+    "id": "Best Baby Carrier",
+    "rank": 1,
+    "title": "Momcozy Baby Wrap Carrier, Easy to Wear Infant Carrier Slings, Lightweight Hands Free...",
+    "brand": "MOMCOZY",
+    "rating": 10.0,
+    "price": "$59.99",
+    "amazon_link": "YOUR_AFFILIATE_LINK",
+    "monthly_purchas":true,
+    "monthly_purchases": "3k+",
+    "images": [
+      "/images/pro1.jpg",
+      "/images/pro2.jpg",
+      "/images/pro3.jpg",
+      "/images/pro4.jpg",
+      "/images/pro5.jpg"
+    ],
+    "about_this_item": [
+      "Easy-to-wear double-loop design—no complicated wrapping needed.",
+      "Made from soft, breathable, lightweight fabric that keeps you and baby comfortable.",
+      "Perfect for newborn bonding and hands-free parenting.",
+      "Supports healthy hip positioning and approved by hip-dysplasia experts.",
+      "Fits babies from 8 to 25 pounds.",
+      "Stretchy yet secure fabric helps provide a snug, womb-like feel."
+    ],
+    "features": [
+      { "label": "Style", "value": "Double loop wrap" },
+      { "label": "For Babies", "value": "8 - 25 lbs" },
+      { "label": "Positions", "value": "Inward" },
+      { "label": "Hip Healthy", "value": "Yes" },
+      { "label": "Material", "value": "Polyester blend" }
+    ],
+    "specs": {
+      "style": "Double loop wrap",
+      "for_babies": "8 - 25 lbs",
+      "positions": "Inward",
+      "hip_healthy": "Yes",
+      "material": "Polyester blend"
+    },
+    "available_colors": 13,
+    "badge": true,
+    "badges": ["Best Baby Carrier"],  
+    "checkPriceLink": "https://www.amazon.com/dp/B098X8WS7Y?tag=bestbabygears-20"
+  },
+  {
+    "id": "momcozy-baby-wrap-carrier2",
+    "rank": 2,
+    "title": "Tushbaby Ergonomic Hip Seat Carrier- for Babies and Toddlers 0-3yrs, Safety Approved,...",
+    "brand": "TushBaby",
+    "rating": 9.6,
+    "price": "$70.99",
+    "amazon_link": "YOUR_AFFILIATE_LINK", 
+    "images": [
+      "/images/pro6.jpg",
+      "/images/pro7.jpg",
+      "/images/pro8.jpg",
+      "/images/pro9.jpg",
+      "/images/pro10.jpg"
+    ],
+    "about_this_item": [
+      "Easy-to-wear double-loop design—no complicated wrapping needed.",
+      "Made from soft, breathable, lightweight fabric that keeps you and baby comfortable.",
+      "Perfect for newborn bonding and hands-free parenting.",
+      "Supports healthy hip positioning and approved by hip-dysplasia experts.",
+      "Fits babies from 8 to 25 pounds.",
+      "Stretchy yet secure fabric helps provide a snug, womb-like feel."
+    ],
+    "features": [
+      { "label": "Style", "value": "Belt Strap" },
+      { "label": "For Babies", "value": "8 - 45 lbs" },
+      { "label": "Positions", "value": "Front & hip Carry" },
+      { "label": "Hip Healthy", "value": "Yes" },
+      { "label": "Material", "value": "Polyester" }
+    ], 
+    "available_colors": 6,
+    "badge":false,
+    "badges": ["Best Baby Carrier"],
+    "review":true,
+    "reviews":["Read Full Review"],
+    "pros": [
+      "Very easy to wear",
+      "Lightweight and breathable",
+      "Hip-healthy design",
+      "Great for newborn bonding",
+      "Multiple color options"
+    ],
+    "cons": [
+      "Takes a bit of practice at first",
+      "Not ideal for hot summers"
+    ], 
+    "checkPriceLink":"https://www.amazon.com/dp/B07R4C4VFX?tag=bestbabygears-20" 
+  },
+  {
+    "id": "momcozy-baby-wrap-carrier3",
+    "rank": 3,
+    "title": "Infantino Flip 4-in-1 Convertible Baby Carrier, Adjustable, Ergonomic Babywearing, Registry...",
+    "brand": "Infantino",
+    "rating": 9.1,
+    "price": "$99.99",
+    "amazon_link": "YOUR_AFFILIATE_LINK", 
+    "images": [
+        "/images/pro13.jpg",
+      "/images/pro11.jpg",
+      "/images/pro12.jpg",
+      "/images/pro14.jpg",
+      "/images/pro15.jpg"
+    ],
+    "about_this_item": [
+      "Easy-to-wear double-loop design—no complicated wrapping needed.",
+      "Made from soft, breathable, lightweight fabric that keeps you and baby comfortable.",
+      "Perfect for newborn bonding and hands-free parenting.",
+      "Supports healthy hip positioning and approved by hip-dysplasia experts.",
+      "Fits babies from 8 to 25 pounds.",
+      "Stretchy yet secure fabric helps provide a snug, womb-like feel."
+    ],
+    "features": [
+      { "label": "Style", "value": "Strap" },
+      { "label": "For Babies", "value": "8 - 32 lbs" },
+      { "label": "Positions", "value": "Inward,Front Outward & Back Carry" },
+      { "label": "Hip Healthy", "value": "Yes" },
+      { "label": "Material", "value": "Cotton" },
+      { "label": "Product Care Instructions", "value": "Machine Wash" }
+    ], 
+    "available_colors": 10,
+    "badge":false,
+    "badges": ["Best Baby Carrier"],
+    "review":false,
+    "reviews":["Read Full Review"],
+       "popular":true,
+       "populars":["Popular"],
+    "discount": true,
+    "discounts":  "Save 25%",
+    "pros": [
+      "Very easy to wear",
+      "Lightweight and breathable",
+      "Hip-healthy design",
+      "Great for newborn bonding",
+      "Multiple color options"
+    ],
+    "cons": [
+      "Takes a bit of practice at first",
+      "Not ideal for hot summers"
+    ], 
+    "checkPriceLink": "https://www.amazon.com/dp/B07XMN3SK6?tag=bestbabygears-20"
+  },
+    {
+    "id": "momcozy-baby-wrap-carrier4",
+    "rank": 4,
+    "title": "Ergobaby Embrace Baby Carrier Newborn to Toddler - Lightweight Ergonomic Baby Carrier...",
+    "brand": "Ergobaby",
+    "rating": 8.5,
+    "price": "$59.99",
+    "amazon_link": "YOUR_AFFILIATE_LINK", 
+    "images": [
+        "/images/pro41.jpg",
+      "/images/pro42.jpg",
+      "/images/pro43.jpg",
+      "/images/pro44.jpg",
+      "/images/pro45.jpg"
+    ],
+    "about_this_item": [
+      "Easy-to-wear double-loop design—no complicated wrapping needed.",
+      "Made from soft, breathable, lightweight fabric that keeps you and baby comfortable.",
+      "Perfect for newborn bonding and hands-free parenting.",
+      "Supports healthy hip positioning and approved by hip-dysplasia experts.",
+      "Fits babies from 8 to 25 pounds.",
+      "Stretchy yet secure fabric helps provide a snug, womb-like feel."
+    ],
+    "features": [
+      { "label": "Style", "value": "Strap" },
+      { "label": "For Babies", "value": "7 - 25 lbs" },
+      { "label": "Positions", "value": "Inward" },
+      { "label": "Hip Healthy", "value": "Yes" },
+      { "label": "Material", "value": "Polyester Blend" }
+    ], 
+    "available_colors": 14,
+    "size":false,
+    "available_size": 3,
+    "style":true,
+    "available_style": 2,
+    "badge":false,
+    "badges": ["Best Baby Carrier"],
+    "value":false,
+    "values": ["Best Value"],
+    "review":false,
+    "reviews":["Read Full Review"],
+    "discount": false,
+    "discounts":  "Save 25%",
+    "pros": [
+      "Very easy to wear",
+      "Lightweight and breathable",
+      "Hip-healthy design",
+      "Great for newborn bonding",
+      "Multiple color options"
+    ],
+    "cons": [
+      "Takes a bit of practice at first",
+      "Not ideal for hot summers"
+    ], 
+    "checkPriceLink": "https://www.amazon.com/dp/B0DGQ3N6ZC?tag=bestbabygears-20"
+  },
+  {
+    "id": "momcozy-baby-wrap-carrier",
+    "rank": 5,
+    "title": "Baby Carrier Newborn to Toddler (Houndstooth)",
+    "brand": "·NEST BLANCHE·",
+    "rating": 9.0,
+    "price": "$59.99",
+    "amazon_link": "YOUR_AFFILIATE_LINK", 
+    "images": [
+        "/images/pro16.jpg",
+      "/images/pro17.jpg",
+      "/images/pro18.jpg",
+      "/images/pro19.jpg",
+      "/images/pro20.jpg"
+    ],
+    "about_this_item": [
+      "Easy-to-wear double-loop design—no complicated wrapping needed.",
+      "Made from soft, breathable, lightweight fabric that keeps you and baby comfortable.",
+      "Perfect for newborn bonding and hands-free parenting.",
+      "Supports healthy hip positioning and approved by hip-dysplasia experts.",
+      "Fits babies from 8 to 25 pounds.",
+      "Stretchy yet secure fabric helps provide a snug, womb-like feel."
+    ],
+    "features": [
+      { "label": "Style", "value": "Strap" },
+      { "label": "For Babies", "value": "7 - 35 lbs" },
+      { "label": "Positions", "value": "Inward,Front Outward & Back Carry" },
+      { "label": "Hip Healthy", "value": "Yes" },
+      { "label": "Material", "value": "Cotton & Linen" }
+    ], 
+    "available_colors": 4,
+    "badge":false,
+    "badges": ["Best Baby Carrier"],
+    "review":false,
+    "reviews":["Read Full Review"],
+    "discount": true,
+    "discounts":  "Save 5%",
+    "pros": [
+      "Very easy to wear",
+      "Lightweight and breathable",
+      "Hip-healthy design",
+      "Great for newborn bonding",
+      "Multiple color options"
+    ],
+    "cons": [
+      "Takes a bit of practice at first",
+      "Not ideal for hot summers"
+    ], 
+    "checkPriceLink": "https://www.amazon.com/dp/B0DT4D8C8J?tag=bestbabygears-20"
+  },
+  {
+    "id": "momcozy-baby-wrap-carrier5",
+    "rank": 6,
+    "title": "Momcozy Baby Carrier - Ergonomic, Cozy and Lightweight Carrier for 7-44lbs, Effortless to Put On, Ideal for Hands-Free P...",
+    "brand": "BabyBjörn",
+    "rating": 8.8,
+    "price": "$59.99",
+    "amazon_link": "YOUR_AFFILIATE_LINK", 
+    "images": [
+        "/images/pro26.jpg",
+      "/images/pro26.jpg",
+      "/images/pro28.jpg",
+      "/images/pro29.jpg",
+      "/images/pro30.jpg"
+    ],
+    "about_this_item": [
+      "Easy-to-wear double-loop design—no complicated wrapping needed.",
+      "Made from soft, breathable, lightweight fabric that keeps you and baby comfortable.",
+      "Perfect for newborn bonding and hands-free parenting.",
+      "Supports healthy hip positioning and approved by hip-dysplasia experts.",
+      "Fits babies from 8 to 25 pounds.",
+      "Stretchy yet secure fabric helps provide a snug, womb-like feel."
+    ],
+    "features": [
+      { "label": "Style", "value": "Strap" },
+      { "label": "For Babies", "value": "7 - 44 lbs" },
+      { "label": "Positions", "value": "Inward" },
+      { "label": "Hip Healthy", "value": "Yes" },
+      { "label": "Material", "value": "Cotton" }
+    ], 
+    "available_colors": 12,
+    "size":false,
+    "available_size": 3,
+    "style":false,
+    "available_style": 5,
+    "badge":false,
+    "badges": ["Best Baby Carrier"],
+    "review":false,
+    "reviews":["Read Full Review"],
+    "discount": true,
+    "discounts":  "Save 5% + 10% Coupon",
+    "pros": [
+      "Very easy to wear",
+      "Lightweight and breathable",
+      "Hip-healthy design",
+      "Great for newborn bonding",
+      "Multiple color options"
+    ],
+    "cons": [
+      "Takes a bit of practice at first",
+      "Not ideal for hot summers"
+    ], 
+    "checkPriceLink": "https://www.amazon.com/dp/B0CLGCN5ZS?tag=bestbabygears-20"
+  },
+  {
+    "id": "momcozy-baby-wrap-carrier6",
+    "rank": 7,
+    "title": "Infantino Flip 4-in-1 Convertible Baby Carrier, Adjustable, Ergonomic Babywearing, Registry...",
+    "brand": "Infantino",
+    "rating": 8.5,
+    "price": "$59.99",
+    "amazon_link": "YOUR_AFFILIATE_LINK", 
+    "images": [
+        "/images/pro36.jpg",
+      "/images/pro37.jpg",
+      "/images/pro38.jpg",
+      "/images/pro39.jpg",
+      "/images/pro40.jpg"
+    ],
+    "about_this_item": [
+      "Easy-to-wear double-loop design—no complicated wrapping needed.",
+      "Made from soft, breathable, lightweight fabric that keeps you and baby comfortable.",
+      "Perfect for newborn bonding and hands-free parenting.",
+      "Supports healthy hip positioning and approved by hip-dysplasia experts.",
+      "Fits babies from 8 to 25 pounds.",
+      "Stretchy yet secure fabric helps provide a snug, womb-like feel."
+    ],
+    "features": [
+      { "label": "Style", "value": "Strap" },
+      { "label": "For Babies", "value": "7 - 32 lbs" },
+      { "label": "Positions", "value": "Inward,Front Outward & Back Carry" },
+      { "label": "Hip Healthy", "value": "Yes" },
+      { "label": "Material", "value": "Polyester Blend" }
+    ], 
+    "available_colors": 10,
+    "size":false,
+    "available_size": 3,
+    "style":false,
+    "available_style": 5,
+    "badge":false,
+    "badges": ["Best Baby Carrier"],
+    "value":true,
+    "values": ["Best Value"],
+    "review":false,
+    "reviews":["Read Full Review"],
+    "discount": true,
+    "discounts":  "Save 25%",
+    "pros": [
+      "Very easy to wear",
+      "Lightweight and breathable",
+      "Hip-healthy design",
+      "Great for newborn bonding",
+      "Multiple color options"
+    ],
+    "cons": [
+      "Takes a bit of practice at first",
+      "Not ideal for hot summers"
+    ], 
+    "checkPriceLink":"https://www.amazon.com/dp/B00M0DWQYI?tag=bestbabygears-20"
+  },
+  {
+    "id": "momcozy-baby-wrap-carrier7",
+    "rank": 8,
+    "title": "Baby Carrier, MOMTORY Safety-Certified 6-in-1 Baby Carrier Newborn to Toddler, Adjustable...",
+    "brand": "MOMTORY",
+    "rating": 8.7,
+    "price": "$59.99",
+    "amazon_link": "YOUR_AFFILIATE_LINK", 
+    "images": [
+        "/images/pro31.jpg",
+      "/images/pro32.jpg",
+      "/images/pro33.jpg",
+      "/images/pro34.jpg",
+      "/images/pro35.jpg"
+    ],
+    "about_this_item": [
+      "Easy-to-wear double-loop design—no complicated wrapping needed.",
+      "Made from soft, breathable, lightweight fabric that keeps you and baby comfortable.",
+      "Perfect for newborn bonding and hands-free parenting.",
+      "Supports healthy hip positioning and approved by hip-dysplasia experts.",
+      "Fits babies from 8 to 25 pounds.",
+      "Stretchy yet secure fabric helps provide a snug, womb-like feel."
+    ],
+    "features": [
+      { "label": "Style", "value": "Strap" },
+      { "label": "For Babies", "value": "7 - 50 lbs" },
+      { "label": "Positions", "value": "Inward,Front Outward & Back Carry" },
+      { "label": "Hip Healthy", "value": "Yes" },
+      { "label": "Material", "value": "Cotton" }
+    ], 
+    "available_colors": 8,
+    "size":false,
+    "available_size": 3,
+    "style":false,
+    "available_style": 5,
+    "badge":false,
+    "badges": ["Best Baby Carrier"],
+    "review":false,
+    "reviews":["Read Full Review"],
+    "discount": true,
+    "discounts":  "Save 30%",
+    "pros": [
+      "Very easy to wear",
+      "Lightweight and breathable",
+      "Hip-healthy design",
+      "Great for newborn bonding",
+      "Multiple color options"
+    ],
+    "cons": [
+      "Takes a bit of practice at first",
+      "Not ideal for hot summers"
+    ], 
+    "checkPriceLink": "https://www.amazon.com/dp/B0CKW4B982?tag=bestbabygears-20"
+  },
+    {
+    "id": "momcozy-baby-wrap-carrier9",
+    "rank": 9,
+    "title": "BabyBjörn Baby Carrier Mini, 3D Jersey, Light Beige | Newborn Carrier (7-25 lbs), Ergonomic,...",
+    "brand": "BabyBjörn",
+    "rating": 8.9,
+    "price": "$59.99",
+    "amazon_link": "YOUR_AFFILIATE_LINK", 
+    "images": [
+        "/images/pro21.jpg",
+      "/images/pro22.jpg",
+      "/images/pro23.jpg",
+      "/images/pro24.jpg",
+      "/images/pro25.jpg"
+    ],
+    "about_this_item": [
+      "Easy-to-wear double-loop design—no complicated wrapping needed.",
+      "Made from soft, breathable, lightweight fabric that keeps you and baby comfortable.",
+      "Perfect for newborn bonding and hands-free parenting.",
+      "Supports healthy hip positioning and approved by hip-dysplasia experts.",
+      "Fits babies from 8 to 25 pounds.",
+      "Stretchy yet secure fabric helps provide a snug, womb-like feel."
+    ],
+    "features": [
+      { "label": "Style", "value": "Strap" },
+      { "label": "For Babies", "value": "7 - 25 lbs" },
+      { "label": "Positions", "value": "Inward,Front Outward" },
+      { "label": "Hip Healthy", "value": "Yes" },
+      { "label": "Material", "value": "Cotton Blend" }
+    ], 
+    "available_colors": 4,
+    "size":true,
+    "available_size": 3,
+    "style":true,
+    "available_style": 5,
+    "badge":false,
+    "badges": ["Best Baby Carrier"],
+    "review":false,
+    "reviews":["Read Full Review"],
+    "discount": true,
+    "discounts":  "Save 5%",
+    "pros": [
+      "Very easy to wear",
+      "Lightweight and breathable",
+      "Hip-healthy design",
+      "Great for newborn bonding",
+      "Multiple color options"
+    ],
+    "cons": [
+      "Takes a bit of practice at first",
+      "Not ideal for hot summers"
+    ], 
+    "checkPriceLink": "https://www.amazon.com/dp/B0BTFQMX7H?tag=bestbabygears-20"
+  },
+  {
+    "id": "momcozy-baby-wrap-carrier10",
+    "rank": 10,
+    "title": "Boba Baby Wrap Carrier – Original Baby Sling Carrier for Newborns (7–35 lbs), Soft, Secure,...",
+    "brand": "Boba",
+    "rating": 8.3,
+    "price": "$59.99",
+    "amazon_link": "YOUR_AFFILIATE_LINK", 
+    "images": [
+        "/images/pro46.jpg",
+      "/images/pro47.jpg",
+      "/images/pro48.jpg",
+      "/images/pro49.jpg",
+      "/images/pro50.jpg"
+    ],
+    "about_this_item": [
+      "Easy-to-wear double-loop design—no complicated wrapping needed.",
+      "Made from soft, breathable, lightweight fabric that keeps you and baby comfortable.",
+      "Perfect for newborn bonding and hands-free parenting.",
+      "Supports healthy hip positioning and approved by hip-dysplasia experts.",
+      "Fits babies from 8 to 25 pounds.",
+      "Stretchy yet secure fabric helps provide a snug, womb-like feel."
+    ],
+    "features": [
+      { "label": "Style", "value": "Wrap" },
+      { "label": "For Babies", "value": "7 - 35 lbs" },
+      { "label": "Positions", "value": "Front Outward" },
+      { "label": "Hip Healthy", "value": "Yes" },
+      { "label": "Material", "value": "Cotton" }
+    ], 
+    "available_colors": 17,
+    "size":false,
+    "available_size": 3,
+    "style":true,
+    "available_style": 2,
+    "badge":false,
+    "badges": ["Best Baby Carrier"],
+    "value":false,
+    "values": ["Best Value"],
+    "review":false,
+    "reviews":["Read Full Review"],
+    "discount": true,
+    "discounts":  "Save 11%",
+    "pros": [
+      "Very easy to wear",
+      "Lightweight and breathable",
+      "Hip-healthy design",
+      "Great for newborn bonding",
+      "Multiple color options"
+    ],
+    "cons": [
+      "Takes a bit of practice at first",
+      "Not ideal for hot summers"
+    ], 
+    "checkPriceLink": "https://www.amazon.com/dp/B005SP2LWW?tag=bestbabygears-20"
+  }
+]

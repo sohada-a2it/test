@@ -1,0 +1,586 @@
+[
+  {
+  "id": "Best Slim Fit Car Seats",
+  "rank": 1,
+  "title": "Graco Tranzitions 3-in-1 Harness Booster Car Seat, Proof",
+  "brand": "Graco",
+  "rating": 4.7,
+  "price": "$149.00",
+  "amazon_link": "YOUR_AFFILIATE_LINK",
+  "monthly_purchases": "4K+",
+       "images": [
+    "/images/Slim Fit Car Seats1.1.jpg",
+    "/images/Slim Fit Car Seats1.2.jpg",
+    "/images/Slim Fit Car Seats1.3.jpg",
+    "/images/Slim Fit Car Seats1.4.jpg",
+    "/images/Slim Fit Car Seats1.5.jpg"
+    ],
+  "features": [ 
+    {
+      "label": "Installation",
+      "value": "Latch"
+    }, 
+    {
+      "label": "Maximum Height",
+      "value": "57 Inches"
+    },
+    {
+      "label": "Material Composition",
+      "value": "Polyester"
+    }, 
+    {
+      "label": "Harness Type",
+      "value": "5-Point"
+    },
+    {
+      "label": "Recline Positions",
+      "value": "9"
+    }
+  ],
+  "available_colors": 3,
+  "size": false,
+  "available_size": 0,
+  "badge": true,
+  "badges": [
+    "Amazon's Choice" 
+  ],
+  "value": false,
+  "values": [
+    "$149.00"
+  ],
+  "review": false,
+  "reviews": [
+    "4.7 out of 5 stars — 602 ratings"
+  ],
+  "discount": false,
+  "discount_percentage": 0,
+  "checkPriceLink": "https://www.amazon.com/dp/B0DQLRHG1N?tag=bestbabygears-20",
+  "ASIN": "B0DQLRHG1N"
+},
+{
+  "id": "Best Slim Fit Car Seats2",
+  "rank": 2,
+  "title": "Graco Slimfit 3-in-1 Convertible Car Seat, Jarret",
+  "brand": "Graco",
+  "rating": 4.8,
+  "price": "$209.00",
+  "amazon_link": "YOUR_AFFILIATE_LINK",
+  "monthly_purchases": "5K+",
+        "images": [
+    "/images/Slim Fit Car Seats2.1.jpg",
+    "/images/Slim Fit Car Seats2.2.jpg",
+    "/images/Slim Fit Car Seats2.3.jpg",
+    "/images/Slim Fit Car Seats2.4.jpg",
+    "/images/Slim Fit Car Seats2.5.jpg"
+    ],
+  "features": [
+    {
+      "label": "Material",
+      "value": "Polyester"
+    },
+    {
+      "label": "Installation",
+      "value": "Latch"
+    }, 
+    {
+      "label": "Maximum Height",
+      "value": "57 Inches"
+    },  
+    {
+      "label": "Harness Type",
+      "value": "5-Point"
+    },
+    {
+      "label": "Recline Positions",
+      "value": "10"
+    }
+  ],
+  "available_colors": 8,
+  "size": true,
+  "available_size": 1,
+  "badge": true,
+  "badges": [
+    "Amazon's Choice" 
+  ],
+  "value": false,
+  "values": [
+    "$209.00"
+  ],
+  "review": false,
+  "reviews": [
+    "4.8 out of 5 stars — 33,364 ratings"
+  ],
+  "discount": true,
+  "discounts": "Save 13%",
+  "checkPriceLink": "https://www.amazon.com/dp/B0DHM53GZC?tag=bestbabygears-20",
+  "ASIN": "B0DHM53GZC"
+}
+,
+{
+  "id": "Best Slim Fit Car Seats3",
+  "rank": 3,
+  "title": "Graco 4Ever DLX 4-in-1 Car Seat, Charlie",
+  "brand": "Graco",
+  "rating": 4.8,
+  "price": "$263.99",
+  "amazon_link": "YOUR_AFFILIATE_LINK",
+  "monthly_purchases": "2K+",
+        "images": [
+    "/images/Slim Fit Car Seats3.1.jpg",
+    "/images/Slim Fit Car Seats3.2.jpg",
+    "/images/Slim Fit Car Seats3.3.jpg",
+    "/images/Slim Fit Car Seats3.4.jpg",
+    "/images/Slim Fit Car Seats3.5.jpg"
+    ],
+  "features": [
+    {
+      "label": "Material",
+      "value": "Polyester"
+    },
+    {
+      "label": "Installation",
+      "value": "Latch"
+    }, 
+    {
+      "label": "Maximum Height",
+      "value": "57 Inches"
+    }, 
+    {
+      "label": "Harness Type",
+      "value": "5-Point"
+    },
+    {
+      "label": "Recline Positions",
+      "value": "10"
+    }
+  ],
+  "available_colors": 8,
+  "size": true,
+  "available_size": 1,
+  "badge": true,
+  "badges": [
+    "Amazon's Choice" 
+  ],
+  "value": false,
+  "values": [
+    "$263.99"
+  ],
+  "review": false,
+  "reviews": [
+    "4.8 out of 5 stars — 11,085 ratings"
+  ],
+  "discount": true,
+  "discounts": "Save 20%",
+  "checkPriceLink": "https://www.amazon.com/dp/B0DHLQL58Y?tag=bestbabygears-20",
+  "ASIN": "B0DHLQL58Y"
+},
+{
+ "id": "Best Slim Fit Car Seats4",
+  "rank": 4,
+  "title": "Graco SlimFit 3-in-1 Convertible Car Seat, Darcie",
+  "brand": "Graco",
+  "rating": 4.8,
+  "price": "$239.99",
+  "amazon_link": "YOUR_AFFILIATE_LINK",
+  "monthly_purchases": "1K+",
+        "images": [
+    "/images/Slim Fit Car Seats4.1.jpg",
+    "/images/Slim Fit Car Seats4.2.jpg",
+    "/images/Slim Fit Car Seats4.3.jpg",
+    "/images/Slim Fit Car Seats4.4.jpg",
+    "/images/Slim Fit Car Seats4.5.jpg"
+    ],
+  "features": [
+    {
+      "label": "Material",
+      "value": "Foam, Alloy Steel"
+    },
+    {
+      "label": "Installation",
+      "value": "Latch"
+    }, 
+    {
+      "label": "Maximum Height",
+      "value": "57 Inches"
+    }, 
+    {
+      "label": "Harness Type",
+      "value": "5-Point"
+    },
+    {
+      "label": "Recline Positions",
+      "value": "10"
+    }
+  ],
+  "available_colors": 8,
+  "size": true,
+  "available_size": 1,
+  "badge": true,
+  "badges": [
+    "Amazon's Choice" 
+  ],
+  "value": false,
+  "values": [
+    "$239.99"
+  ],
+  "review": false,
+  "reviews": [
+    "4.8 out of 5 stars — 33,364 ratings"
+  ],
+  "discount": false,
+  "discount_percentage": 0,
+  "checkPriceLink": "https://www.amazon.com/dp/B01N3MYVZM?tag=bestbabygears-20",
+  "ASIN": "B01N3MYVZM"
+},
+{
+  "id": "Best Slim Fit Car Seats5",
+  "rank": 5,
+  "title": "Graco TriRide 3-in-1 Convertible Car Seat, Redmond",
+  "brand": "Graco",
+  "rating": 4.7,
+  "price": "$199.99",
+  "amazon_link": "YOUR_AFFILIATE_LINK",
+  "monthly_purchases": "1K+",
+        "images": [
+    "/images/Slim Fit Car Seats5.1.jpg",
+    "/images/Slim Fit Car Seats5.2.jpg",
+    "/images/Slim Fit Car Seats5.3.jpg",
+    "/images/Slim Fit Car Seats5.4.jpg",
+    "/images/Slim Fit Car Seats5.5.jpg"
+    ],
+  "features": [
+    {
+      "label": "Material",
+      "value": "Polyester"
+    },
+    {
+      "label": "Installation",
+      "value": "Latch"
+    }, 
+    {
+      "label": "Maximum Height",
+      "value": "57 Inches"
+    }, 
+    {
+      "label": "Rear-facing Weight",
+      "value": "5-40 Pounds"
+    }, 
+    {
+      "label": "Harness Type",
+      "value": "5-Point"
+    }
+  ],
+  "available_colors": 4,
+  "size": false,
+  "available_size": 0,
+  "badge": true,
+  "badges": [
+    "Amazon's Choice" 
+  ],
+  "value": false,
+  "values": [
+    "$199.99"
+  ],
+  "review": false,
+  "reviews": [
+    "4.7 out of 5 stars — 7,715 ratings"
+  ],
+  "discount": false,
+  "discount_percentage": 0,
+  "checkPriceLink": "https://www.amazon.com/dp/B0DQLPSBCJ?tag=bestbabygears-20",
+  "ASIN": "B0DQLPSBCJ"
+}
+,
+{
+  "id": "Best Slim Fit Car Seats6",
+  "rank": 6,
+  "title": "Graco Slimfit 3-in-1 Convertible Car Seat, Darcie",
+  "brand": "Graco",
+  "rating": 4.8,
+  "price": "$239.99",
+  "amazon_link": "YOUR_AFFILIATE_LINK",
+  "monthly_purchases": "1K+",
+        "images": [
+    "/images/Slim Fit Car Seats6.1.jpg",
+    "/images/Slim Fit Car Seats6.2.jpg",
+    "/images/Slim Fit Car Seats6.3.jpg",
+    "/images/Slim Fit Car Seats6.4.jpg",
+    "/images/Slim Fit Car Seats6.5.jpg"
+    ],
+  "features": [
+    {
+      "label": "Material",
+      "value": "Polyester"
+    },
+    {
+      "label": "Installation",
+      "value": "Latch"
+    }, 
+    {
+      "label": "Maximum Height",
+      "value": "57 Inches"
+    },  
+    {
+      "label": "Forward-facing Weight",
+      "value": "26.5-65 Pounds"
+    },
+    {
+      "label": "Harness Type",
+      "value": "5-Point"
+    }
+  ],
+  "available_colors": 8,
+  "size": false,
+  "available_size": 0,
+  "badge": true,
+  "badges": [
+    "Amazon's Choice" 
+  ],
+  "value": false,
+  "values": [
+    "$239.99"
+  ],
+  "review": false,
+  "reviews": [
+    "4.8 out of 5 stars — 33,364 ratings"
+  ],
+  "discount": false,
+  "discount_percentage": 0,
+  "checkPriceLink": "https://www.amazon.com/dp/B0DHLRZSJ7?tag=bestbabygears-20",
+  "ASIN": "B0DHLRZSJ7"
+}
+,
+{
+  "id": "Best Slim Fit Car Seats7",
+  "rank": 7,
+  "title": "Graco EasyTurn 360 2-in-1 Convertible Car Seat, Cyran",
+  "brand": "Graco",
+  "rating": 4.7,
+  "price": "$349.99",
+  "amazon_link": "YOUR_AFFILIATE_LINK",
+  "monthly_purchases": "1K+",
+        "images": [
+    "/images/Slim Fit Car Seats7.1.jpg",
+    "/images/Slim Fit Car Seats7.2.jpg",
+    "/images/Slim Fit Car Seats7.3.jpg",
+    "/images/Slim Fit Car Seats7.4.jpg",
+    "/images/Slim Fit Car Seats7.5.jpg"
+    ],
+  "features": [
+    {
+      "label": "Material",
+      "value": "Polyester"
+    },
+    {
+      "label": "Installation",
+      "value": "Latch"
+    }, 
+    {
+      "label": "Maximum Height",
+      "value": "49 Inches"
+    }, 
+    {
+      "label": "Forward-facing Weight",
+      "value": "26.5-65 Pounds"
+    },
+    {
+      "label": "Harness Type",
+      "value": "5-Point"
+    }
+  ],
+  "available_colors": 7,
+  "size": false,
+  "available_size": 0,
+  "badge": true,
+  "badges": [
+    "Amazon's Choice" 
+  ],
+  "value": false,
+  "values": [
+    "$349.99"
+  ],
+  "review": false,
+  "reviews": [
+    "4.7 out of 5 stars — 1,000 ratings"
+  ],
+  "discount": false,
+  "discount_percentage": 0,
+  "checkPriceLink": "https://www.amazon.com/dp/B0DM74249Y?tag=bestbabygears-20",
+  "ASIN": "B0DM74249Y"
+}
+,
+{
+  "id": "Best Slim Fit Car Seats8",
+  "rank": 8,
+  "title": "Safety 1st Grow and Go All-in-One Convertible Car Seat, Alaskan Blue",
+  "brand": "Safety 1st",
+  "rating": 4.7,
+  "price": "$159.99",
+  "amazon_link": "YOUR_AFFILIATE_LINK",
+  "monthly_purchases": "2K+",
+        "images": [
+    "/images/Slim Fit Car Seats8.1.jpg",
+    "/images/Slim Fit Car Seats8.2.jpg",
+    "/images/Slim Fit Car Seats8.3.jpg",
+    "/images/Slim Fit Car Seats8.4.jpg",
+    "/images/Slim Fit Car Seats8.5.jpg"
+    ],
+  "features": [
+    {
+      "label": "Material",
+      "value": "Polyester"
+    },
+    {
+      "label": "Installation",
+      "value": "Latch, Seatbelt"
+    }, 
+    {
+      "label": "Maximum Height",
+      "value": "52 Inches"
+    },   
+    {
+      "label": "Highback Booster Weight",
+      "value": "40-100 Pounds"
+    },
+    {
+      "label": "Harness Type",
+      "value": "5-Point"
+    }
+  ],
+  "available_colors": 7,
+  "size": false,
+  "available_size": 0,
+  "badge": true,
+  "badges": [
+    "Amazon's Choice" 
+  ],
+  "value": true,
+  "values": [
+    "$159.99"
+  ],
+  "review": true,
+  "reviews": [
+    "4.7 out of 5 stars — 35,049 ratings"
+  ],
+  "discount": false,
+  "discount_percentage": 0,
+  "checkPriceLink": "https://www.amazon.com/dp/B0FH7MQ9BJ?tag=bestbabygears-20",
+  "ASIN": "B0FH7MQ9BJ"
+},
+{
+  "id": "Best Slim Fit Car Seats9",
+  "rank": 9,
+  "title": "Graco SnugRide SnugFit Infant Car Seat, Gotham",
+  "brand": "Graco",
+  "rating": 4.8,
+  "price": "$189.99",
+  "amazon_link": "YOUR_AFFILIATE_LINK",
+  "monthly_purchases": "1K+",
+        "images": [
+    "/images/Slim Fit Car Seats9.1.jpg",
+    "/images/Slim Fit Car Seats9.2.jpg",
+    "/images/Slim Fit Car Seats9.3.jpg",
+    "/images/Slim Fit Car Seats9.4.jpg",
+    "/images/Slim Fit Car Seats9.5.jpg"
+    ],
+  "features": [
+    {
+      "label": "Material",
+      "value": "Polyester"
+    },
+    {
+      "label": "Installation",
+      "value": "Latch"
+    }, 
+    {
+      "label": "Maximum Height",
+      "value": "32 Inches"
+    },  
+    {
+      "label": "Rear-facing Weight",
+      "value": "4-30 Pounds"
+    }, 
+    {
+      "label": "Recline Positions",
+      "value": "4"
+    }
+  ],
+  "available_colors": 7,
+  "size": false,
+  "available_size": 0,
+  "badge": true,
+  "badges": [
+    "Amazon's Choice" 
+  ],
+  "value": false,
+  "values": [
+    "$189.99"
+  ],
+  "review": false,
+  "reviews": [
+    "4.8 out of 5 stars — 2,682 ratings"
+  ],
+  "discount": false,
+  "discount_percentage": 0,
+  "checkPriceLink": "https://www.amazon.com/dp/B08847QPWV?tag=bestbabygears-20",
+  "ASIN": "B08847QPWV"
+},
+{
+  "id": "Best Slim Fit Car Seats10",
+  "rank": 10,
+  "title": "Graco Extend2Fit Convertible Baby Car Seat, Gotham",
+  "brand": "Graco",
+  "rating": 4.8,
+  "price": "$249.99",
+  "amazon_link": "YOUR_AFFILIATE_LINK",
+  "monthly_purchases": "3K+",
+        "images": [
+    "/images/Slim Fit Car Seats10.1.jpg",
+    "/images/Slim Fit Car Seats10.2.jpg",
+    "/images/Slim Fit Car Seats10.3.jpg",
+    "/images/Slim Fit Car Seats10.4.jpg",
+    "/images/Slim Fit Car Seats10.5.jpg"
+    ],
+  "features": [
+    {
+      "label": "Material",
+      "value": "Polyester"
+    },
+    {
+      "label": "Installation",
+      "value": "Latch"
+    }, 
+    {
+      "label": "Forward-facing Weight",
+      "value": "26.5-65 Pounds"
+    },
+    {
+      "label": "Harness Type",
+      "value": "5-Point"
+    },
+    {
+      "label": "Recline Positions",
+      "value": "10"
+    }
+  ],
+  "available_colors": 10,
+  "size": false,
+  "available_size": 0,
+  "badge": true,
+  "badges": [
+    "Amazon's Choice" 
+  ],
+  "value": false,
+  "values": [
+    "$249.99"
+  ],
+  "review": false,
+  "reviews": [
+    "4.8 out of 5 stars — 61,895 ratings"
+  ],
+  "discount": false,
+  "discount_percentage": 0,
+  "checkPriceLink": "https://www.amazon.com/dp/B0DHLQMWW7?tag=bestbabygears-20",
+  "ASIN": "B0DHLQMWW7"
+}
+]

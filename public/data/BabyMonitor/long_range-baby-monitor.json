@@ -1,0 +1,584 @@
+[
+  {
+    "id": "best-long-range-baby-monitors",
+    "rank": 1,
+    "title": "Jartoo 2K Video Baby Monitor with Camera and Audio, 1860ft Long Range Baby Monitor No WiFi 5.5\" FHD Screen ANC Baby Camera Wireless, Feeding Clock, Night Vision, 2-Way Talk, AI Cry Detect, 6000mAh",
+    "brand": "Jartoo",
+    "rating": 3.8,
+    "price": "$149.99",
+    "amazon_link": "YOUR_AFFILIATE_LINK",
+    "monthly_purchases": "100+",
+        "images": [
+      "/images/long1.1.jpg",
+      "/images/long1.2.jpg",
+      "/images/long1.3.jpg",
+      "/images/long1.4.jpg",
+      "/images/long1.5.jpg"
+    ],
+    "features": [ 
+      {
+        "label": "Range",
+        "value": "1860 ft"
+      },
+      {
+        "label": "Two-Way Talk",
+        "value": "Yes"
+      },  
+      {
+        "label": "Monitor Screen",
+        "value": "5.5\" FHD IPS LCD"
+      }, 
+      {
+        "label": "AI Cry Detection",
+        "value": "Yes"
+      },
+      {
+        "label": "Lullabies",
+        "value": "4 built-in lullabies"
+      }
+    ],
+    "available_colors": 1,
+    "size": false,
+    "available_size": 0,
+    "style": false,
+    "available_style": 0,
+    "badge": false,
+    "badges": [],
+    "value": false,
+    "values": [],
+    "review": false,
+    "reviews": [
+      "3.8 out of 5 stars — 261 ratings"
+    ],
+    "discount": true,
+    "discounts": "5% off",
+    "compareLink": "https://www.example.com/compare-baby-monitor",
+    "checkPriceLink": "https://www.amazon.com/dp/B0D3HQMRFT?tag=bestbabygears-20",
+    "ASIN": "B0D3HQMRFT"
+  },
+  {
+    "id": "momcozy-video-baby-monitor-1080p-bm01",
+    "rank": 2,
+    "title": "Momcozy Video Baby Monitor, 1080P 5\" HD Baby Monitor with Camera & Wall Mount, Infrared Night Vision, 5000mAh Battery, 2-Way Audio, Temperature Sensor, Lullabies, 960ft Range, Ideal for New Moms, BM01",
+    "brand": "Momcozy",
+    "rating": 4.3,
+    "price": "$104.49",
+    "amazon_link": "YOUR_AFFILIATE_LINK",
+    "monthly_purchases": "2K+",
+           "images": [
+      "/images/long2.1.jpg",
+      "/images/long2.2.jpg",
+      "/images/long2.3.jpg",
+      "/images/long2.4.jpg",
+      "/images/long2.5.jpg"
+    ],
+    "features": [ 
+      {
+        "label": "Range",
+        "value": "960 ft"
+      },
+      {
+        "label": "Two-Way Talk",
+        "value": "Yes"
+      },
+      {
+        "label": "Battery Life",
+        "value": "5000mAh "
+      }, 
+      {
+        "label": "Monitor Screen",
+        "value": "5\" HD display"
+      },  
+      {
+        "label": "Lullabies",
+        "value": "Yes"
+      }
+    ],
+    "available_colors": 1,
+    "size": false,
+    "available_size": 0,
+    "style": false,
+    "available_style": 0,
+    "badge": true,
+    "badges": [
+      "Amazon's Choice"
+    ],
+    "value": false,
+    "values": [],
+    "review": false,
+    "reviews": [
+      "4.3 out of 5 stars — 888 ratings"
+    ],
+    "discount": true,
+    "discounts": "25% off",
+    "compareLink": "https://www.example.com/compare-baby-monitor",
+    "checkPriceLink": "https://www.amazon.com/dp/B0BG83KWQT?tag=bestbabygears-20",
+    "ASIN": "B0BG83KWQT"
+  },
+  {
+    "id": "vtech-vm924-baby-monitor",
+    "rank": 3,
+    "title": "VTech VM924 Remote Pan-Tilt-Zoom Video Baby Monitor, 5\" LCD Screen, Up to 17 Hrs Video Streaming, Night Vision, Up to 1000ft Range, Soothing Sounds, 2-Way Talk, Temperature Sensor, Secured Transmission",
+    "brand": "VTech",
+    "rating": 4.2,
+    "price": "$59.95",
+    "amazon_link": "YOUR_AFFILIATE_LINK",
+    "monthly_purchases": "1K+",
+            "images": [
+      "/images/long3.1.jpg",
+      "/images/long3.2.jpg",
+      "/images/long3.3.jpg",
+      "/images/long3.4.jpg",
+      "/images/long3.5.jpg"
+    ],
+    "features": [ 
+      {
+        "label": "Range",
+        "value": "1000 ft"
+      },
+      {
+        "label": "Two-Way Talk",
+        "value": "Yes"
+      },  
+      {
+        "label": "Monitor Screen",
+        "value": "5\" LCD"
+      }, 
+      {
+        "label": "Temperature Sensor",
+        "value": "Yes"
+      }, 
+      {
+        "label": "Alert Type",
+        "value": "Audio and Motion"
+      }
+    ],
+    "available_colors": 1,
+    "size": false,
+    "available_size": 0,
+    "style": true,
+    "available_style": 1,
+    "badge": true,
+    "badges": [
+      "Amazon's Choice"
+    ],
+    "value": false,
+    "values": [],
+    "review": false,
+    "reviews": [
+      "4.2 out of 5 stars — 3,680 ratings"
+    ],
+    "discount": true,
+    "discounts": "8% off",
+    "compareLink": "https://www.example.com/compare-baby-monitor",
+    "checkPriceLink": "https://www.amazon.com/dp/B09XDC296X?tag=bestbabygears-20",
+    "ASIN": "B09XDC296X"
+  },
+  {
+    "id": "hellobaby-6-inch-ips-baby-monitor",
+    "rank": 4,
+    "title": "HelloBaby Baby Monitor 6\" World First IPS Screen 30H Battery, Secure No WiFi, Pan Tilt Video Camera with Night Vision, VOX, 2-Way Talk, 1000ft, Portable Video Audio Monitor Ideal for Mom, Elderly, Pet",
+    "brand": "HelloBaby",
+    "rating": 4.5,
+    "price": "$59.99",
+    "amazon_link": "YOUR_AFFILIATE_LINK",
+    "monthly_purchases": "6K+",
+            "images": [
+      "/images/long4.1.jpg",
+      "/images/long4.2.jpg",
+      "/images/long4.3.jpg",
+      "/images/long4.4.jpg",
+      "/images/long4.5.jpg"
+    ],
+    "features": [ 
+      {
+        "label": "Range",
+        "value": "1000 ft"
+      },
+      {
+        "label": "Two-Way Talk",
+        "value": "Yes"
+      },
+      {
+        "label": "Battery Life",
+        "value": "16–30 hours"
+      }, 
+      {
+        "label": "Monitor Screen",
+        "value": "6\" IPS Screen"
+      },  
+      {
+        "label": "Alert Type",
+        "value": "VOX / Audio Only"
+      }
+    ],
+    "available_colors": 1,
+    "size": false,
+    "available_size": 0,
+    "style": true,
+    "available_style": 1,
+    "badge": true,
+    "badges": [
+      "Limited time deal"
+    ],
+    "value": false,
+    "values": [],
+    "review": false,
+    "reviews": [
+      "4.5 out of 5 stars — 1,078 ratings"
+    ],
+    "discount": true,
+    "discounts": "45% off",
+    "compareLink": "https://www.example.com/compare-baby-monitor",
+    "checkPriceLink": "https://www.amazon.com/dp/B0CYCDTZ6G?tag=bestbabygears-20",
+    "ASIN": "B0CYCDTZ6G"
+  },
+  {
+    "id": "kidsneed-720p-baby-monitor",
+    "rank": 5,
+    "title": "Baby Monitor with Camera and Audio – 720P Baby Camera No Wifi, 5 inch Screen,48 Hours Battery Life, Night Vision, Remote Pan& Tilt& Zoom，Two-Way Talk, Lullabies, Thermal Monitor, 1000ft Range",
+    "brand": "Kidsneed",
+    "rating": 4.2,
+    "price": "$29.99",
+    "amazon_link": "YOUR_AFFILIATE_LINK",
+    "monthly_purchases": "5K+",
+            "images": [
+      "/images/long5.1.jpg",
+      "/images/long5.2.jpg",
+      "/images/long5.3.jpg",
+      "/images/long5.4.jpg",
+      "/images/long5.5.jpg"
+    ],
+    "features": [
+      {
+        "label": "Range",
+        "value": "1000 ft"
+      },
+      {
+        "label": "Two-Way Talk",
+        "value": "Yes"
+      },
+      {
+        "label": "Battery Life",
+        "value": "48 hours (5000mAh)"
+      }, 
+      {
+        "label": "Monitor Screen",
+        "value": "5 inch LCD"
+      }, 
+      {
+        "label": "Temperature Sensor",
+        "value": "Yes, Thermal Monitor"
+      }
+    ],
+    "available_colors": 1,
+    "size": false,
+    "available_size": 0,
+    "style": true,
+    "available_style": 1,
+    "badge": true,
+    "badges": [
+      "#1 Best Seller"
+    ],
+    "value": false,
+    "values": [],
+    "review": false,
+    "reviews": [
+      "4.2 out of 5 stars — 7,117 ratings"
+    ],
+    "discount": true,
+    "discounts": "25% off",
+    "compareLink": "https://www.example.com/compare-baby-monitor",
+    "checkPriceLink": "https://www.amazon.com/dp/B0FG2RWD7Y?tag=bestbabygears-20",
+    "ASIN": "B0FG2RWD7Y"
+  },
+  {
+    "id": "hellobaby-hb6550-baby-monitor",
+    "rank": 6,
+    "title": "HelloBaby No WiFi Baby Monitor 5\" Screen 30-Hour Battery Pan-Tilt-Zoom Video Upgrade with Camera and Audio, Night Vision, VOX, 2-Way Talk, 8 Lullabies and 1000ft Range, HB6550",
+    "brand": "HelloBaby",
+    "rating": 4.5,
+    "price": "$67.99",
+    "amazon_link": "YOUR_AFFILIATE_LINK",
+    "monthly_purchases": "30K+",
+            "images": [
+      "/images/long6.1.jpg",
+      "/images/long6.2.jpg",
+      "/images/long6.3.jpg",
+      "/images/long6.4.jpg",
+      "/images/long6.5.jpg"
+    ],
+    "features": [ 
+      {
+        "label": "Screen Size",
+        "value": "5 inch color display"
+      },
+      {
+        "label": "Battery Life",
+        "value": "30 hours"
+      },  
+      {
+        "label": "Two-Way Audio",
+        "value": "Yes"
+      }, 
+      {
+        "label": "Temperature Sensor",
+        "value": "Yes, with alerts"
+      }, 
+      {
+        "label": "Alert Type",
+        "value": "VOX / Audio Only"
+      }
+    ],
+    "available_colors": 1,
+    "size": false,
+    "available_size": 0,
+    "style": true,
+    "available_style": 1,
+    "badge": true,
+    "badges": [
+      "#1 Best Seller"
+    ],
+    "value": false,
+    "values": [],
+    "review": false,
+    "reviews": [
+      "4.5 out of 5 stars — 14,956 ratings"
+    ],
+    "discount": true,
+    "discounts": "48% off",
+    "compareLink": "https://www.example.com/compare-baby-monitor",
+    "checkPriceLink": "https://www.amazon.com/dp/B09GM8JZM9?tag=bestbabygears-20",
+    "ASIN": "B09GM8JZM9"
+  },
+  {
+    "id": "hellobaby-5-inch-2-camera-baby-monitor",
+    "rank": 7,
+    "title": "HelloBaby Upgrade 5’’ Baby Monitor with 30-Hour Battery, 2 Cameras Pan-Tilt-Zoom, 1000ft Range Video Audio Baby Monitor No WiFi, VOX, Night Vision, 2-Way Talk, 8 Lullabies and Temperature",
+    "brand": "HelloBaby",
+    "rating": 4.5,
+    "price": "$109.99",
+    "amazon_link": "YOUR_AFFILIATE_LINK",
+    "monthly_purchases": "5K+",
+            "images": [
+      "/images/long7.1.jpg",
+      "/images/long7.2.jpg",
+      "/images/long7.3.jpg",
+      "/images/long7.4.jpg",
+      "/images/long7.5.jpg"
+    ],
+    "features": [  
+      {
+        "label": "Battery Life",
+        "value": "30 hours (ECO mode)"
+      }, 
+      {
+        "label": "Number of Cameras",
+        "value": 2
+      }, 
+      {
+        "label": "Two-Way Audio",
+        "value": "Yes"
+      }, 
+      {
+        "label": "Temperature Sensor",
+        "value": "Yes, with alerts"
+      }, 
+      {
+        "label": "Alert Type",
+        "value": "VOX / Audio Only"
+      }
+    ],
+    "available_colors": 1,
+    "size": false,
+    "available_size": 0,
+    "style": true,
+    "available_style": 1,
+    "badge": true,
+    "badges": [
+      "#1 Best Seller"
+    ],
+    "value": false,
+    "values": [],
+    "review": false,
+    "reviews": [
+      "4.5 out of 5 stars — 14,956 ratings"
+    ],
+    "discount": true,
+    "discounts": "39% off",
+    "compareLink": "https://www.example.com/compare-baby-monitor",
+    "checkPriceLink": "https://www.amazon.com/dp/B0C6Y89H47?tag=bestbabygears-20",
+    "ASIN": "B0C6Y89H47"
+  },
+  {
+    "id": "ifamily-5-inch-baby-monitor",
+    "rank": 8,
+    "title": "Family Baby Monitor - Large 5\" Screen with 30Hrs Battery Life - Remote Pan-Tilt-Zoom; No WiFi, Two-Way Audio, Night Vision, Temperature, Lullabies, 960ft Long Range Baby Monitor with Camera and Audio",
+    "brand": "iFamily",
+    "rating": 4.4,
+    "price": "$59.99",
+    "amazon_link": "YOUR_AFFILIATE_LINK",
+    "monthly_purchases": "500+",
+            "images": [
+      "/images/long8.1.jpg",
+      "/images/long8.2.jpg",
+      "/images/long8.3.jpg",
+      "/images/long8.4.jpg",
+      "/images/long8.5.jpg"
+    ],
+    "features": [  
+      {
+        "label": "Number of Cameras",
+        "value": 1
+      },
+      {
+        "label": "Night Vision",
+        "value": "Infrared LED"
+      },
+      {
+        "label": "Two-Way Audio",
+        "value": "Yes"
+      }, 
+      {
+        "label": "Alert Type",
+        "value": "Audio Only"
+      },
+      {
+        "label": "Range",
+        "value": "960 ft outdoors"
+      }
+    ],
+    "available_colors": 1,
+    "size": false,
+    "available_size": 0,
+    "style": true,
+    "available_style": 1,
+    "badge": false,
+    "badges": [],
+    "value": false,
+    "values": [],
+    "review": false,
+    "reviews": [
+      "4.4 out of 5 stars — 9,907 ratings"
+    ],
+    "discount": false,
+    "discounts": "",
+    "compareLink": "https://www.example.com/compare-baby-monitor",
+    "checkPriceLink": "https://www.amazon.com/dp/B0CP4SQ639?tag=bestbabygears-20",
+    "ASIN": "B0CP4SQ639"
+  },
+  {
+    "id": "goodbaby-5-inch-baby-monitor",
+    "rank": 9,
+    "title": "GoodBaby Baby Monitor with Camera and Audio - No WiFi, Remote Pan-Tilt-Zoom, Night Vision, Temperature Sensor, 2-Way Talk, 8 Lullabies, 30-Hour Battery Life, 960ft Long Range",
+    "brand": "GoodBaby",
+    "rating": 4.4,
+    "price": "$29.99",
+    "amazon_link": "YOUR_AFFILIATE_LINK",
+    "monthly_purchases": "5K+",
+            "images": [
+      "/images/long9.1.jpg",
+      "/images/long9.2.jpg",
+      "/images/long9.3.jpg",
+      "/images/long9.4.jpg",
+      "/images/long9.5.jpg"
+    ],
+    "features": [  
+      {
+        "label": "Number of Cameras",
+        "value": 1
+      },
+      {
+        "label": "Night Vision",
+        "value": "Infrared LED, 8 IR LEDs"
+      },
+      {
+        "label": "Two-Way Audio",
+        "value": "Yes"
+      }, 
+      {
+        "label": "Temperature Sensor",
+        "value": "Yes, with alerts"
+      },
+      {
+        "label": "Range",
+        "value": "960 ft outdoors"
+      }
+    ],
+    "available_colors": 1,
+    "size": false,
+    "available_size": 0,
+    "style": true,
+    "available_style": 1,
+    "badge": true,
+    "badges": ["Amazon's Choice"],
+    "value": false,
+    "values": [],
+    "review": false,
+    "reviews": [
+      "4.4 out of 5 stars — 13,997 ratings"
+    ],
+    "discount": true,
+    "discounts": "40% off",
+    "compareLink": "https://www.example.com/compare-baby-monitor",
+    "checkPriceLink": "https://www.amazon.com/dp/B0DX78K8ZZ?tag=bestbabygears-20",
+    "ASIN": "B0DX78K8ZZ"
+  },
+  {
+    "id": "vtech-upgraded-audio-baby-monitor",
+    "rank": 10,
+    "title": "VTech Upgraded Audio Baby Monitor with Rechargeable Battery, Long Range, and Crystal-Clear Sound",
+    "brand": "VTech",
+    "rating": 4.4,
+    "price": "$23.95",
+    "amazon_link": "YOUR_AFFILIATE_LINK",
+    "monthly_purchases": "10K+",
+            "images": [
+      "/images/long10.1.jpg",
+      "/images/long10.2.jpg",
+      "/images/long10.3.jpg",
+      "/images/long10.4.jpg",
+      "/images/long10.5.jpg"
+    ],
+    "features": [
+      {
+        "label": "Monitor Type",
+        "value": "Audio Only"
+      }, 
+      {
+        "label": "Two-Way Audio",
+        "value": "Yes"
+      },
+      {
+        "label": "Range",
+        "value": "1000 ft"
+      }, 
+      {
+        "label": "Volume Control",
+        "value": "Yes"
+      }, 
+      {
+        "label": "Number of Channels",
+        "value": 1
+      }
+    ],
+    "available_colors": ["Yellow"],
+    "size": true,
+    "available_size": 1,
+    "style": true,
+    "available_style": 2,
+    "badge": true,
+    "badges": ["Amazon's Choice"],
+    "value": false,
+    "values": [],
+    "review": false,
+    "reviews": [
+      "4.4 out of 5 stars — 48,104 ratings"
+    ],
+    "discount": false,
+    "discounts": "",
+    "compareLink": "https://www.example.com/compare-baby-monitor",
+    "checkPriceLink": "https://www.amazon.com/dp/B00JEV5UI8?tag=bestbabygears-20",
+    "ASIN": "B00JEV5UI8"
+  }
+]

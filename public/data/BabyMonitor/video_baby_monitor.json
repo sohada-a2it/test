@@ -1,0 +1,578 @@
+[
+    { 
+
+  "id": "Best Video Baby Monitors",
+  "rank": 1,
+  "title": "HelloBaby No WiFi Baby Monitor 5\" Screen 30-Hour Battery Pan-Tilt-Zoom Video Upgrade with Camera and Audio, Night Vision, VOX, 2-Way Talk, 8 Lullabies and 1000ft Range, HB6550",
+  "brand": "HelloBaby",
+  "rating": 4.5,
+  "price": "$67.99",
+  "amazon_link": "YOUR_AFFILIATE_LINK",
+  "monthly_purchases": "30K+",
+            "images": [
+      "/images/long6.1.jpg",
+      "/images/long6.2.jpg",
+      "/images/long6.3.jpg",
+      "/images/long6.4.jpg",
+      "/images/long6.5.jpg"
+    ],
+  "features": [
+    {
+      "label": "Video Resolution",
+      "value": " Infrared Night Vision"
+    }, 
+    {
+      "label": "Battery Life",
+      "value": "30-hour battery life "
+    },
+    {
+      "label": "Audio & Communication",
+      "value": " Cry Detection"
+    }, 
+    {
+      "label": "Lullabies & Alerts",
+      "value": "8 Lullabies "
+    },
+    {
+      "label": "Security",
+      "value": "Hack-proof "
+    }
+  ],
+  "available_colors": ["HB6550"],
+  "size": true,
+  "available_size": 1,
+  "available_style": [
+    "HB6550",
+    "HB6550-2",
+    "HB6550-3",
+    "HB6550-4"
+  ],
+  "badge": true,
+  "badges": ["#1 Best Seller" ],
+  "value": false,
+  "values": [],
+  "review": false,
+  "reviews": [
+    "4.5 out of 5 stars — 14,957 ratings"
+  ],
+  "discount": true,
+  "discounts": "48% off ",
+  "compareLink": "https://www.example.com/compare-baby-monitor",
+  "checkPriceLink": "https://www.amazon.com/dp/B09GM8JZM9?tag=bestbabygears-20",
+  "ASIN": "B09GM8JZM9"
+}
+,
+{
+"id": "owltron-indoor-security-camera-2k",
+  "rank": 2,
+  "title": "Owltron Indoor Security Camera 2K, 2.4GHz WiFi Cameras for Home Security Baby Monitor Camera with Motion/Cry Detection, Pet & Dog Cam with Phone App, Night Vision, 2-Way Audio, Works with Alexa",
+  "brand": "Owltron",
+  "rating": 4.4,
+  "price": "$24.99",
+  "amazon_link": "YOUR_AFFILIATE_LINK",
+  "monthly_purchases": "No data available",
+          "images": [
+      "/images/video2.1.jpg",
+      "/images/video2.2.jpg",
+      "/images/video2.3.jpg",
+      "/images/video2.4.jpg",
+      "/images/video2.5.jpg"
+    ],
+  "features": [
+    {
+      "label": "Video Resolution",
+      "value": "2K Full HD (2304 x 1296)"
+    },
+    {
+      "label": "Zoom",
+      "value": "3X digital zoom"
+    }, 
+    {
+      "label": "Motion & Cry Detection",
+      "value": "Instan detection alerts "
+    }, 
+    {
+      "label": "Alexa Integration",
+      "value": "Voice-controlled live feed"
+    }, 
+    {
+      "label": "Security Features",
+      "value": "Security and peace of mind"
+    }
+  ],
+  "available_colors": ["White"],
+  "size": true,
+  "available_size": 1,
+  "available_style": [],
+  "badge": true,
+  "badges": ["Amazon's Choice"],
+  "value": false,
+  "values": [],
+  "review": false,
+  "reviews": [
+    "4.4 out of 5 stars — 63 ratings"
+  ],
+  "discount": false,
+  "discounts": "",
+  "compareLink": "https://www.example.com/compare-security-cameras",
+  "checkPriceLink": "https://www.amazon.com/dp/B0CQ2G5XDY?tag=bestbabygears-20",
+  "ASIN": "B0CQ2G5XDY"
+}
+,
+{
+    "id": "nooie-baby-monitor",
+  "rank": 3,
+  "title": "TP-Link Tapo 2K Pan/Tilt Security Camera for Baby Monitor, Dog Camera w/Motion Detection, 2-Way Audio, Siren, Night Vision, Cloud & SD Card Storage, Works with Alexa & Google Home, 2-Pack (C210P2)",
+  "brand": "TP-Link",
+  "rating": 4.5,
+  "price": "$36.99",
+  "amazon_link": "YOUR_AFFILIATE_LINK",
+  "monthly_purchases": "6K+ ",
+            "images": [
+      "/images/video3.1.jpg",
+      "/images/video3.2.jpg",
+      "/images/video3.3.jpg",
+      "/images/video3.4.jpg",
+      "/images/video3.5.jpg"
+    ],
+  "features": [
+    {
+      "label": "Video Resolution",
+      "value": "2K High Definition (1296p)"
+    },
+    {
+      "label": "Pan/Tilt Range",
+      "value": "360° and 114° range"
+    },  
+    {
+      "label": "Night Vision",
+      "value": "30 feet of night vision "
+    }, 
+    {
+      "label": "Storage Options",
+      "value": "Supports Cloud and SD card storage "
+    },
+    {
+      "label": "Device Sharing",
+      "value": "Allows multiple users "
+    }
+  ],
+  "available_colors": ["White", "Black"],
+  "size": true,
+  "available_size": 2,
+  "available_style": ["Indoor Only"],
+  "badge": true,
+  "badges": ["Amazon's Choice"],
+  "value": false,
+  "values": [],
+  "review": false,
+  "reviews": [
+    "4.5 out of 5 stars — 17,037 ratings"
+  ],
+  "discount": true,
+  "discounts": "26% off ",
+  "compareLink": "https://www.example.com/compare-security-cameras",
+  "checkPriceLink": "https://www.amazon.com/dp/B09Y8C185M?tag=bestbabygears-20",
+  "ASIN": "B09Y8C185M"
+}
+,
+{
+    "id": "momcozy-smart-wifi",
+  "rank": 4,
+  "title": "Nooie Baby Monitor WiFi Smartphone 2K Baby Monitor with Night Vision Baby Camera Indoor, 360-degree Motion Tracking, Works with Alexa, Two-Way Audio, Motion & Sound Detection, SD Card or Cloud",
+  "brand": "Nooie",
+  "rating": 4.1,
+  "price": "$27.99",
+  "amazon_link": "YOUR_AFFILIATE_LINK",
+  "monthly_purchases": "200+ ",
+            "images": [
+      "/images/video4.1.jpg",
+      "/images/video4.2.jpg",
+      "/images/video4.3.jpg",
+      "/images/video4.4.jpg",
+      "/images/video4.5.jpg"
+    ],
+  "features": [
+    {
+      "label": "Video Resolution",
+      "value": "2K HD (1440p)"
+    }, 
+    {
+      "label": "Motion Tracking",
+      "value": "AI-powered motion "
+    },
+    {
+      "label": "Night Vision",
+      "value": "Clear night vision "
+    },
+    {
+      "label": "Alerts & Communication",
+      "value": "Motion and sound alerts "
+    },  
+    {
+      "label": "Design & Installation",
+      "value": "Multiple mounting options "
+    }
+  ],
+  "available_colors": ["White"],
+  "size": true,
+  "available_size": 1,
+  "available_style": ["1 pack"],
+  "badge": true,
+  "badges": ["Amazon's Choice"],
+  "value": false,
+  "values": [],
+  "review": false,
+  "reviews": [
+    "4.1 out of 5 stars — 18,792 ratings"
+  ],
+  "discount": true,
+  "discounts": "7% off ",
+  "compareLink": "https://www.example.com/compare-security-cameras",
+  "checkPriceLink": "https://www.amazon.com/dp/B07PJ67CKC?tag=bestbabygears-20",
+  "ASIN": "B07PJ67CKC"
+}
+,
+{
+    "id": "ifamily-baby-monitor",
+  "rank": 5,
+  "title": "Momcozy Smart WiFi Baby Monitor with Camera and Audio, 5\" 1080P Screen with Wall Mount, Motion & Cry Detection, Safe Fence, Clear Night Vision, 5000mAh Battery, 2-Way Talk, Photo & Video Recording",
+  "brand": "Momcozy",
+  "rating": 4.2,
+  "price": "$147.24",
+  "amazon_link": "YOUR_AFFILIATE_LINK",
+  "monthly_purchases": "1K+ ",
+            "images": [
+      "/images/video5.1.jpg",
+      "/images/video5.2.jpg",
+      "/images/video5.3.jpg",
+      "/images/video5.4.jpg",
+      "/images/video5.5.jpg"
+    ],
+  "features": [
+    {
+      "label": "Screen Size",
+      "value": "5-inch 1080p Display"
+    },
+    {
+      "label": "Video Resolution",
+      "value": "1080p HD"
+    },
+    {
+      "label": "Connectivity",
+      "value": "Wi-Fi, FHSS"
+    },
+    {
+      "label": "Battery Life",
+      "value": "5000mAh Battery"
+    }, 
+    {
+      "label": "Mounting Options",
+      "value": "Wall Mount included"
+    }
+  ],
+  "available_colors": ["White"],
+  "size": true,
+  "available_size": 1,
+  "available_style": ["BM04 with 1 Camera"],
+  "badge": true,
+  "badges": ["Amazon's Choice"],
+  "value": false,
+  "values": [],
+  "review": false,
+  "reviews": [
+    "4.2 out of 5 stars — 285 ratings"
+  ],
+  "discount": true,
+  "discounts": "13% off ",
+  "compareLink": "https://www.example.com/compare-security-cameras",
+  "checkPriceLink": "https://www.amazon.com/dp/B0DQXPWHSK?tag=bestbabygears-20",
+  "ASIN": "B0DQXPWHSK"
+}
+,
+{
+    "id": "vtech-vm819",
+  "rank": 6,
+  "title": "iFamily Baby Monitor - Large 5\" Screen with 30Hrs Battery Life - Remote Pan-Tilt-Zoom; No WiFi, Two-Way Audio, Night Vision, Temperature, Lullabies, 960ft Long Range Baby Monitor with Camera and Audio",
+  "brand": "iFamily",
+  "rating": 4.4,
+  "price": "$59.99",
+  "amazon_link": "YOUR_AFFILIATE_LINK",
+  "monthly_purchases": "500+ ",
+            "images": [
+      "/images/video6.1.jpg",
+      "/images/video6.2.jpg",
+      "/images/video6.3.jpg",
+      "/images/video6.4.jpg",
+      "/images/video6.5.jpg"
+    ],
+  "features": [
+    {
+      "label": "Screen Size",
+      "value": "5-inch large display"
+    },
+    {
+      "label": "Battery Life",
+      "value": "30 hours of battery life"
+    },
+    {
+      "label": "Camera Control",
+      "value": "Remote Pan-Tilt-Zoom"
+    },    
+    {
+      "label": "Lullabies",
+      "value": "Instant-play lullabies"
+    },
+    {
+      "label": "Range",
+      "value": "960ft long range"
+    }
+  ],
+  "available_colors": ["White"],
+  "size": true,
+  "available_size": 1,
+  "available_style": ["1 Camera"],
+  "badge": true,
+  "badges": ["Amazon's Choice"],
+  "value": false,
+  "values": [],
+  "review": false,
+  "reviews": [
+    "4.4 out of 5 stars — 9,907 ratings"
+  ],
+  "discount": false,
+  "discounts": "",
+  "compareLink": "https://www.example.com/compare-security-cameras",
+  "checkPriceLink": "https://www.amazon.com/dp/B0CP4SQ639?tag=bestbabygears-20",
+  "ASIN": "B0CP4SQ639"
+}
+,
+{
+    "id": "jartoo-2k-monitor",
+  "rank": 7,
+  "title": "VTech VM819 Baby Monitor with Camera and Audio, 2.8” Screen Portable Baby Camera, Night Vision, 2-Way Audio, Temperature Sensor and Lullabies, Secure Transmission No WiFi, Ideal for Baby/Elderly/Pet",
+  "brand": "VTech",
+  "rating": 4.5,
+  "price": "$40.95",
+  "amazon_link": "YOUR_AFFILIATE_LINK",
+  "monthly_purchases": "10K+ ",
+            "images": [
+      "/images/video7.1.jpg",
+      "/images/video7.2.jpg",
+      "/images/video7.3.jpg",
+      "/images/video7.4.jpg",
+      "/images/video7.5.jpg"
+    ],
+  "features": [
+    {
+      "label": "Screen Size",
+      "value": "2.8-inch display"
+    }, 
+    {
+      "label": "Zoom",
+      "value": "2x digital zoom"
+    }, 
+    {
+      "label": "Two-Way Audio",
+      "value": "Supports two-way communication"
+    }, 
+    {
+      "label": "Temperature Sensor",
+      "value": "Built-in sensor with alerts"
+    },
+    {
+      "label": "Range",
+      "value": "Up to 1,000 feet"
+    }
+  ],
+  "available_colors": ["White"],
+  "size": true,
+  "available_size": 1,
+  "available_style": ["2.8\" fixed cam"],
+  "badge": true,
+  "badges": ["Amazon's Choice"],
+  "value": false,
+  "values": [],
+  "review": false,
+  "reviews": [
+    "4.5 out of 5 stars — 17,827 ratings"
+  ],
+  "discount": true,
+  "discounts": "15% off",
+  "compareLink": "https://www.example.com/compare-security-cameras",
+  "checkPriceLink": "https://www.amazon.com/dp/B08V8RWP3W?tag=bestbabygears-20",
+  "ASIN": "B08V8RWP3W"
+}
+,
+{
+    "id": "arlo-essential-2k",
+  "rank": 8,
+  "title": "Jartoo 2K Video Baby Monitor with Camera and Audio, 1860ft Long Range Baby Monitor No WiFi 5.5\" FHD Screen ANC Baby Camera Wireless, Feeding Clock, Night Vision, 2-Way Talk, AI Cry Detect, 6000mAh",
+  "brand": "Jartoo",
+  "rating": 3.8,
+  "price": "$149.99",
+  "amazon_link": "YOUR_AFFILIATE_LINK",
+  "monthly_purchases": "100+ ",
+            "images": [
+      "/images/video8.1.jpg",
+      "/images/video8.2.jpg",
+      "/images/video8.3.jpg",
+      "/images/video8.4.jpg",
+      "/images/video8.5.jpg"
+    ],
+  "features": [
+    {
+      "label": "Screen Size",
+      "value": "5.5-inch FHD IPS LCD"
+    },
+    {
+      "label": "Camera Resolution",
+      "value": "2K resolution"
+    },
+    {
+      "label": "Long Range",
+      "value": "3000ft long range without Wi-Fi"
+    }, 
+    {
+      "label": "Cry Detection",
+      "value": "AI-powered cry detection"
+    },   
+    {
+      "label": "Lullabies",
+      "value": "4 soothing lullabies"
+    }
+  ],
+  "available_colors": ["White"],
+  "size": true,
+  "available_size": 1,
+  "available_style": ["5.5\" with 1 Camera"],
+  "badge": false,
+  "badges": [],
+  "value": false,
+  "values": [],
+  "review": false,
+  "reviews": [
+    "3.8 out of 5 stars — 261 ratings"
+  ],
+  "discount": true,
+  "discounts": "5% off with coupon",
+  "compareLink": "https://www.example.com/compare-baby-monitors",
+  "checkPriceLink": "https://www.amazon.com/dp/B0D3HQMRFT?tag=bestbabygears-20",
+  "ASIN": "B0D3HQMRFT"
+}
+,{
+    "id": "anmeate-video-monitor",
+  "rank": 9,
+  "title": "Arlo Essential Security Camera 2K | Indoor Only| 2nd Gen | Baby Monitor & Pet Camera | Wired Automated Privacy Shield, 2-Way Audio, Night Vision, Live Stream, Motion Alerts & Notifications White, 1 Cam",
+  "brand": "Arlo",
+  "rating": 4.2,
+  "price": "$27.99",
+  "amazon_link": "YOUR_AFFILIATE_LINK",
+  "monthly_purchases": "500+  ",
+            "images": [
+      "/images/video9.1.jpg",
+      "/images/video9.2.jpg",
+      "/images/video9.3.jpg",
+      "/images/video9.4.jpg",
+      "/images/video9.5.jpg"
+    ],
+  "features": [
+    {
+      "label": "Screen Quality",
+      "value": "2K Video Quality (1440p)"
+    },
+    {
+      "label": "Connectivity",
+      "value": "Wi-Fi (2.4GHz)"
+    },
+    {
+      "label": "Field of View",
+      "value": "130°"
+    } ,
+    {
+      "label": "Motion Detection",
+      "value": "Motion activated notifications"
+    },
+    {
+      "label": "Night Vision",
+      "value": "Black and white night vision"
+    }  
+  ],
+  "available_colors": ["White"],
+  "size": true,
+  "available_size": 1,
+  "available_style": ["2K Indoor 2nd Gen"],
+  "badge": false,
+  "badges": [],
+  "value": false,
+  "values": [],
+  "review": false,
+  "reviews": [
+    "4.2 out of 5 stars — 1,336 ratings"
+  ],
+  "discount": true,
+  "discounts": "7% off ",
+  "compareLink": "https://www.example.com/compare-baby-monitors",
+  "checkPriceLink": "https://www.amazon.com/dp/B0C67QCTFV?tag=bestbabygears-20",
+  "ASIN": "B0C67QCTFV"
+}
+,
+{
+    "id": "Digital 2.4Ghz Wireless Video",
+  "rank": 10,
+  "title": "ANMEATE Video Baby Monitor with Digital Camera, Digital 2.4Ghz Wireless Video Monitor with Temperature Monitor, 960ft Transmission Range, 2-Way Talk, Night Vision, High Capacity Battery (1 Camera)",
+  "brand": "ANMEATE",
+  "rating": 4.4,
+  "price": "$49.99",
+  "amazon_link": "YOUR_AFFILIATE_LINK",
+  "monthly_purchases": "300+",
+            "images": [
+      "/images/video10.1.jpg",
+      "/images/video10.2.jpg",
+      "/images/video10.3.jpg",
+      "/images/video10.4.jpg",
+      "/images/video10.5.jpg"
+    ],
+  "features": [  
+    {
+      "label": "Temperature Monitoring",
+      "value": "Built-in temperature monitoring"
+    },
+    {
+      "label": "Transmission Range",
+      "value": "960ft transmission range"
+    },
+    {
+      "label": "Two-Way Audio",
+      "value": "2-way audio for communication"
+    },
+    {
+      "label": "Battery Life",
+      "value": " 950mAh Li-ion battery"
+    }, 
+    {
+      "label": "Mounting Options",
+      "value": "Tabletop or wall mounting"
+    }
+  ],
+  "available_colors": ["White"],
+  "size": true,
+  "available_size": 1,
+  "available_style": ["1 Camera"],
+  "badge": false,
+  "badges": [],
+  "value": false,
+  "values": [],
+  "review": false,
+  "reviews": [
+    "4.4 out of 5 stars — 22,928 ratings"
+  ],
+  "discount": false,
+  "compareLink": "https://www.example.com/compare-baby-monitors",
+  "checkPriceLink": "https://www.amazon.com/dp/B07FSLSL1K?tag=bestbabygears-20",
+  "ASIN": "B07FSLSL1K"
+}
+
+
+
+]
